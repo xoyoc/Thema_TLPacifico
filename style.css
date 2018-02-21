@@ -1,11 +1,11 @@
 /*
-	Theme Name: HTML5 Blank
-	Theme URI: http://html5blank.com
-	Description: HTML5 Blank WordPress Theme
-	Version: 1.4.3
-	Author: Todd Motto (@toddmotto)
-	Author URI: http://toddmotto.com
-	Tags: Blank, HTML5, CSS3
+	Theme Name: TL Pacifico
+	Theme URI: http://www.tlpacifico.com.mx
+	Description: Empresa de logistica 
+	Version: 1.0.0
+	Author: Xol / Xoyoc.net
+	Author URI: http://www.mixoestudio.com
+	Tags: comercio, logistica, internacional
 
 	License: MIT
 	License URI: http://opensource.org/licenses/mit-license.php
@@ -15,293 +15,476 @@
     MAIN
 \*------------------------------------*/
 
-/* global box-sizing */
-*,
-*:after,
-*:before {
-	-moz-box-sizing:border-box;
-	box-sizing:border-box;
-	-webkit-font-smoothing:antialiased;
-	font-smoothing:antialiased;
-	text-rendering:optimizeLegibility;
-}
-/* html element 62.5% font-size for REM use */
-html {
-	font-size:62.5%;
-}
-body {
-	font:300 11px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color:#444;
-}
-/* clear */
-.clear:before,
-.clear:after {
-    content:' ';
-    display:table;
+
+.textoMayusculas{
+	text-transform: uppercase;
 }
 
-.clear:after {
-    clear:both;
-}
-.clear {
-    *zoom:1;
-}
-img {
-	max-width:100%;
-	vertical-align:bottom;
-}
-a {
-	color:#444;
-	text-decoration:none;
-}
-a:hover {
-	color:#444;
-}
-a:focus {
-	outline:0;
-}
-a:hover,
-a:active {
-	outline:0;
-}
-input:focus {
-	outline:0;
-	border:1px solid #04A4CC;
+.textoBlanco{
+	color:white;
 }
 
-/*------------------------------------*\
-    STRUCTURE
-\*------------------------------------*/
-
-/* wrapper */
-.wrapper {
-	max-width:1280px;
-	width:95%;
-	margin:0 auto;
-	position:relative;
-}
-/* header */
-.header {
-
-}
-/* logo */
-.logo {
-
-}
-.logo-img {
-
-}
-/* nav */
-.nav {
-
-}
-/* sidebar */
-.sidebar {
-
-}
-/* footer */
-.footer {
-
+.textoIzq{
+	float: left;
 }
 
-/*------------------------------------*\
-    PAGES
-\*------------------------------------*/
-
-
-
-/*------------------------------------*\
-    IMAGES
-\*------------------------------------*/
-
-
-
-/*------------------------------------*\
-	TYPOGRAPHY
-\*------------------------------------*/
-
-@font-face {
-	font-family:'Font-Name';
-	src:url('fonts/font-name.eot');
-	src:url('fonts/font-name.eot?#iefix') format('embedded-opentype'),
-		url('fonts/font-name.woff') format('woff'),
-		url('fonts/font-name.ttf') format('truetype'),
-		url('fonts/font-name.svg#font-name') format('svg');
-    font-weight:normal;
-    font-style:normal;
+.textoDer{
+	float: right;
 }
 
-/*------------------------------------*\
-    RESPONSIVE
-\*------------------------------------*/
-
-@media only screen and (min-width:320px) {
-
-}
-@media only screen and (min-width:480px) {
-
-}
-@media only screen and (min-width:768px) {
-
-}
-@media only screen and (min-width:1024px) {
-
-}
-@media only screen and (min-width:1140px) {
-
-}
-@media only screen and (min-width:1280px) {
-
-}
-@media only screen and (-webkit-min-device-pixel-ratio:1.5),
-	   only screen and (min-resolution:144dpi) {
-
+.textoBold{
+	font-weight: bold;
 }
 
-/*------------------------------------*\
-    MISC
-\*------------------------------------*/
-
-::selection {
-	background:#04A4CC;
-	color:#FFF;
-	text-shadow:none;
-}
-::-webkit-selection {
-	background:#04A4CC;
-	color:#FFF;
-	text-shadow:none;
-}
-::-moz-selection {
-	background:#04A4CC;
-	color:#FFF;
-	text-shadow:none;
+.textoCenter{
+	text-align: center;
 }
 
-/*------------------------------------*\
-    WORDPRESS CORE
-\*------------------------------------*/
-
-.alignnone {
-	margin:5px 20px 20px 0;
-}
-.aligncenter,
-div.aligncenter {
-	display:block;
-	margin:5px auto 5px auto;
-}
-.alignright {
-	float:right;
-	margin:5px 0 20px 20px;
-}
-.alignleft {
-	float:left;
-	margin:5px 20px 20px 0;
-}
-a img.alignright {
-	float:right;
-	margin:5px 0 20px 20px;
-}
-a img.alignnone {
-	margin:5px 20px 20px 0;
-}
-a img.alignleft {
-	float:left;
-	margin:5px 20px 20px 0;
-}
-a img.aligncenter {
-	display:block;
-	margin-left:auto;
-	margin-right:auto;
-}
-.wp-caption {
-	background:#FFF;
-	border:1px solid #F0F0F0;
-	max-width:96%;
-	padding:5px 3px 10px;
-	text-align:center;
-}
-.wp-caption.alignnone {
-	margin:5px 20px 20px 0;
-}
-.wp-caption.alignleft {
-	margin:5px 20px 20px 0;
-}
-.wp-caption.alignright {
-	margin:5px 0 20px 20px;
-}
-.wp-caption img {
-	border:0 none;
-	height:auto;
-	margin:0;
-	max-width:98.5%;
-	padding:0;
-	width:auto;
-}
-.wp-caption .wp-caption-text,
-.gallery-caption {
-	font-size:11px;
-	line-height:17px;
-	margin:0;
-	padding:0 4px 5px;
-}
-.sticky {
-
-}
-.bypostauthor {
-
+.textoJustificado{
+	text-align: justify;
 }
 
-/*------------------------------------*\
-    PRINT
-\*------------------------------------*/
+.idioma{
+	margin-top: 1em;
+	margin-right: 1.5em;
+}
 
-@media print {
-	* {
-		background:transparent !important;
-		color:#000 !important;
-		box-shadow:none !important;
-		text-shadow:none !important;
-	}
-	a,
-	a:visited {
-		text-decoration:underline;
-	}
-	a[href]:after {
-		content:" (" attr(href) ")";
-	}
-	abbr[title]:after {
-		content:" (" attr(title) ")";
-	}
-	.ir a:after,
-	a[href^="javascript:"]:after,
-	a[href^="#"]:after {
-		content:"";
-	}
-	pre,blockquote {
-		border:1px solid #999;
-		page-break-inside:avoid;
-	}
-	thead {
-		display:table-header-group;
-	}
-	tr,img {
-		page-break-inside:avoid;
-	}
-	img {
-		max-width:100% !important;
-	}
-	@page {
-		margin:0.5cm;
-	}
-	p,
-	h2,
-	h3 {
-		orphans:3;
-		widows:3;
-	}
-	h2,
-	h3 {
-		page-break-after:avoid;
-	}
+.tituloQuienes{
+	font-size: 2.5em !important;
+	margin-left: .5em !important;	
+}
+
+.tituloEslogan{
+	font-size: 3em !important;
+	font-weight: bold;
+}
+
+.tituloGris{
+	font-weight: bold;
+	color:#4D4D4D;
+	margin-left: 2em;
+}
+
+.linkgris{
+	color:#4D4D4D;
+}
+
+.linkgris:hover{
+	color:#F01931;
+}
+
+.puntosAviso{
+	color: #832129;
+}
+
+
+.g-bg-color--sky-light {
+  background-color: white !important;
+}
+
+
+.imagenLogNav{
+	width: 8em;
+}
+
+.imagenLogNavL{
+	width: 12em;
+	margin:1.5em 0;
+}
+
+.centradoIconos{
+	align-items: center;
+}
+
+.colm-flex{
+	width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media (min-width: 62em) {
+  .g-container--md {
+    width: 80% !important;
+  }
+}
+
+.imgAsoc{
+	width: 10em;
+}
+
+.g-color--red{
+	color:#F01931 !important;
+}
+
+.subtituloGris{
+	font-weight: bold;
+	color:#4D4D4D;	
+}
+
+.s-btn--red-brd{
+	margin-left: 40%;
+	margin-top: 4em;
+	color: white;
+	background: #F01931;
+	border-width: 0.0625rem;
+	border-style: solid;
+	border-color: #F01931;
+}
+
+.sinPaddingBottom{
+	padding-bottom: 0;
+}
+
+.logotiposCorporativo{
+	width: 90%;
+}
+
+.iconosServicios{
+    width: 50%;
+    margin: 1em auto;
+    padding: 1em .5em;
+}
+
+.parrafoServicios{
+	font-size: .7em;
+    text-align: justify;
+}
+
+.iconosServicios2{
+	width: 10em;
+    float: left;
+    padding-bottom: 7em;
+    margin-right: 1em;	
+}
+
+.iconosInicio{
+	width: 20%;
+	margin: 0 1.5em;
+}
+
+.iconoInformacion{
+	width: 50%;
+}
+
+.margen3y{
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+
+.parrafoCoti{
+	width: 40%;
+    margin: 0 auto;
+}
+
+.grises img {
+	filter: url('#grayscale'); /* Versión SVG para IE10, Chrome 17, FF3.5, Safari 5.2 and Opera 11.6 */
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	filter: grayscale(100%); /* Para cuando es estándar funcione en todos */
+	filter: Gray(); /* IE4-8 and 9 */
+
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.grises img:hover { 
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	-ms-filter: grayscale(0%);
+	-o-filter: grayscale(0%);
+	filter: none;
+
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.blanco img {
+	-webkit-filter: grayscale(1) invert(1);
+	-moz-filter: grayscale(1) invert(1);
+	-ms-filter: grayscale(1) invert(1);
+	-o-filter: grayscale(1) invert(1);
+	filter: grayscale(1) invert(1); /* Para cuando es estándar funcione en todos */
+
+
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.blanco img:hover { 
+	-webkit-filter: grayscale(0) invert(0);
+	-moz-filter: grayscale(0) invert(0);
+	-ms-filter: grayscale(0) invert(0);
+	-o-filter: grayscale(0) invert(0);
+	filter: none;
+
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.logoAlianza{
+	width: 90%;
+}
+
+.botonTrans{
+	background-color: transparent;
+	border: solid 1px white;
+	color: white;
+}
+
+.botonTrans:hover{
+	background-color: transparent;
+	border: solid 1px black;
+	color: black;
+}
+
+.fondoRojo{
+	background-color: #832129;
+}
+
+.botonRojo{
+	background: red;
+    color: white;
+}
+
+.botonRojo:hover{
+	background: black;
+    color: red;
+}
+
+.visualidad{
+	display: none;
+}
+
+/* Form Input v3 */
+.s-form-v7__input {
+  position: relative;
+  height: 3.125rem;
+  font-size: 0.8125rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.7);
+  border: none;
+  border-bottom: 0.0625rem solid rgba(255, 255, 255, 0.5);
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  padding: 0 1.25rem 0 0;
+  transition-duration: 300ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+.s-form-v7__input::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.s-form-v7__input::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.s-form-v7__input:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.s-form-v7__input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.s-form-v7__input:focus {
+  color: white;
+  border-color: rgba(255, 255, 255, 0.99);
+  box-shadow: none;
+}
+
+.s-form-v7__input:focus::-webkit-input-placeholder {
+  color: white;
+}
+
+.s-form-v7__input:focus::-moz-placeholder {
+  color: white;
+}
+
+.s-form-v7__input:focus:-ms-input-placeholder {
+  color: white;
+}
+
+.s-form-v7__input:focus::placeholder {
+  color: white;
+}
+
+.fondoNegro{
+	background-color: black;
+}
+
+.quienesCorp{
+	display: block;
+	width: 13rem;
+	height: auto;
+	margin: 0 auto;
+	opacity: 1;
+	cursor: pointer;
+	transition-duration: 200ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+.logoTL{
+	width: 55%;
+}
+
+.footerLogo{
+	width: 40%;
+}
+
+#HapagLloyd{
+	background: url("../img/navieras/HapagLloyd_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#HapagLloyd:hover{
+	background: url("../img/navieras/HapagLloyd.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;	
+}
+
+#CMACGM{
+	background: url("../img/navieras/CMACGM-Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 124px;
+	width: 160px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#CMACGM:hover{
+	background: url("../img/navieras/CMACGM.png") no-repeat;
+	background-size: 100%;
+	height: 124px;
+	width: 160px;
+}
+
+#HamburgSud{
+	background: url("../img/navieras/HamburgSud_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+
+}
+
+#HamburgSud:hover{
+	background: url("../img/navieras/HamburgSud.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;
+}
+
+#Mol{
+	background: url("../img/navieras/Mol-Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 160px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#Mol:hover{
+	background: url("../img/navieras/Mol.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 160px;
+}
+
+#Evergreen{
+	background: url("../img/navieras/Evergreen_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#Evergreen:hover{
+	background: url("../img/navieras/Evergreen.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;	
+}
+
+#MSC{
+	background: url("../img/navieras/MSC_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 93px;
+	width: 160px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#MSC:hover{
+	background: url("../img/navieras/MSC.png") no-repeat;
+	background-size: 100%;
+	height: 93px;
+	width: 160px;
+}
+
+#Cosco{
+	background: url("../img/navieras/Cosco_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 111px;
+	width: 160px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#Cosco:hover{
+	background: url("../img/navieras/Cosco.png") no-repeat;
+	background-size: 100%;
+	height: 111px;
+	width: 160px;
+}
+
+#SeaLand{
+	background: url("../img/navieras/SeaLand_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 110px;
+	width: 270px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#SeaLand:hover{
+	background: url("../img/navieras/SeaLand.png") no-repeat;
+	background-size: 100%;
+	height: 110px;
+	width: 270px;
 }
