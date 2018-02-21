@@ -11,6 +11,8 @@
 		<meta name="description" content="<?php bloginfo('description'); ?>">
         <meta name="author" content="Xoyoc.NET">
 
+		<?php wp_head(); ?>
+        
         <!-- Web Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
 
