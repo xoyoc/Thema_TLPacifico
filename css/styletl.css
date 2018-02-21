@@ -1,0 +1,472 @@
+.textoMayusculas{
+	text-transform: uppercase;
+}
+
+.textoBlanco{
+	color:white;
+}
+
+.textoIzq{
+	float: left;
+}
+
+.textoDer{
+	float: right;
+}
+
+.textoBold{
+	font-weight: bold;
+}
+
+.textoCenter{
+	text-align: center;
+}
+
+.textoJustificado{
+	text-align: justify;
+}
+
+.idioma{
+	margin-top: 1em;
+	margin-right: 1.5em;
+}
+
+.tituloQuienes{
+	font-size: 2.5em !important;
+	margin-left: .5em !important;	
+}
+
+.tituloEslogan{
+	font-size: 3em !important;
+	font-weight: bold;
+}
+
+.tituloGris{
+	font-weight: bold;
+	color:#4D4D4D;
+	margin-left: 2em;
+}
+
+.linkgris{
+	color:#4D4D4D;
+}
+
+.linkgris:hover{
+	color:#F01931;
+}
+
+.puntosAviso{
+	color: #832129;
+}
+
+
+.g-bg-color--sky-light {
+  background-color: white !important;
+}
+
+
+.imagenLogNav{
+	width: 8em;
+}
+
+.imagenLogNavL{
+	width: 12em;
+	margin:1.5em 0;
+}
+
+.centradoIconos{
+	align-items: center;
+}
+
+.colm-flex{
+	width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media (min-width: 62em) {
+  .g-container--md {
+    width: 80% !important;
+  }
+}
+
+.imgAsoc{
+	width: 10em;
+}
+
+.g-color--red{
+	color:#F01931 !important;
+}
+
+.subtituloGris{
+	font-weight: bold;
+	color:#4D4D4D;	
+}
+
+.s-btn--red-brd{
+	margin-left: 40%;
+	margin-top: 4em;
+	color: white;
+	background: #F01931;
+	border-width: 0.0625rem;
+	border-style: solid;
+	border-color: #F01931;
+}
+
+.sinPaddingBottom{
+	padding-bottom: 0;
+}
+
+.logotiposCorporativo{
+	width: 90%;
+}
+
+.iconosServicios{
+    width: 50%;
+    margin: 1em auto;
+    padding: 1em .5em;
+}
+
+.parrafoServicios{
+	font-size: .7em;
+    text-align: justify;
+}
+
+.iconosServicios2{
+	width: 10em;
+    float: left;
+    padding-bottom: 7em;
+    margin-right: 1em;	
+}
+
+.iconosInicio{
+	width: 20%;
+	margin: 0 1.5em;
+}
+
+.iconoInformacion{
+	width: 50%;
+}
+
+.margen3y{
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+
+.parrafoCoti{
+	width: 40%;
+    margin: 0 auto;
+}
+
+.grises img {
+	filter: url('#grayscale'); /* Versión SVG para IE10, Chrome 17, FF3.5, Safari 5.2 and Opera 11.6 */
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	filter: grayscale(100%); /* Para cuando es estándar funcione en todos */
+	filter: Gray(); /* IE4-8 and 9 */
+
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.grises img:hover { 
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	-ms-filter: grayscale(0%);
+	-o-filter: grayscale(0%);
+	filter: none;
+
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.blanco img {
+	-webkit-filter: grayscale(1) invert(1);
+	-moz-filter: grayscale(1) invert(1);
+	-ms-filter: grayscale(1) invert(1);
+	-o-filter: grayscale(1) invert(1);
+	filter: grayscale(1) invert(1); /* Para cuando es estándar funcione en todos */
+
+
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.blanco img:hover { 
+	-webkit-filter: grayscale(0) invert(0);
+	-moz-filter: grayscale(0) invert(0);
+	-ms-filter: grayscale(0) invert(0);
+	-o-filter: grayscale(0) invert(0);
+	filter: none;
+
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.logoAlianza{
+	width: 90%;
+}
+
+.botonTrans{
+	background-color: transparent;
+	border: solid 1px white;
+	color: white;
+}
+
+.botonTrans:hover{
+	background-color: transparent;
+	border: solid 1px black;
+	color: black;
+}
+
+.fondoRojo{
+	background-color: #832129;
+}
+
+.botonRojo{
+	background: red;
+    color: white;
+}
+
+.botonRojo:hover{
+	background: black;
+    color: red;
+}
+
+.visualidad{
+	display: none;
+}
+
+/* Form Input v3 */
+.s-form-v7__input {
+  position: relative;
+  height: 3.125rem;
+  font-size: 0.8125rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.7);
+  border: none;
+  border-bottom: 0.0625rem solid rgba(255, 255, 255, 0.5);
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  padding: 0 1.25rem 0 0;
+  transition-duration: 300ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+.s-form-v7__input::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.s-form-v7__input::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.s-form-v7__input:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.s-form-v7__input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.s-form-v7__input:focus {
+  color: white;
+  border-color: rgba(255, 255, 255, 0.99);
+  box-shadow: none;
+}
+
+.s-form-v7__input:focus::-webkit-input-placeholder {
+  color: white;
+}
+
+.s-form-v7__input:focus::-moz-placeholder {
+  color: white;
+}
+
+.s-form-v7__input:focus:-ms-input-placeholder {
+  color: white;
+}
+
+.s-form-v7__input:focus::placeholder {
+  color: white;
+}
+
+.fondoNegro{
+	background-color: black;
+}
+
+.quienesCorp{
+	display: block;
+	width: 13rem;
+	height: auto;
+	margin: 0 auto;
+	opacity: 1;
+	cursor: pointer;
+	transition-duration: 200ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+.logoTL{
+	width: 55%;
+}
+
+.footerLogo{
+	width: 40%;
+}
+
+#HapagLloyd{
+	background: url("../img/navieras/HapagLloyd_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#HapagLloyd:hover{
+	background: url("../img/navieras/HapagLloyd.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;	
+}
+
+#CMACGM{
+	background: url("../img/navieras/CMACGM-Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 124px;
+	width: 160px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#CMACGM:hover{
+	background: url("../img/navieras/CMACGM.png") no-repeat;
+	background-size: 100%;
+	height: 124px;
+	width: 160px;
+}
+
+#HamburgSud{
+	background: url("../img/navieras/HamburgSud_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+
+}
+
+#HamburgSud:hover{
+	background: url("../img/navieras/HamburgSud.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;
+}
+
+#Mol{
+	background: url("../img/navieras/Mol-Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 160px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#Mol:hover{
+	background: url("../img/navieras/Mol.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 160px;
+}
+
+#Evergreen{
+	background: url("../img/navieras/Evergreen_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#Evergreen:hover{
+	background: url("../img/navieras/Evergreen.png") no-repeat;
+	background-size: 100%;
+	height: 85px;
+	width: 350px;	
+}
+
+#MSC{
+	background: url("../img/navieras/MSC_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 93px;
+	width: 160px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#MSC:hover{
+	background: url("../img/navieras/MSC.png") no-repeat;
+	background-size: 100%;
+	height: 93px;
+	width: 160px;
+}
+
+#Cosco{
+	background: url("../img/navieras/Cosco_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 111px;
+	width: 160px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#Cosco:hover{
+	background: url("../img/navieras/Cosco.png") no-repeat;
+	background-size: 100%;
+	height: 111px;
+	width: 160px;
+}
+
+#SeaLand{
+	background: url("../img/navieras/SeaLand_Blanco.png") no-repeat;
+	background-size: 100%;
+	height: 110px;
+	width: 270px;
+	transition-duration: 300ms;
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+}
+
+#SeaLand:hover{
+	background: url("../img/navieras/SeaLand.png") no-repeat;
+	background-size: 100%;
+	height: 110px;
+	width: 270px;
+}

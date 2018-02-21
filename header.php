@@ -13,10 +13,10 @@
 
 		<?php wp_head(); ?>
         
-        <!-- Web Fonts -->
+<!--          Web Fonts
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
 
-        <!-- Vendor Styles -->
+        Vendor Styles
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/animate.css" rel="stylesheet" type="text/css"/>
         <link href="vendor/themify/themify.css" rel="stylesheet" type="text/css"/>
@@ -25,12 +25,12 @@
         <link href="vendor/swiper/swiper.min.css" rel="stylesheet" type="text/css"/>
         <link href="vendor/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css"/>
 
-        <!-- Theme Styles -->
+        Theme Styles 
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
         <link href="css/global/global.css" rel="stylesheet" type="text/css"/>
 
-        <!-- Hoja de Estilos -->
-        <link href="css/styletl.css" rel="stylesheet" type="text/css"/>
+        Hoja de Estilos 
+        <link href="css/styletl.css" rel="stylesheet" type="text/css"/> -->
 
         <!-- Favicon -->
 		<link href="//www.google-analytics.com" rel="dns-prefetch">
@@ -52,7 +52,7 @@
                         <div class="s-header__navbar-row-col">
                             <!-- Logo -->
                             <div class="s-header__logo">
-                                <a href="index.html" class="s-header__logo-link">
+                                <a href="<?php echo home_url(); ?>" class="s-header__logo-link">
                                     <img class="s-header__logo-img s-header__logo-img-default" src="img/logo.png" alt="Logotipo de Tl Pacific">
                                     <img class="s-header__logo-img s-header__logo-img-shrink" src="img/logo-dark.png" alt="Logotipo de Tl Pacific">
                                 </a>
@@ -80,8 +80,13 @@
                 <!-- Nav -->
                 <nav class="s-header__nav js__scrollbar">
                     <div class="container-fluid">
-                        <!-- Menu List -->                                
-                         <ul class="list-unstyled s-header__nav-menu">
+                        <!-- Menu List -->
+						<!-- nav -->
+						<nav class="nav" role="navigation">
+							<?php menu_principal(); ?>
+						</nav>
+						<!-- /nav -->
+<!--                          <ul class="list-unstyled s-header__nav-menu">
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider -is-active" href="index.html">Inicio</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="quienes.html">Quiénes Somos</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="servicios.html">Servicios</a></li>
@@ -89,7 +94,7 @@
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="cotizaciones.html">Cotizaciones</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="corporativo.html">Oficinas</a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="contactanos.html">Contacto</a></li>
-                        </ul>
+                        </ul> -->
                         <!-- End Menu List -->
                     </div>
                 </nav>
@@ -115,54 +120,3 @@
             <!-- End Overlay -->
         </header>
         <!--========== FIN DE ENCABEZADO ==========-->
-
-<!doctype html>
-<html <?php language_attributes(); ?> class="no-js">
-	<head>
-		<meta charset="<?php bloginfo('charset'); ?>">
-		<title><?php wp_title(''); ?><?php if(wp_title('', false)) { echo ' :'; } ?> <?php bloginfo('name'); ?></title>
-
-		<link href="//www.google-analytics.com" rel="dns-prefetch">
-        <link href="<?php echo get_template_directory_uri(); ?>/img/icons/favicon.ico" rel="shortcut icon">
-        <link href="<?php echo get_template_directory_uri(); ?>/img/icons/touch.png" rel="apple-touch-icon-precomposed">
-
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="<?php bloginfo('description'); ?>">
-
-		<?php wp_head(); ?>
-		<script>
-        // conditionizr.com
-        // configure environment tests
-        conditionizr.config({
-            assets: '<?php echo get_template_directory_uri(); ?>',
-            tests: {}
-        });
-        </script>
-
-	</head>
-	<body <?php body_class(); ?>>
-
-		<!-- wrapper -->
-		<div class="wrapper">
-
-			<!-- header -->
-			<header class="header clear" role="banner">
-
-					<!-- logo -->
-					<div class="logo">
-						<a href="<?php echo home_url(); ?>">
-							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-							<img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt="Logo" class="logo-img">
-						</a>
-					</div>
-					<!-- /logo -->
-
-					<!-- nav -->
-					<nav class="nav" role="navigation">
-						<?php html5blank_nav(); ?>
-					</nav>
-					<!-- /nav -->
-
-			</header>
-			<!-- /header -->
