@@ -115,40 +115,40 @@ function html5blank_conditional_scripts()
 // Load HTML5 Blank styles
 function html5blank_styles()
 {
-    wp_register_style('normalize', get_template_directory_uri() . '/normalize.css', array(), '1.0', 'all');
+    wp_register_style('normalize', get_template_directory_uri().'/normalize.css', array(), '1.0', 'all');
     wp_enqueue_style('normalize'); // Enqueue it!
 
-    wp_register_style('style', get_template_directory_uri() . '/style.css', array(), '1.0', 'all');
+    wp_register_style('style', get_template_directory_uri().'/style.css', array(), '1.0', 'all');
     wp_enqueue_style('style'); // Enqueue it!
 
-    wp_register_style('bootstrap', get_template_directory_uri() . '/vendor/bootstrap/css/bootstrap.min.css', array(), '1.0', 'all');
+    wp_register_style('bootstrap', get_template_directory_uri().'/vendor/bootstrap/css/bootstrap.min.css', array(), '1.0', 'all');
     wp_enqueue_style('bootstrap'); // Enqueue it!
 
-    wp_register_style('animate', get_template_directory_uri() . '/css/animate.css', array(), '1.0', 'all');
+    wp_register_style('animate', get_template_directory_uri().'/css/animate.css', array(), '1.0', 'all');
     wp_enqueue_style('animate'); // Enqueue it!
 
-    wp_register_style('themify', get_template_directory_uri() . '/vendor/themify/themify.css', array(), '1.0', 'all');
+    wp_register_style('themify', get_template_directory_uri().'/vendor/themify/themify.css', array(), '1.0', 'all');
     wp_enqueue_style('themify'); // Enqueue it!
 
-    wp_register_style('scrollbar', get_template_directory_uri() . '/vendor/scrollbar/scrollbar.min.css', array(), '1.0', 'all');
+    wp_register_style('scrollbar', get_template_directory_uri().'/vendor/scrollbar/scrollbar.min.css', array(), '1.0', 'all');
     wp_enqueue_style('scrollbar'); // Enqueue it!
 
-    wp_register_style('popup', get_template_directory_uri() . '/vendor/magnific-popup/magnific-popup.css', array(), '1.0', 'all');
+    wp_register_style('popup', get_template_directory_uri().'/vendor/magnific-popup/magnific-popup.css', array(), '1.0', 'all');
     wp_enqueue_style('popup'); // Enqueue it!
 
-    wp_register_style('swiper', get_template_directory_uri() . '/vendor/swiper/swiper.min.css', array(), '1.0', 'all');
+    wp_register_style('swiper', get_template_directory_uri().'/vendor/swiper/swiper.min.css', array(), '1.0', 'all');
     wp_enqueue_style('swiper'); // Enqueue it!
 
-    wp_register_style('cubeportfolio', get_template_directory_uri() . '/vendor/cubeportfolio/css/cubeportfolio.min.css', array(), '1.0', 'all');
+    wp_register_style('cubeportfolio', get_template_directory_uri().'/vendor/cubeportfolio/css/cubeportfolio.min.css', array(), '1.0', 'all');
     wp_enqueue_style('cubeportfolio'); // Enqueue it!
 
-    wp_register_style('style2', get_template_directory_uri() . '/css/style.css', array(), '1.0', 'all');
+    wp_register_style('style2', get_template_directory_uri().'/css/style.css', array(), '1.0', 'all');
     wp_enqueue_style('style2'); // Enqueue it!
 
-    wp_register_style('global', get_template_directory_uri() . '/css/global/global.css', array(), '1.0', 'all');
+    wp_register_style('global', get_template_directory_uri().'/css/global/global.css', array(), '1.0', 'all');
     wp_enqueue_style('global'); // Enqueue it!              
 
-    wp_register_style('styletl', get_template_directory_uri() . '/css/styletl.css', array(), '1.0', 'all');
+    wp_register_style('styletl', get_template_directory_uri().'/css/styletl.css', array(), '1.0', 'all');
     wp_enqueue_style('styletl'); // Enqueue it!
    
 }
