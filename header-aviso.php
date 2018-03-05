@@ -6,10 +6,7 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>
-            <?php wp_title(); ?>
-            <?php if(wp_title('', false)) { echo ''; } ?>       
-        </title>
+        <title><?php wp_title(''); ?><?php if(wp_title('', false)) { echo ' :'; } ?> <?php bloginfo('name'); ?></title>
         <meta name="keywords" content="Agencia de Carga" />
 		<meta name="description" content="<?php bloginfo('description'); ?>">
         <meta name="author" content="Xoyoc.NET">
@@ -37,8 +34,8 @@
 
         <!-- Favicon -->
 		<link href="//www.google-analytics.com" rel="dns-prefetch">
-        <link href="<?php echo get_template_directory_uri(); ?>/img/favicon.ico" rel="shortcut icon">
-        <link href="<?php echo get_template_directory_uri(); ?>/img/apple-touch-icon.png" rel="apple-touch-icon-precomposed">
+        <link href="<?php echo get_template_directory_uri(); ?>/img/icons/favicon.ico" rel="shortcut icon">
+        <link href="<?php echo get_template_directory_uri(); ?>/img/icons/touch.png" rel="apple-touch-icon-precomposed">
     </head>
     <!-- End Head -->
 
@@ -84,10 +81,10 @@
                 <nav class="s-header__nav js__scrollbar">
                     <div class="container-fluid">
                         <!-- Menu List -->
-						<!-- nav -->
-						<nav class="nav" role="navigation">
+                        <!-- nav -->
+                        <nav class="nav" role="navigation">
                          <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider -is-active" href="/inicio"><?php _e('Inicio', 'tlpacifico' ); ?> </a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/inicio"><?php _e('Inicio', 'tlpacifico' ); ?> </a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/quienes-somos"><?php _e('Quiénes Somos', 'tlpacifico' ); ?></a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/servicios"><?php _e('Servicios', 'tlpacifico' ); ?></a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/alianzas-y-asociados"><?php _e('Alianzas y Asociados', 'tlpacifico' ); ?></a></li>
@@ -95,7 +92,7 @@
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/oficinas"><?php _e('Oficinas', 'tlpacifico' ); ?></a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/contacto"><?php _e('Quiénes Somos', 'tlpacifico' ); ?> Contacto</a></li>
                          </ul>
-						</nav>
+                        </nav>
                     </div>
                 </nav>
                 <!-- End Nav -->
@@ -120,3 +117,4 @@
             <!-- End Overlay -->
         </header>
         <!--========== FIN DE ENCABEZADO ==========-->
+

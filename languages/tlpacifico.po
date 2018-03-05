@@ -1,0 +1,1004 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: page-aviso.php:14
+msgid "1. Responsable del tratamiento de sus datos personales"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:17
+msgid "2. Departamento de datos personales:"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:77
+msgid "10. Modificaciones al aviso de privacidad"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:86
+msgid "11. Derecho de promover los procedimientos de protección de derechos y de verificación que sustancia el Instituto"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:19
+msgid "3. Finalidades del tratamiento de los datos personales"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:30
+msgid "4. Datos personales que recabamos"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:33
+msgid "5. Opciones y medios para limitar el uso o divulgación de datos personales"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:35
+msgid "6. Medios para ejercer los derechos de acceso, rectificación, cancelación u oposición"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:67
+msgid "7. Mecanismos y procedimientos para que el titular, en su caso, revoque su consentimiento en cualquier momento"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:69
+msgid "8. Transferencias de datos personales dentro de México y al extranjero"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:74
+msgid "9. Medidas de seguridad implementadas"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:36
+msgid "A través de nuestras alianzas podemos ofrecerle logística integral a nivel mundial y trámites aduanales en todas las fronteras de México con el exterior."
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:100
+msgid "Acepto"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:72
+msgid "Actualmente el Transporte Aéreo permite que las mercancías estén a su disposición en unas cuantas horas."
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:70
+#: page-servicios.php:57
+msgid "Aéreo"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:9
+msgid "Agencia de Carga especializada"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:196
+msgid "Al despachar cumpliendo con la normatividad y apoyados en una planeación previa con asesoría y clasificación arancelaria de nivel insuperable."
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:209
+msgid "Al facilitar sus trámites y tareas mientras usted se enfoca en sus tareas y negocio."
+msgstr ""
+
+#. Text in echo
+#: page-alianzas-y-asociados.php:8
+msgid "Alianzas & <br>Asociaciones"
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:88
+msgid "Alianzas Navíeras"
+msgstr ""
+
+#. Text in echo
+#: page-alianzas-y-asociados.php:17
+msgid "Alianzas estratégicas <br> para una logística eficiente"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:134
+#: page-servicios.php:237
+msgid "Alianzas estratégicas en EUA - CANADA de manera que operamos en estos países incluyendo despacho aduanal."
+msgstr ""
+
+#. Text in echo
+#: footer-contacto.php:12
+#: footer-cotizaciones.php:12
+#: footer-quienes-somos.php:12
+#: footer.php:12
+#: header-alianzas-y-asociados.php:90
+#: header-aviso.php:90
+#: header-contacto.php:90
+#: header-cotizaciones.php:90
+#: header-oficinas.php:90
+#: header-quienes-somos.php:91
+#: header-servicios.php:90
+#: header.php:93
+msgid "Alianzas y Asociados"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:93
+msgid "Alto"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:94
+msgid "Ancho"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:81
+msgid "Anuncios visibles en las oficinas corporativas;"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:120
+msgid "Asesoría en Logística Aduanas, Servicios Intermodales y Almacenaje."
+msgstr ""
+
+#. Text in echo
+#: page-alianzas-y-asociados.php:79
+#: page-inicio.php:135
+msgid "Asociaciones"
+msgstr ""
+
+#. Text in echo
+#: footer-contacto.php:58
+#: footer-cotizaciones.php:58
+#: footer-quienes-somos.php:58
+#: footer.php:58
+msgid "Aviso de Privacidad"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:10
+msgid "Aviso de privacidad"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:66
+msgid "Brindamos el servicio de Flete Marítimo de mercancías más flexible y seguro en las modalidades de Contenedor Marítimo Completo (FCL)."
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:111
+msgid "Brindar servicios y alternativas de excelente calidad que conduzcan a la satisfacción total de nuestros clientes."
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:79
+msgid "CONOCE NUESTROS SERVICIOS"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:10
+msgid "Comercio Exterior"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:208
+msgid "Comodidad"
+msgstr ""
+
+#. Text in echo
+#: page-oficinas.php:21
+msgid "Conoce a todos los"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:83
+msgid "Conoce los"
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:36
+msgid "Conoce más"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:72
+msgid "Consiento que mis datos personales sean compartidos en los términos de este aviso de privacidad."
+msgstr ""
+
+#. Text in echo
+#: footer-contacto.php:19
+#: footer-cotizaciones.php:19
+#: footer-quienes-somos.php:19
+#: footer.php:19
+#: page-contacto.php:22
+msgid "Contacto"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:158
+msgid "Contamos con una red de agentes a nivel mundial que nos permite agilizar tiempos y eficientar los procesos."
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:61
+msgid "Contenedor"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:75
+msgid "Contenedor completo con mercancía de un único cargador."
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:147
+msgid "Contáctanos"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:146
+msgid "Convenios con las principales Terminales Marítimas, Navieras y Asociaciones ligadas al Comercio exterior en México y a nivel internacional."
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:96
+msgid "Coordinación de los embarques con nuestra red de agentes en todo el mundo."
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:66
+msgid "Corporativo"
+msgstr ""
+
+#. Text in echo
+#: footer-contacto.php:17
+#: footer-cotizaciones.php:17
+#: footer-quienes-somos.php:17
+#: footer.php:17
+#: header-alianzas-y-asociados.php:91
+#: header-aviso.php:91
+#: header-contacto.php:91
+#: header-cotizaciones.php:91
+#: header-oficinas.php:91
+#: header-quienes-somos.php:92
+#: header-servicios.php:91
+#: header.php:94
+msgid "Cotizaciones"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:268
+msgid "Cotizar"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:44
+msgid "Cualquier documento o información que acredite que sus datos personales se encuentran en propiedad de LCTPC;"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:87
+msgid "Cualquier queja o información adicional respecto al tratamiento de sus datos personales o duda en relación con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares o con su Reglamento, podrá dirigirla al IFAI. Para mayor información visite"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:76
+msgid "Cuando comunicamos o compartimos su información con terceros que nos prestan algún servicio, requerimos y verificamos que cuenten con las medidas de seguridad necesarias para proteger sus datos personales, prohibiendo el uso de su información personal para fines distintos a los encargados; lo anterior en el entendido que no obstante lo anterior, cualquier incumplimiento por dichos terceros a lo previsto en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y su Reglamento es exclusiva responsabilidad de dichos terceros."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:60
+msgid "Cuando exista un impedimento legal o la resolución de una autoridad competente que restrinja sus Derechos ARCO;"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:62
+msgid "Cuando la rectificación, cancelación u oposición haya sido previamente realizada."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:48
+msgid "Cuando la solicitud sea procedente y se hayan llevado a cabo los cotejos correspondientes con respecto a la personalidad y titularidad de los Derechos ARCO, los términos para llevar a cabo la solicitud serán los siguientes:"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:58
+msgid "Cuando sus datos personales no obren en la base de datos del Responsable;"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:57
+msgid "Cuando usted no sea el titular de los datos personales, o no haya acreditado la representación del titular;"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:32
+msgid "De conformidad con lo que establece el artículo 9 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, cuando el Responsable recabe de Usted tales datos, le será requerido su consentimiento expreso para el tratamiento de estos datos, por lo que le solicitaremos que, en su momento, indique si acepta o no el tratamiento, a través del mecanismo electrónico que hemos implementado para estos efectos, o en su caso, nos proporcione este documento debidamente firmado."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:43
+msgid "Descripción clara y precisa de los datos personales respecto de los cuales busca ejercer alguno de los Derechos ARCO, cuál es el derecho a ejercer y las razones por las cuales desea ejercitarlo;"
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:46
+#: page-quienes-somos.php:99
+msgid "Descubre"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:182
+msgid "Descubre porqué"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:108
+msgid "Despacho Aduanal Integrado con nuestra propia patente (3590) por los puertos de Lázaro Cárdenas, Progreso y Aduana de Nuevo Laredo / Veracruz y Manzanillo."
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:47
+msgid "Destino de la mercancía"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:92
+msgid "Detalles Aéreo"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:76
+msgid "Detalles Marítimo"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:82
+msgid "Detalles Terrestres"
+msgstr ""
+
+#. Text in echo
+#: page-contacto.php:37
+msgid "Dirección"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:195
+msgid "Disminución de riesgos"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:18
+msgid "Domicilio: Calle Salvador Madariaga 5277, Col. Jardines Universidad, C.P. 45110, Zapopan, Jalisco Correo electrónico: info@tlpacifico.com.mx Teléfono: (01 33) 3628 0717 / 2304 3668"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:20
+msgid "El Responsable en este acto recaba sus datos para las siguientes finalidades:"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:47
+msgid "El Responsable responderá su solicitud mediante correo electrónico, en un término de 20 (veinte) días hábiles contados a partir de que se le envíe acuse de recibo de la misma. En caso de que la solicitud sea procedente, la respuesta podrá enviarse vía correo electrónico. TL Pacifíco S. de R.L. de C.V. podrá solicitarle para poder darle una respuesta, presente para cotejo en el domicilio antes descrito, original de los documentos que envió junto con su solicitud, dentro de los 5 (cinco) días hábiles siguientes a que le sean requeridos. Si pasado dicho término usted no ha presentado los documentos, su solicitud se archivará y el Aviso de Privacidad continuará vigente hasta en tanto no se presente una nueva solicitud."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:65
+msgid "El ejercicio de los \"Derechos ARCO\" será gratuito, pero si Usted reitera su solicitud en un periodo menor a 12 (doce) meses, los costos serán de 3 (tres) días de Salario Mínimo General Vigente en el Distrito Federal, más el Impuesto al Valor Agregado, a menos que existan modificaciones sustanciales al Aviso de Privacidad que motiven nuevas Solicitudes de Ejercicio de Derechos ARCO. Usted deberá de cubrir los gastos justificados de envío o el costo de reproduc- ción en copias u otros formatos."
+msgstr ""
+
+#. Text in echo
+#: page-contacto.php:55
+#: page-cotizaciones.php:33
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:28
+msgid "Empresa"
+msgstr ""
+
+#. Text in echo
+#: page-contacto.php:24
+msgid "En TL Pacifíco nos encantaría saber de ti."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:61
+msgid "En caso de cancelación, cuando los datos personales sean objeto de tratamiento para la prevención o para el diagnóstico médico o la gestión de servicios de salud, o;"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:42
+msgid "En caso de no ser el titular quien presente la solicitud, el documento que acredite la existencia de la representación, es decir instrumento público o carta poder firmada ante dos testigos, junto con la identificación del titular y del representante legal (Credencial del IFE, Pasaporte vigente, Cédula Profesional, o en caso de ser de nacionalidad extranjera, su documento migratorio vigente):"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:45
+msgid "En caso de solicitar una rectificación de datos, se indicarán también las modificaciones a realizarse y se aportará la documentación que sustente su petición (acta de nacimiento, comprobante de domicilio, o aquél en el que conste y se motive el cambio que se va a realizar en sus datos personales)."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:68
+msgid "En cualquier momento del tratamiento usted podrá revocar el consentimiento que ha otorgado para el tratamiento de sus datos, para ello es necesario que contacte al Responsable de protección de datos, donde le será indicado el procedimiento que debe seguir para realizar la revocación de su consentimiento."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:83
+msgid "En nuestra página de Internet"
+msgstr ""
+
+#. Text in echo
+#: footer-contacto.php:26
+#: footer-cotizaciones.php:26
+#: footer-quienes-somos.php:26
+#: footer.php:26
+msgid "Encuéntranos en"
+msgstr ""
+
+#. Text in echo
+#: page-contacto.php:65
+#: page-cotizaciones.php:103
+msgid "Enviar"
+msgstr ""
+
+#. Text in echo
+#: page-contacto.php:23
+msgid "Escríbenos"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:178
+msgid "Especializados en brindar excelente servicio marítimo en la zona del Pacifíco, Asia y Sudamérica incluyendo despacho aduanal."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:79
+msgid "Estas modificaciones estarán disponibles al público a través de los siguientes medios:"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:249
+msgid "Excelentes relaciones institucionales"
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:76
+msgid "Facilitamos su operación con rapidez, transparencia y eficiencia"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:28
+msgid "Garantizar un tratamiento correcto y adecuado."
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:35
+msgid "Gracias a nuestra experiencia y nuestros múltiples clientes satisfechos, seguimos avanzando hacia la excelencia mediante una filosofía de atención y calidad en el trabajo, ofreciendo un servicio personalizado a cada uno de nuestros clientes."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:41
+msgid "Identificación con la que acredite su personalidad (Credencial para votar emitida por el Instituto Federal Electoral [“IFE”], Pasaporte vigente, Cédula Profesional, o en caso de ser de nacionalidad extranjera, su documento migratorio vigente);"
+msgstr ""
+
+#. Text in echo
+#: footer-contacto.php:9
+#: footer-cotizaciones.php:9
+#: footer-quienes-somos.php:9
+#: footer.php:9
+#: header-alianzas-y-asociados.php:87
+#: header-aviso.php:87
+#: header-contacto.php:87
+#: header-cotizaciones.php:87
+#: header-oficinas.php:87
+#: header-quienes-somos.php:88
+#: header-servicios.php:87
+#: header.php:90
+msgid "Inicio"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:64
+msgid "La Negativa podrá ser parcial, en cuyo caso, TL Pacifíco S. de R.L. de C.V. efectuará el acceso, rectificación, cancelación u oposición en la parte procedente."
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:95
+msgid "Largo"
+msgstr ""
+
+#. Text in echo
+#: page-contacto.php:44
+msgid "Llamar"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:31
+msgid "Logística íntegral"
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:11
+#: page-inicio.php:20
+msgid "Logística sin límites"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:37
+msgid "Los mecanismos que se han implementado para el ejercicio de dichos derechos son a través de la presentación de la solicitud respectiva a nuestro Departamento de Administración, enviando un correo electrónico al señalado previamente. Usted puede obtener dicha solicitud al enviar el correo al Departamento de Datos Personales."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:54
+msgid "Los plazos referidos en los incisos anteriores se podrán prorrogar una sola vez por un periodo igual en caso de ser necesario y previa notificación hecha por el Responsable."
+msgstr ""
+
+#. Text in echo
+#: header-alianzas-y-asociados.php:65
+#: header-aviso.php:65
+#: header-contacto.php:65
+#: header-cotizaciones.php:65
+#: header-oficinas.php:65
+#: header-quienes-somos.php:66
+#: header-servicios.php:65
+#: header.php:68
+msgid "MENÚ"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:64
+msgid "Marítima + Terrestre"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:50
+msgid "Marítimo"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:59
+msgid "Marítima"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:69
+msgid "Mediante nuestro servicio FTL (camión completo) llevamos tu carga en el menor tiempo y al costo más bajo posible."
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:39
+msgid "Mercancía"
+msgstr ""
+
+#. Text in echo
+#: page-oficinas.php:22
+msgid "Miembros del <br> Corporativo"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:222
+msgid "Minimizando demoras y almacenajes, con una facturación directa, expedita y sin cobros por gastos inexistentes."
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:110
+msgid "Misión"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:86
+msgid "Modalidad Terrestre"
+msgstr ""
+
+#. Text in echo
+#: page-contacto.php:51
+#: page-cotizaciones.php:25
+msgid "Nombre"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:40
+msgid "Nombre y domicilio completo;"
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:60
+#: page-servicios.php:273
+msgid "Nos adaptamos a las necesidades del cliente, optimizando costos y tiempos de tránsito con un servicio personalizado de primera calidad, brindando siempre las mejores tarifas de cualquier puerto del mundo."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:70
+msgid "Nos comprometemos a no transferir su información personal a terceros sin su consentimiento, salvo las excepciones previstas en el artículo 37 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, así como a realizar esta transferencia en los términos que fija esa ley. En ese sentido, es necesario que indique si consiente o no la transferencia de sus datos en el siguiente espacio:"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:78
+msgid "Nos reservamos el derecho de efectuar en cualquier momento modificaciones o actualizaciones al presente aviso de privacidad."
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:32
+msgid "Nosotros"
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:175
+msgid "Noticias"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:100
+msgid "Nuestra filosofía"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:267
+msgid "Nuestro equipo está altamente capacitado para ofrecer un servicio al cliente de calidad, contamos con procesos exitosos de atención y gestión de proyectos."
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:34
+msgid "Nuestro grupo aduanal inició sus operaciones hace más de 14 años, con la finalidad de brindar servicios profesionales en comercio exterior, de una forma responsable y eficiente, cumpliendo con todos los requerimientos legales establecidos por las diferentes autoridades nacionales e internacionales."
+msgstr ""
+
+#. Text in echo
+#: footer-contacto.php:18
+#: footer-cotizaciones.php:18
+#: footer-quienes-somos.php:18
+#: footer.php:18
+#: header-alianzas-y-asociados.php:92
+#: header-aviso.php:92
+#: header-contacto.php:92
+#: header-cotizaciones.php:92
+#: header-oficinas.php:92
+#: header-quienes-somos.php:93
+#: header-servicios.php:92
+#: header.php:95
+msgid "Oficinas"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:190
+msgid "Oficinas propias en Lázaro Cárdenas, Guadalajara, CDMX, Progreso y Laredo."
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:42
+msgid "Origen de la mercancía"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:189
+msgid "PATENTE PROPIA"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:23
+msgid "Para crear un perfil del titular. Este perfil será utilizado para los fines que el mismo usuario dé consentimiento."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:26
+msgid "Para dar seguimiento a solicitudes que usted nos haya planteado, cualquiera que sea el motivo, tales como información de productos y/o servicios, cotizaciones, y otros análogos."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:22
+msgid "Para darlo de alta como cliente y/o proveedor de nuestros productos y/o servicios."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:16
+msgid "Para el Responsable, el tratar sus datos de manera legítima resulta un tema prioritario. Este Aviso de Privacidad complementa cualesquiera otros avisos de privacidad simplificados que nuestra organización haya puesto a su disposición y resulta supletorio en todo aquello que expresamente no refieran tales avisos."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:50
+msgid "Para el acceso de los datos: dentro de un plazo de 15 (quince) días contados a partir de la respuesta afirmativa hecha por el Responsable."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:38
+msgid "Para el ejercicio de sus derechos, usted debe presentar una solicitud (“Solicitud de Ejercicio de Derechos ARCO”) al Responsable, acompañando la siguiente información:"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:52
+msgid "Para la cancelación u oposición de los datos: se hará primero un bloqueo de los mismos, desde el momento en que se hizo el cotejo de la documentación requerida, en donde el acceso a los datos personales estará restringido a toda persona hasta que haya una respuesta a la solicitud ya sea afirmativa o negativa, en el primer caso dentro de un plazo de 15 (quince) días contados a partir de la respuesta afirmativa hecha por el Responsable, y en el segundo caso se hará el desbloqueo de los mismos para continuar con el tratamiento."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:75
+msgid "Para la protección de sus datos personales hemos instrumentado medidas de seguridad de carácter administrativo, físico y técnico con el objeto de evitar pérdidas, mal uso o alteración de su información."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:51
+msgid "Para la rectificación de los datos: dentro de un plazo de 15 (quince) días contados a partir de la respuesta afirmativa hecha por el Responsable."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:25
+msgid "Para las finalidades administrativas de todas formas relacionadas con el desempeño de las obligaciones contractuales relativas, para el desempeño de las obligaciones de ley, como por ejemplo, las de tipo contable o fiscal."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:66
+msgid "Para mayor información, favor de contactar al Responsable de datos personales, en el correo electrónico señalado anteriormente."
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:52
+msgid "Peso Bruto KG"
+msgstr ""
+
+#. Text in echo
+#: page-alianzas-y-asociados.php:60
+msgid "Principales Navieras"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:24
+msgid "Procesar sus solicitudes, y por lo tanto administrar la relación que quiere establecer con TL Pacifíco S. de R.L. de C.V. o la ya establecida entre usted y la sociedad misma."
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:250
+msgid "Que nos permiten representar sus intereses como cliente en el puerto."
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:49
+msgid "Quiénes"
+msgstr ""
+
+#. Text in echo
+#: footer-contacto.php:10
+#: footer-cotizaciones.php:10
+#: footer-quienes-somos.php:10
+#: footer.php:10
+#: header-alianzas-y-asociados.php:88
+#: header-alianzas-y-asociados.php:93
+#: header-aviso.php:88
+#: header-aviso.php:93
+#: header-contacto.php:88
+#: header-contacto.php:93
+#: header-cotizaciones.php:88
+#: header-cotizaciones.php:93
+#: header-oficinas.php:88
+#: header-oficinas.php:93
+#: header-quienes-somos.php:89
+#: header-quienes-somos.php:94
+#: header-servicios.php:88
+#: header-servicios.php:93
+#: header.php:91
+#: header.php:96
+msgid "Quiénes Somos"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:31
+msgid "Recabamos sus datos personales de forma directa cuando usted mismo nos los proporciona, ya sea personalmente, por teléfono, a través de correo electrónico o de nuestro sitio Web. Los datos que obtenemos pueden ser, entre otros, los siguientes: nombre, domicilio, teléfono, correo electrónico, etc."
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:221
+msgid "Reducción de costos"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:177
+msgid "SERVICIO PERSONALIZADO"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:84
+msgid "Se las haremos llegar al último correo electrónico que nos haya proporcionado."
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:236
+msgid "Servicio personalizado"
+msgstr ""
+
+#. Text in echo
+#: footer-contacto.php:11
+#: footer-cotizaciones.php:11
+#: footer-quienes-somos.php:11
+#: footer.php:11
+#: header-alianzas-y-asociados.php:89
+#: header-aviso.php:89
+#: header-contacto.php:89
+#: header-cotizaciones.php:89
+#: header-oficinas.php:89
+#: header-quienes-somos.php:90
+#: header-servicios.php:89
+#: header.php:92
+msgid "Servicios"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:30
+msgid "Servicios en"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:9
+msgid "Servicios en Logística de"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:84
+msgid "Servicios que"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:125
+msgid "Sobre la base de la excelencia y calidad de nuestros servicios posicionarnos como el grupo líder en materia de comercio exterior."
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:139
+msgid "Solidaridad - Compromiso<br>Responsabilidad - Honestidad<br>Puntualidad - Ética - Confianza<br>Respeto- Integridad"
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:54
+#: page-quienes-somos.php:33
+msgid "Somos"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:183
+msgid "Somos la mejor"
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:59
+msgid "Somos una empresa consolidada como Agencia de Carga especializada en operaciones logísticas a nivel internacional, con la finalidad de ofrecer servicios profesionales altamente eficientes."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:15
+msgid "TL Pacifíco S. de R.L. de C.V., con domicilio en Calle Salvador Madariaga 5277, Col. Jardines Universidad, C.P. 45110, Zapopan, Jalisco, es responsable del tratamiento de sus datos personales."
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:36
+msgid "Telefono"
+msgstr ""
+
+#. Text in echo
+#: page-contacto.php:58
+msgid "Teléfono"
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:61
+msgid "Tenemos la experiencia para facilitar sus exportaciones e importaciones, sin importar que sean del océano Pacifíco o del Atlántico."
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:54
+msgid "Terrestre"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:89
+msgid "Todo camión"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:27
+msgid "Transferir sus datos, en caso de que se requiera a otras empresas del grupo corporativo, socios comerciales y/o prestadores de servicios."
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:87
+msgid "Tren"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:88
+msgid "Tren + Camión"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:82
+msgid "Trípticos o folletos disponibles en las oficinas corporativas;"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:20
+msgid "Tu mejor opción en <br> logística y gestión de carga"
+msgstr ""
+
+#. Text in echo
+#: page-contacto.php:62
+msgid "Tu mensaje"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:34
+msgid "Usted puede dejar de recibir mensajes por correo electrónico, impresos, por teléfono fijo o celular comunicándose con nuestro Responsable de Datos Personales."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:36
+msgid "Usted tiene el derecho de acceder a sus datos personales que poseemos y a los detalles del tratamiento de los mismos, así como a rectificarlos en caso de ser inexactos o incompletos; cancelarlos cuando resulten ser excesivos o innecesarios para las finalidades que justificaron su obtención u oponerse al tratamiento de los mismos para fines específicos."
+msgstr ""
+
+#. Text in echo
+#: page-inicio.php:203
+msgid "VER MÁS NOTICIAS"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:138
+msgid "Valores"
+msgstr ""
+
+#. Text in echo
+#: footer-contacto.php:58
+#: footer-cotizaciones.php:58
+#: footer-quienes-somos.php:58
+#: footer.php:58
+msgid "Ver"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:124
+msgid "Visión"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:184
+msgid "agencia de carga"
+msgstr ""
+
+#. Text in echo
+#: page-quienes-somos.php:10
+msgid "en operaciones logísticas"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:85
+msgid "nos hacen únicos"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:55
+msgid "podrá negar el ejercicio de los Derechos ARCO, en los siguientes supuestos:"
+msgstr ""
+
+#. Text in echo
+#: page-servicios.php:266
+msgid "¿Necesitas Información?"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:21
+msgid "¿Necesitas cotizar importaciones y exportaciones?<br>Completa los siguientes datos con tus requerimientos."
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:59
+msgid "Cuando se lesionen los derechos de un tercero;"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:100
+msgid "aviso de privacidad"
+msgstr ""
+

@@ -76,14 +76,15 @@
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/jquery.back-to-top.min.js"></script>
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/scrollbar/jquery.scrollbar.min.js"></script>
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/swiper/swiper.jquery.min.js"></script>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/waypoint.min.js"></script>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/counterup.min.js"></script>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/vidbg.min.js"></script>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/jquery.parallax.min.js"></script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsXUGTFS09pLVdsYEE9YrO2y4IAncAO2U"></script>
+        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/swiper/swiper.jquery.min.js"></script>
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/jquery.wow.min.js"></script>
+        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/vidbg.min.js"></script>
+        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/masonry/jquery.masonry.pkgd.min.js"></script>
+        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/masonry/imagesloaded.pkgd.min.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsXUGTFS09pLVdsYEE9YrO2y4IAncAO2U"></script>
+        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>      
+
 
         <!-- General Components and Settings -->
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/global.min.js"></script>
@@ -91,13 +92,13 @@
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/scrollbar.min.js"></script>
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/magnific-popup.min.js"></script>
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/swiper.js"></script>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/counter.min.js"></script>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/portfolio-3-col.min.js"></script>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/parallax.min.js"></script>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/google-map.min.js"></script>
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/wow.min.js"></script>
+        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/portfolio-3-col.min.js"></script>
+        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/masonry.min.js"></script>
+        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/parallax.min.js"></script>
+        <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/google-map2.min.js"></script>
+  
         <!--========== END JAVASCRIPTS ==========-->
-
     </body>
     <!-- End Body -->
 </html>

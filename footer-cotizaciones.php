@@ -97,7 +97,43 @@
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/google-map.min.js"></script>
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/components/wow.min.js"></script>
         <!--========== END JAVASCRIPTS ==========-->
-
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $("#maritima").on( "change", function() {
+                    if ($('#maritima').is(':checked') ) {
+                        $('#gmaritima').show(); //muestro mediante id
+                        $("input#terrestre").attr("disabled","true");
+                        $("input#aereo").attr("disabled","true");
+                    } else {
+                        $("input#terrestre").removeAttr('disabled');
+                        $("input#aereo").removeAttr('disabled');
+                        $('#gmaritima').hide(); //muestro mediante id                   
+                    }
+                });
+                $("#terrestre").on( "change", function() {
+                    if ($('#terrestre').is(':checked') ) {
+                        $('#gterrestre').show(); //muestro mediante id
+                        $("input#maritima").attr("disabled","true");
+                        $("input#aereo").attr("disabled","true");
+                    } else {
+                        $("input#maritima").removeAttr('disabled');
+                        $("input#aereo").removeAttr('disabled');
+                        $('#gterrestre').hide(); //muestro mediante id                   
+                    }
+                });
+                $("#aereo").on( "change", function() {
+                    if ($('#aereo').is(':checked') ) {
+                        $('#gaereo').show(); //muestro mediante id
+                        $("input#terrestre").attr("disabled","true");
+                        $("input#maritima").attr("disabled","true");
+                    } else {
+                        $("input#terrestre").removeAttr('disabled');
+                        $("input#maritima").removeAttr('disabled');
+                        $('#gaereo').hide(); //muestro mediante id                   
+                    }
+                });                
+             });                         
+        </script>
     </body>
     <!-- End Body -->
 </html>
