@@ -200,7 +200,9 @@
                     <!-- End Noticias -->
                 </div>
             </div>
-            <a href="#" class="text-uppercase s-btn s-btn--md s-btn--red-brd g-radius--50"><?php _e( 'VER MÁS NOTICIAS', 'tlpacifico' ); ?></a>
+            <a href="#" class="text-uppercase s-btn s-btn--md s-btn--red-brd g-radius--50">
+                <?php _e('VER MÁS NOTICIAS','tlpacifico'); ?>
+            </a>
         </div>        
         <!-- Fin Noticias -->
 	</main>

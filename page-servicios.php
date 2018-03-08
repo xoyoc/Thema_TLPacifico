@@ -15,7 +15,7 @@
 
         <!--========== PAGE CONTENT ==========-->
         <!-- Mockup -->
-        <div class="container g-margin-t-o-150--xs">
+        <div class="container g-margin-t-o-230--sm g-margin-t-o-120--xs">
             <div class="center-block s-mockup-v1">
                 <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/img/mockups/devices-01.png" alt="Mockup Image">
             </div>
@@ -25,7 +25,7 @@
         <!--========== PAGE CONTENT ==========-->
 
         <!-- Masonry -->
-        <div class="container g-padding-y-30--xs g-padding-y-40--sm">
+        <div class="container g-padding-y-30--xs g-padding-y-40--sm g-display-inherit--sm g-display-none--xs">
             <div class="row g-margin-b-20--xs">
                 <h3 class="g-text-center--xs textoBold"><?php _e( 'Servicios en', 'tlpacifico' ); ?></h3>
                 <h3 class="g-text-center--xs textoBold"><?php _e( 'Logística íntegral', 'tlpacifico' ); ?></h3>
@@ -164,7 +164,7 @@
         <!--========FIN CONOCE LOS========-->
 
         <!-- Parallax -->
-        <div class="js__parallax-window" style="background: url(<?php echo get_template_directory_uri(); ?>/img/MapaLogistico.jpg) 50% 0 no-repeat fixed;">
+        <div class="js__parallax-window g-display-none--xs" style="background: url(<?php echo get_template_directory_uri(); ?>/img/MapaLogistico.jpg) 50% 0 no-repeat fixed;">
             <div class="container g-text-center--xs g-padding-y-80--xs g-padding-y-125--sm">
                 <div class="g-margin-b-80--xs">
                     <h2 class="g-font-size-40--xs g-font-size-50--sm g-font-size-60--md g-color--white tituloEslogan">
@@ -280,6 +280,37 @@
 
         <div class="container margen3y"></div>
 
-	</main>
+        <div class="container g-padding-y-30--xs g-padding-y-40--sm g-display-none--sm g-display-inherit--xs">
+            <div class="row g-margin-b-20--xs">
+                <h3 class="g-text-center--xs textoBold"><?php _e( 'Servicios en', 'tlpacifico' ); ?></h3>
+                <h3 class="g-text-center--xs textoBold"><?php _e( 'Logística íntegral', 'tlpacifico' ); ?></h3>
+            </div>
+            <div class="row">
+                <div class="col-sm-3">
+                    <img class="iconosServicios g-display-block--xs g-margin-b-30--xs wow fadeInDown" data-wow-duration=".3" data-wow-delay=".6s" src="<?php echo get_template_directory_uri(); ?>/img/iconos/Maritimo.svg" alt="Iconos de servicios">
+                    <h4 class="g-text-center--xs">FCL</h4>
+                    <h5 class="g-text-center--xs"><?php _e( 'Marítimo', 'tlpacifico' ); ?></h5>
+                    <p class="g-padding-x-20--xs parrafoServicios g-font-size-16--xs"><?php _e( 'Brindamos el servicio de Flete Marítimo de mercancías más flexible y seguro en las modalidades de Contenedor Marítimo Completo (FCL).', 'tlpacifico' ); ?></p>
+                 </div>
+                <div class="col-sm-3">
+                    <img class="iconosServicios g-display-block--xs g-margin-b-30--xs wow fadeInDown" data-wow-duration=".3" data-wow-delay=".6s" src="<?php echo get_template_directory_uri(); ?>/img/iconos/Terrestre.svg" alt="Iconos de servicios"> 
+                    <h4 class="g-text-center--xs">FTL</h4>
+                    <h5 class="g-text-center--xs"><?php _e( 'Terrestre', 'tlpacifico' ); ?></h5>
+                    <p class="g-padding-x-20--xs parrafoServicios g-font-size-16--xs"><?php _e( 'Mediante nuestro servicio FTL (camión completo) llevamos tu carga en el menor tiempo y al costo más bajo posible.', 'tlpacifico' ); ?></p>
+                </div>
+                <div class="col-sm-3">
+                    <img class="iconosServicios g-display-block--xs g-margin-b-30--xs wow fadeInDown" data-wow-duration=".3" data-wow-delay=".6s" src="<?php echo get_template_directory_uri(); ?>/img/iconos/Aereo.svg" alt="Iconos de servicios">
+                    <h5 class="g-text-center--xs"><?php _e( 'Aéreo', 'tlpacifico' ); ?></h5>
+                    <p class="g-padding-x-20--xs parrafoServicios g-font-size-16--xs"><?php _e( 'Actualmente el Transporte Aéreo permite que las mercancías estén a su disposición en unas cuantas horas.', 'tlpacifico' ); ?></p>
+                 </div>
+                <div class="col-sm-3">
+                    <img class="iconosServicios g-display-block--xs g-margin-b-30--xs wow fadeInDown" data-wow-duration=".3" data-wow-delay=".6s" src="<?php echo get_template_directory_uri(); ?>/img/iconos/Contenedor.svg" alt="Iconos de servicios" >
+                    <h4 class="g-text-center--xs">LCL</h4>
+                    <h5 class="g-text-center--xs"><?php _e( 'Contenedor', 'tlpacifico' ); ?></h5>
+                    <p class="g-padding-x-20--xs parrafoServicios g-font-size-16--xs"><?php _e( 'Contenedor completo con mercancía de un único cargador.', 'tlpacifico' ); ?></p>
+                </div>
+            </div>
+        </div>
+    </main>
 
 <?php get_footer(); ?>

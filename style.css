@@ -489,3 +489,9 @@
 	height: 110px;
 	width: 270px;
 }
+
+@media (min-width: 34em) {
+	.s-btn--red-brd{
+		margin-left: 20%;
+	}
+}

@@ -89,19 +89,11 @@ $(window).load(function () {
       },
       992: {
         slidesPerView: 3,
-        spaceBetween: 40
+        spaceBetween: 30
       },
       768: {
-        slidesPerView: 2,
+        slidesPerView: 1,
         spaceBetween: 30
-      },
-      600: {
-        slidesPerView: 2,
-        spaceBetween: 30
-      },
-      480: {
-        slidesPerView: 2,
-        spaceBetween: 0
       }
     }
   })

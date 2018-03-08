@@ -4,7 +4,7 @@
             <div class="g-hor-divider__dashed--white-opacity-lightest">
                 <div class="container g-padding-y-80--xs">
                     <div class="row">
-                        <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
+                        <div class="col-xs-6 col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
                             <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
                                 <li><a class="g-font-size-15--xs g-color--white-opacity" href="/inicio"><?php _e( 'Inicio', 'tlpacifico' ); ?></a></li>
                                 <li><a class="g-font-size-15--xs g-color--white-opacity" href="/quienes-somos"><?php _e( 'Quiénes Somos', 'tlpacifico' ); ?></a></li>
@@ -12,7 +12,7 @@
                                 <li><a class="g-font-size-15--xs g-color--white-opacity" href="/alianzas-y-asociados"><?php _e( 'Alianzas y Asociados', 'tlpacifico' ); ?></a></li>
                             </ul>
                         </div>
-                        <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
+                        <div class="col-xs-6 col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
                             <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
                                 <li><a class="g-font-size-15--xs g-color--white-opacity" href="/cotizaciones"><?php _e( 'Cotizaciones', 'tlpacifico' ); ?></a></li>
                                 <li><a class="g-font-size-15--xs g-color--white-opacity" href="/oficinas"><?php _e( 'Oficinas', 'tlpacifico' ); ?></a></li>
@@ -20,20 +20,20 @@
                                 
                             </ul>
                         </div>
-                        <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
+                        <div class="col-xs-6 col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
                             <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
                                 <li>
                                     <p><?php _e( 'Encuéntranos en', 'tlpacifico' ); ?></p> 
                                     <a class="g-font-size-15--xs g-color--white-opacity s-header__action-link" href="https://www.linkedin.com/company/18471341">
                                         <p class="g-display-none--xs g-display-inline-block--sm">Linkedin</p><br>
-                                        <img class="iconosInicio" src="<?php echo get_template_directory_uri(); ?>/img/iconos/Linkedin.svg" alt="Icono de Linkedin">
+                                        <img class="img-responsive iconosInicio" src="<?php echo get_template_directory_uri(); ?>/img/iconos/Linkedin.svg" alt="Icono de Linkedin">
                                     </a>
                                 </li>
                                 <li><a class="g-font-size-15--xs g-color--white-opacity" href="#"></a></li>
                                 <li><a class="g-font-size-15--xs g-color--white-opacity" href="#"></a></li>
                             </ul>
                         </div>
-                        <div class="col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1 s-footer__logo g-padding-y-50--xs g-padding-y-0--md">
+                        <div class="col-xs-offset-1 col-xs-11 col-md-4 col-md-offset-1 col-sm-5 col-sm-offset-1 s-footer__logo g-padding-y-50--xs g-padding-y-0--md">
                             <h3 class="g-font-size-18--xs g-color--white g-margin-l-20--xs textoBold">TL PACÍFICO</h3>
                             <p class="g-color--white-opacity">Calle Salvador Madariaga #5277<br>
                              Col. Jardines Universidad, C.P. 45110, <br>
@@ -49,12 +49,12 @@
             <!-- Copyright -->
             <div class="container g-padding-y-50--xs">
                 <div class="row">
-                    <div class="col-xs-6">
+                    <div class="col-xs-12 col-sm-6">
                         <a href="inicio">
-                            <img class="g-width-100--xs g-height-auto--xs footerLogo" src="<?php echo get_template_directory_uri(); ?>/img/logo.png" alt="Logitpo">
+                            <img class="g-width-100--xs g-height-auto--xs footerLogo img-responsive" src="<?php echo get_template_directory_uri(); ?>/img/logo.png" alt="Logitpo">
                         </a>
                     </div>
-                    <div class="col-xs-offset-1 col-xs-3 g-text-right--xs">
+                    <div class="col-xs-12 col-sm-offset-1 col-sm-3 g-text-right--xs">
                         <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light"> <?php _e( 'Ver', 'tlpacifico' ); ?>  <a href="/aviso"><?php _e( 'Aviso de Privacidad', 'tlpacifico' ); ?></a> <br>
                        ® Copyright 2018. All Rights Reserved.</p>
                     </div>

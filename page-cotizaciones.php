@@ -1,12 +1,12 @@
 <?php get_header('cotizaciones'); ?>
 
-	<main role="main">
+    <main role="main">
 
         <!--========== PROMO BLOCK ==========-->
         <div class="js__parallax-window" style="background: url(<?php echo get_template_directory_uri(); ?>/img/Cotizaciones-Slider.jpg) 50% 0 no-repeat fixed;">
             <div class="g-container--md g-text-center--xs g-padding-y-20--xs">
                 <div class="g-margin-b-60--xs">
-                    <h1 class="g-font-size-30--xs g-font-size-40--sm g-font-size-50--md g-color--white g-letter-spacing--1 g-margin-b-10--xs textoBold">Cotizaciones<br>a tu medida</h1>
+                    <h1 class="g-font-size-30--xs g-font-size-40--sm g-font-size-50--md g-color--white g-letter-spacing--1 g-margin-b-10--xs textoBold"><?php _e( 'Cotizaciones<br>a tu medida', 'tlpacifico' ); ?></h1>
                 </div>
             </div>
         </div>
@@ -97,7 +97,7 @@
                     </div>
                 </div>
                 <div class="row g-margin-b-50--xs">
-                    <input type="checkbox" name="acepta" id="acepta"> <?php _e( 'Acepto', 'tlpacifico' ); ?> <a href="aviso.html"><?php _e( 'aviso de privacidad', 'tlapcifico' ); ?></a>
+                    <input type="checkbox" name="acepta" id="acepta"> <?php _e( 'Acepto', 'tlpacifico' ); ?> <a href="aviso.html"><?php _e( 'aviso de privacidad', 'tlpacifico' ); ?></a>
                 </div>
                 <div class="g-text-center--xs">
                     <button type="submit" class="text-uppercase s-btn s-btn--md botonRojo g-radius--50 g-padding-x-70--xs g-margin-b-20--xs"><?php _e( 'Enviar', 'tlpacifico' ); ?></button>
@@ -105,9 +105,46 @@
             </form>
         </div>
         <!-- Fin Cotizaciones -->
-
         <!--========== END PAGE CONTENT ==========-->
 
 	</main>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function($){
+            $("#maritima").on( "change", function() {
+                if ($('#maritima').is(':checked') ) {
+                    $('#gmaritima').show(); //muestro mediante id
+                    $("input#terrestre").attr("disabled","true");
+                    $("input#aereo").attr("disabled","true");
+                } else {
+                    $("input#terrestre").removeAttr('disabled');
+                    $("input#aereo").removeAttr('disabled');
+                    $('#gmaritima').hide(); //muestro mediante id                   
+                }
+            });
+            $("#terrestre").on( "change", function() {
+                if ($('#terrestre').is(':checked') ) {
+                    $('#gterrestre').show(); //muestro mediante id
+                    $("input#maritima").attr("disabled","true");
+                    $("input#aereo").attr("disabled","true");
+                } else {
+                    $("input#maritima").removeAttr('disabled');
+                    $("input#aereo").removeAttr('disabled');
+                    $('#gterrestre').hide(); //muestro mediante id                   
+                }
+            });
+            $("#aereo").on( "change", function() {
+                if ($('#aereo').is(':checked') ) {
+                    $('#gaereo').show(); //muestro mediante id
+                    $("input#terrestre").attr("disabled","true");
+                    $("input#maritima").attr("disabled","true");
+                } else {
+                    $("input#terrestre").removeAttr('disabled');
+                    $("input#maritima").removeAttr('disabled');
+                    $('#gaereo').hide(); //muestro mediante id                   
+                }
+            });                
+         });                         
+    </script>
 
 <?php get_footer('cotizaciones'); ?>

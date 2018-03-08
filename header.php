@@ -56,8 +56,8 @@
                             <!-- Logo -->
                             <div class="s-header__logo">
                                 <a href="<?php echo home_url(); ?>" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="<?php echo get_template_directory_uri(); ?>/img/logo.png" alt="Logotipo de Tl Pacific">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="<?php echo get_template_directory_uri(); ?>/img/logo-dark.png" alt="Logotipo de Tl Pacific">
+                                    <img class="img-responsive s-header__logo-img s-header__logo-img-default" src="<?php echo get_template_directory_uri(); ?>/img/logo.png" alt="Logotipo de Tl Pacific">
+                                    <img class="img-responsive s-header__logo-img s-header__logo-img-shrink" src="<?php echo get_template_directory_uri(); ?>/img/logo-dark.png" alt="Logotipo de Tl Pacific">
                                 </a>
                             </div>
                             <!-- End Logo -->

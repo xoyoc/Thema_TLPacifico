@@ -14,7 +14,7 @@
                         <h5 class="puntosAviso"><?php _e( '1. Responsable del tratamiento de sus datos personales', 'tlpacifico' ); ?></h5>
                         <p><?php _e( 'TL Pacifíco S. de R.L. de C.V., con domicilio en Calle Salvador Madariaga 5277, Col. Jardines Universidad, C.P. 45110, Zapopan, Jalisco, es responsable del tratamiento de sus datos personales.', 'tlpacifico' ); ?></p>
                         <p><?php _e( 'Para el Responsable, el tratar sus datos de manera legítima resulta un tema prioritario. Este Aviso de Privacidad complementa cualesquiera otros avisos de privacidad simplificados que nuestra organización haya puesto a su disposición y resulta supletorio en todo aquello que expresamente no refieran tales avisos.', 'tlpacifico' ); ?></p>
-                        <h5 class="puntosAviso"><?php _e( '2. Departamento de datos personales:', 'tlapcifco' ); ?></h5>
+                        <h5 class="puntosAviso"><?php _e( '2. Departamento de datos personales:', 'tlpacifico' ); ?></h5>
                         <p><?php _e( 'Domicilio: Calle Salvador Madariaga 5277, Col. Jardines Universidad, C.P. 45110, Zapopan, Jalisco Correo electrónico: info@tlpacifico.com.mx Teléfono: (01 33) 3628 0717 / 2304 3668', 'tlpacifico' ); ?></p>
                         <h5 class="puntosAviso"><?php _e( '3. Finalidades del tratamiento de los datos personales', 'tlpacifico' ); ?></h5>
                         <p><?php _e( 'El Responsable en este acto recaba sus datos para las siguientes finalidades:', 'tlpacifico' ); ?></p>
@@ -56,7 +56,7 @@
                         <ul>
                             <li><?php _e( 'Cuando usted no sea el titular de los datos personales, o no haya acreditado la representación del titular;', 'tlpacifico' ); ?></li>
                             <li><?php _e( 'Cuando sus datos personales no obren en la base de datos del Responsable;', 'tlpacifico' ); ?></li>
-                            <li><?php _e( 'Cuando se lesionen los derechos de un tercero;', 'tlapcifico' ); ?></li>
+                            <li><?php _e( 'Cuando se lesionen los derechos de un tercero;', 'tlpacifico' ); ?></li>
                             <li><?php _e( 'Cuando exista un impedimento legal o la resolución de una autoridad competente que restrinja sus Derechos ARCO;', 'tlpacifico' ); ?></li>
                             <li><?php _e( 'En caso de cancelación, cuando los datos personales sean objeto de tratamiento para la prevención o para el diagnóstico médico o la gestión de servicios de salud, o;', 'tlpacifico' ); ?></li>
                             <li><?php _e( 'Cuando la rectificación, cancelación u oposición haya sido previamente realizada.', 'tlpacifico' ); ?></li>
@@ -90,8 +90,5 @@
             </div>
         </div>
         <!--========== END PAGE CONTENT ==========-->
-
-
 	</main>
-
 <?php get_footer(); ?>

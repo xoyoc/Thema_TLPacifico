@@ -9,11 +9,6 @@ msgid "1. Responsable del tratamiento de sus datos personales"
 msgstr ""
 
 #. Text in echo
-#: page-aviso.php:17
-msgid "2. Departamento de datos personales:"
-msgstr ""
-
-#. Text in echo
 #: page-aviso.php:77
 msgid "10. Modificaciones al aviso de privacidad"
 msgstr ""
@@ -21,6 +16,11 @@ msgstr ""
 #. Text in echo
 #: page-aviso.php:86
 msgid "11. Derecho de promover los procedimientos de protección de derechos y de verificación que sustancia el Instituto"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:17
+msgid "2. Departamento de datos personales:"
 msgstr ""
 
 #. Text in echo
@@ -260,6 +260,11 @@ msgid "Corporativo"
 msgstr ""
 
 #. Text in echo
+#: page-quienes-somos.php:166
+msgid "Corporativo con experiencia en las regiones comerciales más competitivas del mundo."
+msgstr ""
+
+#. Text in echo
 #: footer-contacto.php:17
 #: footer-cotizaciones.php:17
 #: footer-quienes-somos.php:17
@@ -273,6 +278,11 @@ msgstr ""
 #: header-servicios.php:91
 #: header.php:94
 msgid "Cotizaciones"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:9
+msgid "Cotizaciones<br>a tu medida"
 msgstr ""
 
 #. Text in echo
@@ -308,6 +318,11 @@ msgstr ""
 #. Text in echo
 #: page-aviso.php:48
 msgid "Cuando la solicitud sea procedente y se hayan llevado a cabo los cotejos correspondientes con respecto a la personalidad y titularidad de los Derechos ARCO, los términos para llevar a cabo la solicitud serán los siguientes:"
+msgstr ""
+
+#. Text in echo
+#: page-aviso.php:59
+msgid "Cuando se lesionen los derechos de un tercero;"
 msgstr ""
 
 #. Text in echo
@@ -684,6 +699,11 @@ msgid "PATENTE PROPIA"
 msgstr ""
 
 #. Text in echo
+#: page-quienes-somos.php:165
+msgid "PRESENCIA INTERNACIONAL"
+msgstr ""
+
+#. Text in echo
 #: page-aviso.php:23
 msgid "Para crear un perfil del titular. Este perfil será utilizado para los fines que el mismo usuario dé consentimiento."
 msgstr ""
@@ -950,6 +970,11 @@ msgid "Valores"
 msgstr ""
 
 #. Text in echo
+#: page-quienes-somos.php:156
+msgid "Ventajas Competitivas"
+msgstr ""
+
+#. Text in echo
 #: footer-contacto.php:58
 #: footer-cotizaciones.php:58
 #: footer-quienes-somos.php:58
@@ -965,6 +990,11 @@ msgstr ""
 #. Text in echo
 #: page-servicios.php:184
 msgid "agencia de carga"
+msgstr ""
+
+#. Text in echo
+#: page-cotizaciones.php:100
+msgid "aviso de privacidad"
 msgstr ""
 
 #. Text in echo
@@ -991,14 +1021,3 @@ msgstr ""
 #: page-cotizaciones.php:21
 msgid "¿Necesitas cotizar importaciones y exportaciones?<br>Completa los siguientes datos con tus requerimientos."
 msgstr ""
-
-#. Text in echo
-#: page-aviso.php:59
-msgid "Cuando se lesionen los derechos de un tercero;"
-msgstr ""
-
-#. Text in echo
-#: page-cotizaciones.php:100
-msgid "aviso de privacidad"
-msgstr ""
-

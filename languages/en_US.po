@@ -3,165 +3,119 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Language-Team: \n"
+"POT-Creation-Date: 2018-03-06 19:47+0000\n"
+"PO-Revision-Date: 2018-03-06 16:27-0600\n"
+"Language-Team: English (United States)\n"
 "MIME-Version: 1.0\n"
 "X-Generator: Poedit 2.0.6\n"
 "Last-Translator: Antonio Xoyoc Becerra Farias <xoyoc_l2@hotmail.com>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en_US\n"
+"Report-Msgid-Bugs-To: \n"
 
 #. Text in echo
-#: page-aviso.php:14
-msgid "1. Responsable del tratamiento de sus datos personales"
-msgstr "1. Responsible for the treatment of your personal data"
+#: page-cotizaciones.php:9
+msgid "Cotizaciones<br>a tu medida"
+msgstr "Rates tailored<br>to your needs"
+
+#: page-cotizaciones.php:20
+msgid "Tu mejor opción en <br> logística y gestión de carga"
+msgstr "Your best option in<br>logistics and cargo management"
 
 #. Text in echo
-#: page-aviso.php:17
-msgid "2. Departamento de datos personales:"
-msgstr "2. Personal Data Department:"
-
-#. Text in echo
-#: page-aviso.php:77
-msgid "10. Modificaciones al aviso de privacidad"
-msgstr "10. Modifications to the privacy notice"
-
-#. Text in echo
-#: page-aviso.php:86
+#: page-cotizaciones.php:21
 msgid ""
-"11. Derecho de promover los procedimientos de protección de derechos y de "
-"verificación que sustancia el Instituto"
+"¿Necesitas cotizar importaciones y exportaciones?<br>Completa los siguientes "
+"datos con tus requerimientos."
 msgstr ""
-"11. The right to promote the procedures for the protection of rights and the "
-"verification of the Institute"
+"Do you need to quote imports and exports?<br>Complete the following "
+"information with your requirements."
 
 #. Text in echo
-#: page-aviso.php:19
-msgid "3. Finalidades del tratamiento de los datos personales"
-msgstr "3. Purposes of processing personal data"
+#: page-cotizaciones.php:25 page-contacto.php:51
+msgid "Nombre"
+msgstr "Name"
 
 #. Text in echo
-#: page-aviso.php:30
-msgid "4. Datos personales que recabamos"
-msgstr "4. Personal data that we collect"
+#: page-cotizaciones.php:28
+msgid "Empresa"
+msgstr "Company"
 
 #. Text in echo
-#: page-aviso.php:33
-msgid ""
-"5. Opciones y medios para limitar el uso o divulgación de datos personales"
-msgstr "5. Options and means to limit the use or disclosure of personal data"
+#: page-cotizaciones.php:33 page-contacto.php:55
+msgid "Email"
+msgstr "Email"
 
 #. Text in echo
-#: page-aviso.php:35
-msgid ""
-"6. Medios para ejercer los derechos de acceso, rectificación, cancelación u "
-"oposición"
-msgstr ""
-"6. Means to exercise the rights of access, rectification, cancellation or "
-"opposition"
+#: page-cotizaciones.php:36
+msgid "Telefono"
+msgstr "Telephone"
 
 #. Text in echo
-#: page-aviso.php:67
-msgid ""
-"7. Mecanismos y procedimientos para que el titular, en su caso, revoque su "
-"consentimiento en cualquier momento"
-msgstr ""
-"7. Mechanisms and procedures for the owner, if applicable, revokes his "
-"consent at any time"
+#: page-cotizaciones.php:39
+msgid "Mercancía"
+msgstr "Commodity"
 
 #. Text in echo
-#: page-aviso.php:69
-msgid "8. Transferencias de datos personales dentro de México y al extranjero"
-msgstr "8. Transfers of personal data within Mexico and abroad"
+#: page-cotizaciones.php:42
+msgid "Origen de la mercancía"
+msgstr "Origin Location"
 
 #. Text in echo
-#: page-aviso.php:74
-msgid "9. Medidas de seguridad implementadas"
-msgstr "9. Implemented security measures"
+#: page-cotizaciones.php:47
+msgid "Destino de la mercancía"
+msgstr "Destination Location"
 
 #. Text in echo
-#: page-quienes-somos.php:36
-msgid ""
-"A través de nuestras alianzas podemos ofrecerle logística integral a nivel "
-"mundial y trámites aduanales en todas las fronteras de México con el "
-"exterior."
-msgstr ""
-"Through our alliances we can offer integral logistics around the globe and "
-"customs procedures in all the borders of Mexico with other countries."
+#: page-cotizaciones.php:52
+msgid "Peso Bruto KG"
+msgstr "Gross Weight (Kg)"
 
 #. Text in echo
-#: page-cotizaciones.php:100
-msgid "Acepto"
-msgstr "I agree"
+#: page-cotizaciones.php:59
+msgid "Marítima"
+msgstr "Maritime"
 
-#. Text in echo
-#: page-servicios.php:72
-msgid ""
-"Actualmente el Transporte Aéreo permite que las mercancías estén a su "
-"disposición en unas cuantas horas."
-msgstr "Air freight allows your cargo to be available in a few hours."
+#: page-cotizaciones.php:64
+msgid "Marítima + Terrestre"
+msgstr "Maritime + Ground"
 
-#. Text in echo
 #: page-cotizaciones.php:70 page-servicios.php:57
 msgid "Aéreo"
-msgstr "Air freight"
+msgstr "Air"
 
 #. Text in echo
-#: page-quienes-somos.php:9
-msgid "Agencia de Carga especializada"
-msgstr "Cargo Agency specialized"
+#: page-cotizaciones.php:76
+msgid "Detalles Marítimo"
+msgstr "Details Maritime"
 
 #. Text in echo
-#: page-servicios.php:196
-msgid ""
-"Al despachar cumpliendo con la normatividad y apoyados en una planeación "
-"previa con asesoría y clasificación arancelaria de nivel insuperable."
-msgstr ""
-"When dispatching, we comply with the regulations and are supported by prior "
-"planning with input and tariff classification of unsurpassed level."
+#: page-cotizaciones.php:82
+msgid "Detalles Terrestres"
+msgstr "Details Ground Freight"
 
 #. Text in echo
-#: page-servicios.php:209
-msgid ""
-"Al facilitar sus trámites y tareas mientras usted se enfoca en sus tareas y "
-"negocio."
-msgstr ""
-"By facilitating your paperwork and tasks while you focus on your tasks and "
-"business."
+#: page-cotizaciones.php:86
+msgid "Modalidad Terrestre"
+msgstr "Ground Service"
 
 #. Text in echo
-#: page-alianzas-y-asociados.php:8
-msgid "Alianzas & <br>Asociaciones"
-msgstr "Alliances & <br>Associates"
+#: page-cotizaciones.php:87
+msgid "Tren"
+msgstr "Rail"
+
+#: page-cotizaciones.php:88
+msgid "Tren + Camión"
+msgstr "Rail + Truck"
+
+#: page-cotizaciones.php:89
+msgid "Todo camión"
+msgstr "Full Truckload"
 
 #. Text in echo
-#: page-inicio.php:88
-msgid "Alianzas Navíeras"
-msgstr "Shipping Alliances"
-
-#. Text in echo
-#: page-alianzas-y-asociados.php:17
-msgid "Alianzas estratégicas <br> para una logística eficiente"
-msgstr "Strategic Alliances <br> for an efficient logistics"
-
-#. Text in echo
-#: page-servicios.php:134 page-servicios.php:237
-msgid ""
-"Alianzas estratégicas en EUA - CANADA de manera que operamos en estos países "
-"incluyendo despacho aduanal."
-msgstr ""
-"We have Strategic Alliances and operate in US - CANADA including Customs "
-"Clearance."
-
-#. Text in echo
-#: footer-contacto.php:12 footer-cotizaciones.php:12
-#: footer-quienes-somos.php:12 footer.php:12 header-alianzas-y-asociados.php:90
-#: header-aviso.php:90 header-contacto.php:90 header-cotizaciones.php:90
-#: header-oficinas.php:90 header-quienes-somos.php:91 header-servicios.php:90
-#: header.php:93
-msgid "Alianzas y Asociados"
-msgstr "Alliances & Associates"
+#: page-cotizaciones.php:92
+msgid "Detalles Aéreo"
+msgstr "Details Air Freight"
 
 #. Text in echo
 #: page-cotizaciones.php:93
@@ -174,62 +128,201 @@ msgid "Ancho"
 msgstr "Width"
 
 #. Text in echo
-#: page-aviso.php:81
-msgid "Anuncios visibles en las oficinas corporativas;"
-msgstr "Visible ads in corporate offices;"
+#: page-cotizaciones.php:95
+msgid "Largo"
+msgstr "Length"
 
 #. Text in echo
-#: page-servicios.php:120
-msgid "Asesoría en Logística Aduanas, Servicios Intermodales y Almacenaje."
-msgstr "Logistics, Customs, Intermodal Services and Warehousing consulting."
+#: page-cotizaciones.php:100
+msgid "Acepto"
+msgstr "I agree"
 
 #. Text in echo
-#: page-alianzas-y-asociados.php:79 page-inicio.php:135
-msgid "Asociaciones"
-msgstr "Associations"
+#: page-cotizaciones.php:100
+msgid "aviso de privacidad"
+msgstr "privacy notice"
 
 #. Text in echo
-#: footer-contacto.php:58 footer-cotizaciones.php:58
-#: footer-quienes-somos.php:58 footer.php:58
-msgid "Aviso de Privacidad"
-msgstr "Privacy Notice"
+#: page-cotizaciones.php:103 page-contacto.php:65
+msgid "Enviar"
+msgstr "Submit"
 
 #. Text in echo
-#: page-aviso.php:10
-msgid "Aviso de privacidad"
-msgstr "Privacy notice"
+#: page-contacto.php:22 footer.php:19 footer-quienes-somos.php:19
+#: footer-cotizaciones.php:19 footer-contacto.php:19
+msgid "Contacto"
+msgstr "Contact Us"
 
 #. Text in echo
-#: page-servicios.php:66
+#: page-contacto.php:23
+msgid "Escríbenos"
+msgstr "Write Us"
+
+#: page-contacto.php:24
+msgid "En TL Pacifíco nos encantaría saber de ti."
+msgstr "In TL Pacifico, we would love to hear from you."
+
+#. Text in echo
+#: page-contacto.php:37
+msgid "Dirección"
+msgstr "Address"
+
+#. Text in echo
+#: page-contacto.php:44
+msgid "Llamar"
+msgstr "To call"
+
+#. Text in echo
+#: page-contacto.php:58
+msgid "Teléfono"
+msgstr "Telephone"
+
+#. Text in echo
+#: page-contacto.php:62
+msgid "Tu mensaje"
+msgstr "You message"
+
+#. Name of the template
+msgid "Demo Page Template"
+msgstr "Demo Page Template"
+
+#. Text in echo
+#: page-inicio.php:11 page-inicio.php:20
+msgid "Logística sin límites"
+msgstr "Unlimited Logistics"
+
+#. Text in echo
+#: page-inicio.php:36
+msgid "Conoce más"
+msgstr "Makes us unique"
+
+#. Text in echo
+#: page-inicio.php:46 page-quienes-somos.php:99
+msgid "Descubre"
+msgstr "Discover"
+
+#. Text in echo
+#: page-inicio.php:49
+msgid "Quiénes"
+msgstr "About"
+
+#. Text in echo
+#: page-inicio.php:54 page-quienes-somos.php:33
+msgid "Somos"
+msgstr "Us"
+
+#: page-inicio.php:59
 msgid ""
-"Brindamos el servicio de Flete Marítimo de mercancías más flexible y seguro "
-"en las modalidades de Contenedor Marítimo Completo (FCL)."
+"Somos una empresa consolidada como Agencia de Carga especializada en "
+"operaciones logísticas a nivel internacional, con la finalidad de ofrecer "
+"servicios profesionales altamente eficientes."
 msgstr ""
-"We offer a more flexible & safe option,  Full Container Load ocean freight."
+"We are a company consolidated as a Cargo Agency specialized in international "
+"logistics operations, with the purpose of offering highly efficient "
+"professional services."
+
+#: page-inicio.php:60 page-servicios.php:273
+msgid ""
+"Nos adaptamos a las necesidades del cliente, optimizando costos y tiempos de "
+"tránsito con un servicio personalizado de primera calidad, brindando siempre "
+"las mejores tarifas de cualquier puerto del mundo."
+msgstr ""
+"We adapt to our clients’ needs by optimizing costs and transit times with a "
+"personalized service, having the best rates of any port in the world."
+
+#: page-inicio.php:61
+msgid ""
+"Tenemos la experiencia para facilitar sus exportaciones e importaciones, sin "
+"importar que sean del océano Pacifíco o del Atlántico."
+msgstr ""
+"We have the experience to facilitate your imports and exports, regardless of "
+"whether they are from the Pacific or the Atlantic Ocean."
 
 #. Text in echo
-#: page-quienes-somos.php:111
-msgid ""
-"Brindar servicios y alternativas de excelente calidad que conduzcan a la "
-"satisfacción total de nuestros clientes."
-msgstr ""
-"Provide services and alternatives of excellent quality that lead to the "
-"total satisfaction of our customers."
+#: page-inicio.php:76
+msgid "Facilitamos su operación con rapidez, transparencia y eficiencia"
+msgstr "We facilitate your operation with speed, transparency and efficiency"
 
 #. Text in echo
 #: page-inicio.php:79
 msgid "CONOCE NUESTROS SERVICIOS"
 msgstr "OUR SERVICES"
 
-#. Text in echo
-#: page-servicios.php:10
-msgid "Comercio Exterior"
-msgstr "Foreign Trade"
+#: page-inicio.php:88
+msgid "Alianzas Navíeras"
+msgstr "Shipping Alliances"
 
 #. Text in echo
-#: page-servicios.php:208
-msgid "Comodidad"
-msgstr "Comfort"
+#: page-inicio.php:135 page-alianzas-y-asociados.php:79
+msgid "Asociaciones"
+msgstr "Associations"
+
+#. Text in echo
+#: page-inicio.php:175
+msgid "Noticias"
+msgstr "News"
+
+#: page-inicio.php:204
+msgid "VER MÁS NOTICIAS"
+msgstr "VIEW MORE NEWS"
+
+#. Text in echo
+#: header-alianzas-y-asociados.php:65 header-quienes-somos.php:66 header.php:68
+#: header-oficinas.php:65 header-contacto.php:65 header-aviso.php:65
+#: header-cotizaciones.php:65 header-servicios.php:65
+msgid "MENÚ"
+msgstr "MENU"
+
+#. Text in echo
+#: header-alianzas-y-asociados.php:87 header-quienes-somos.php:88 footer.php:9
+#: header.php:90 header-oficinas.php:87 header-contacto.php:87
+#: footer-quienes-somos.php:9 header-aviso.php:87 header-cotizaciones.php:87
+#: footer-cotizaciones.php:9 footer-contacto.php:9 header-servicios.php:87
+msgid "Inicio"
+msgstr "Home"
+
+#. Text in echo
+#: header-alianzas-y-asociados.php:88 header-alianzas-y-asociados.php:93
+#: header-quienes-somos.php:89 header-quienes-somos.php:94 footer.php:10
+#: header.php:91 header.php:96 header-oficinas.php:88 header-oficinas.php:93
+#: header-contacto.php:88 header-contacto.php:93 footer-quienes-somos.php:10
+#: header-aviso.php:88 header-aviso.php:93 header-cotizaciones.php:88
+#: header-cotizaciones.php:93 footer-cotizaciones.php:10 footer-contacto.php:10
+#: header-servicios.php:88 header-servicios.php:93
+msgid "Quiénes Somos"
+msgstr "About Us"
+
+#. Text in echo
+#: header-alianzas-y-asociados.php:89 header-quienes-somos.php:90 footer.php:11
+#: header.php:92 header-oficinas.php:89 header-contacto.php:89
+#: footer-quienes-somos.php:11 header-aviso.php:89 header-cotizaciones.php:89
+#: footer-cotizaciones.php:11 footer-contacto.php:11 header-servicios.php:89
+msgid "Servicios"
+msgstr "Services"
+
+#. Text in echo
+#: header-alianzas-y-asociados.php:90 header-quienes-somos.php:91 footer.php:12
+#: header.php:93 header-oficinas.php:90 header-contacto.php:90
+#: footer-quienes-somos.php:12 header-aviso.php:90 header-cotizaciones.php:90
+#: footer-cotizaciones.php:12 footer-contacto.php:12 header-servicios.php:90
+msgid "Alianzas y Asociados"
+msgstr "Alliances & Associates"
+
+#. Text in echo
+#: header-alianzas-y-asociados.php:91 header-quienes-somos.php:92 footer.php:17
+#: header.php:94 header-oficinas.php:91 header-contacto.php:91
+#: footer-quienes-somos.php:17 header-aviso.php:91 header-cotizaciones.php:91
+#: footer-cotizaciones.php:17 footer-contacto.php:17 header-servicios.php:91
+msgid "Cotizaciones"
+msgstr "Request a quote"
+
+#. Text in echo
+#: header-alianzas-y-asociados.php:92 header-quienes-somos.php:93 footer.php:18
+#: header.php:95 header-oficinas.php:92 header-contacto.php:92
+#: footer-quienes-somos.php:18 header-aviso.php:92 header-cotizaciones.php:92
+#: footer-cotizaciones.php:18 footer-contacto.php:18 header-servicios.php:92
+msgid "Oficinas"
+msgstr "Offices"
 
 #. Text in echo
 #: page-oficinas.php:21
@@ -237,178 +330,182 @@ msgid "Conoce a todos los"
 msgstr "Meet all the members"
 
 #. Text in echo
-#: page-servicios.php:83
-msgid "Conoce los"
-msgstr "Makes us unique"
+#: page-oficinas.php:22
+msgid "Miembros del <br> Corporativo"
+msgstr "Members of our <br> Corporate Offices"
+
+#: footer.php:26 footer-quienes-somos.php:26 footer-cotizaciones.php:26
+#: footer-contacto.php:26
+msgid "Encuéntranos en"
+msgstr "Find us in"
 
 #. Text in echo
-#: page-inicio.php:36
-msgid "Conoce más"
-msgstr ""
+#: footer.php:58 footer-quienes-somos.php:58 footer-cotizaciones.php:58
+#: footer-contacto.php:58
+msgid "Ver"
+msgstr "View"
 
 #. Text in echo
-#: page-aviso.php:72
+#: footer.php:58 footer-quienes-somos.php:58 footer-cotizaciones.php:58
+#: footer-contacto.php:58
+msgid "Aviso de Privacidad"
+msgstr "Privacy Notice"
+
+#. Text in echo
+#: page-alianzas-y-asociados.php:8
+msgid "Alianzas & <br>Asociaciones"
+msgstr "Alliances & <br>Associates"
+
+#: page-alianzas-y-asociados.php:17
+msgid "Alianzas estratégicas <br> para una logística eficiente"
+msgstr "Strategic Alliances <br> for an efficient logistics"
+
+#. Text in echo
+#: page-alianzas-y-asociados.php:60
+msgid "Principales Navieras"
+msgstr "Main Shipping companies"
+
+#: functions.php:160
+msgid "Menu Principal"
+msgstr "Main menu"
+
+#. Text in echo
+#: page-aviso.php:10
+msgid "Aviso de privacidad"
+msgstr "Privacy notice"
+
+#. Text in echo
+#: page-aviso.php:14
+msgid "1. Responsable del tratamiento de sus datos personales"
+msgstr "1. Responsible for the treatment of your personal data"
+
+#: page-aviso.php:15
 msgid ""
-"Consiento que mis datos personales sean compartidos en los términos de este "
-"aviso de privacidad."
+"TL Pacifíco S. de R.L. de C.V., con domicilio en Calle Salvador Madariaga "
+"5277, Col. Jardines Universidad, C.P. 45110, Zapopan, Jalisco, es "
+"responsable del tratamiento de sus datos personales."
 msgstr ""
-"I consent to share my personal data in the terms of this privacy notice."
+"TL Pacifico S. de R.L. de C.V., Salvador Madariaga 5277, Col. Jardines "
+"Universidad, C.P. 45110, Zapopan, Jalisco, is responsible for processing "
+"your personal data."
 
-#. Text in echo
-#: footer-contacto.php:19 footer-cotizaciones.php:19
-#: footer-quienes-somos.php:19 footer.php:19 page-contacto.php:22
-msgid "Contacto"
-msgstr "Contact Us"
-
-#. Text in echo
-#: page-servicios.php:158
+#: page-aviso.php:16
 msgid ""
-"Contamos con una red de agentes a nivel mundial que nos permite agilizar "
-"tiempos y eficientar los procesos."
+"Para el Responsable, el tratar sus datos de manera legítima resulta un tema "
+"prioritario. Este Aviso de Privacidad complementa cualesquiera otros avisos "
+"de privacidad simplificados que nuestra organización haya puesto a su "
+"disposición y resulta supletorio en todo aquello que expresamente no "
+"refieran tales avisos."
 msgstr ""
-"Worldwide Agent Network which allows us to speed up and have efficient "
-"processes."
+"For the Company, treating your data in a legitimate way is a priority issue. "
+"This Privacy Notice complements any other simplified privacy notices that "
+"our organization has placed at your disposal and is supplementary in "
+"everything that does not expressly refer in such notices."
 
 #. Text in echo
-#: page-servicios.php:61
-msgid "Contenedor"
-msgstr "Container"
+#: page-aviso.php:17
+msgid "2. Departamento de datos personales:"
+msgstr "2. Personal Data Department:"
 
-#. Text in echo
-#: page-servicios.php:75
-msgid "Contenedor completo con mercancía de un único cargador."
-msgstr ""
-"Less Container Load, full container of merchandise of a single carrier."
-
-#. Text in echo
-#: page-quienes-somos.php:147
-msgid "Contáctanos"
-msgstr "Contact us"
-
-#. Text in echo
-#: page-servicios.php:146
+#: page-aviso.php:18
 msgid ""
-"Convenios con las principales Terminales Marítimas, Navieras y Asociaciones "
-"ligadas al Comercio exterior en México y a nivel internacional."
+"Domicilio: Calle Salvador Madariaga 5277, Col. Jardines Universidad, C.P. "
+"45110, Zapopan, Jalisco Correo electrónico: info@tlpacifico.com.mx Teléfono: "
+"(01 33) 3628 0717 / 2304 3668"
 msgstr ""
-"Agreements with the main maritime terminals, shipping companies and "
-"associations linked to Mexico and international foreign trade."
+"Address: Calle Salvador Madariaga 5277, Col. Jardines Universidad, C.P. "
+"45110, Zapopan, Jalisco Correo electrónico: info@tlpacifico.com.mx Teléfono: "
+"(01 33) 3628 0717 / 2304 3668"
 
 #. Text in echo
-#: page-servicios.php:96
+#: page-aviso.php:19
+msgid "3. Finalidades del tratamiento de los datos personales"
+msgstr "3. Purposes of processing personal data"
+
+#. Text in echo
+#: page-aviso.php:20
 msgid ""
-"Coordinación de los embarques con nuestra red de agentes en todo el mundo."
-msgstr "Shipment coordination with our network agents around the globe."
+"El Responsable en este acto recaba sus datos para las siguientes finalidades:"
+msgstr "The Responsible part collects your data for the following purposes:"
 
 #. Text in echo
-#: page-quienes-somos.php:66
-msgid "Corporativo"
-msgstr "Corporate"
-
-#. Text in echo
-#: footer-contacto.php:17 footer-cotizaciones.php:17
-#: footer-quienes-somos.php:17 footer.php:17 header-alianzas-y-asociados.php:91
-#: header-aviso.php:91 header-contacto.php:91 header-cotizaciones.php:91
-#: header-oficinas.php:91 header-quienes-somos.php:92 header-servicios.php:91
-#: header.php:94
-msgid "Cotizaciones"
-msgstr "Request a quote"
-
-#. Text in echo
-#: page-servicios.php:268
-msgid "Cotizar"
-msgstr "Request a quote"
-
-#. Text in echo
-#: page-aviso.php:44
+#: page-aviso.php:22
 msgid ""
-"Cualquier documento o información que acredite que sus datos personales se "
-"encuentran en propiedad de LCTPC;"
+"Para darlo de alta como cliente y/o proveedor de nuestros productos y/o "
+"servicios."
 msgstr ""
-"Any document or information that proves that your personal data is owned by "
-"LCTPC;"
+"To register you as a client and / or supplier of our products and / or "
+"services."
 
-#. Text in echo
-#: page-aviso.php:87
+#: page-aviso.php:23
 msgid ""
-"Cualquier queja o información adicional respecto al tratamiento de sus datos "
-"personales o duda en relación con la Ley Federal de Protección de Datos "
-"Personales en Posesión de los Particulares o con su Reglamento, podrá "
-"dirigirla al IFAI. Para mayor información visite"
+"Para crear un perfil del titular. Este perfil será utilizado para los fines "
+"que el mismo usuario dé consentimiento."
 msgstr ""
-"Any complaint or additional information regarding the processing of your "
-"personal data or doubt in relation to the Federal Data Protection Law\n"
-"Personal in Possession of the Individuals or with its Regulations, may "
-"direct it to the IFAI. For more information visit"
+"To create a profile of the owner. This profile will be used for the purposes "
+"that the same user gives consent."
 
-#. Text in echo
-#: page-aviso.php:76
+#: page-aviso.php:24
 msgid ""
-"Cuando comunicamos o compartimos su información con terceros que nos prestan "
-"algún servicio, requerimos y verificamos que cuenten con las medidas de "
-"seguridad necesarias para proteger sus datos personales, prohibiendo el uso "
-"de su información personal para fines distintos a los encargados; lo "
-"anterior en el entendido que no obstante lo anterior, cualquier "
-"incumplimiento por dichos terceros a lo previsto en la Ley Federal de "
-"Protección de Datos Personales en Posesión de los Particulares y su "
-"Reglamento es exclusiva responsabilidad de dichos terceros."
+"Procesar sus solicitudes, y por lo tanto administrar la relación que quiere "
+"establecer con TL Pacifíco S. de R.L. de C.V. o la ya establecida entre "
+"usted y la sociedad misma."
 msgstr ""
-"When we communicate or share your information with third parties that "
-"provide us with a service, we require and verify that they have the "
-"necessary security measures to protect your personal data, prohibiting the "
-"use of your personal information for purposes other than those in charge; in "
-"the understanding that notwithstanding the foregoing, any breach by said "
-"third parties to the provisions of the Federal Law on Protection of Personal "
-"Data Held by Private Parties and its Regulations is the exclusive "
-"responsibility of said third parties."
+"Process your requests, and therefore manage the relationship you want to "
+"establish with TL Pacifico S. de R.L. of C.V. or the one already established "
+"between you and the society itself."
 
-#. Text in echo
-#: page-aviso.php:60
+#: page-aviso.php:25
 msgid ""
-"Cuando exista un impedimento legal o la resolución de una autoridad "
-"competente que restrinja sus Derechos ARCO;"
+"Para las finalidades administrativas de todas formas relacionadas con el "
+"desempeño de las obligaciones contractuales relativas, para el desempeño de "
+"las obligaciones de ley, como por ejemplo, las de tipo contable o fiscal."
 msgstr ""
-"When there is a legal impediment or the resolution of a competent authority "
-"that restricts your ARCO Rights;"
+"For administrative purposes in any way related to the performance of the "
+"relative contractual obligations, for the performance of the obligations of "
+"the law, such as, accounting or fiscal obligations."
 
-#. Text in echo
-#: page-aviso.php:62
+#: page-aviso.php:26
 msgid ""
-"Cuando la rectificación, cancelación u oposición haya sido previamente "
-"realizada."
+"Para dar seguimiento a solicitudes que usted nos haya planteado, cualquiera "
+"que sea el motivo, tales como información de productos y/o servicios, "
+"cotizaciones, y otros análogos."
 msgstr ""
-"When the rectification, cancellation or opposition has been previously made."
+"Follow up on requests that you made (client), whatever the reason, such as "
+"product and / or service information, quotes, and other concerns."
 
 #. Text in echo
-#: page-aviso.php:48
+#: page-aviso.php:27
 msgid ""
-"Cuando la solicitud sea procedente y se hayan llevado a cabo los cotejos "
-"correspondientes con respecto a la personalidad y titularidad de los "
-"Derechos ARCO, los términos para llevar a cabo la solicitud serán los "
-"siguientes:"
+"Transferir sus datos, en caso de que se requiera a otras empresas del grupo "
+"corporativo, socios comerciales y/o prestadores de servicios."
 msgstr ""
-"When the request is approved and the comparison checks out with respect to "
-"the personality and ownership of ARCO Rights, the terms to carry out the "
-"request will be the following:"
+"Transfer your data, if required, to other companies in the corporate group, "
+"business partners and/or service providers."
 
 #. Text in echo
-#: page-aviso.php:58
+#: page-aviso.php:28
+msgid "Garantizar un tratamiento correcto y adecuado."
+msgstr "Guarantee the correct and adequate treatment."
+
+#. Text in echo
+#: page-aviso.php:30
+msgid "4. Datos personales que recabamos"
+msgstr "4. Personal data that we collect"
+
+#: page-aviso.php:31
 msgid ""
-"Cuando sus datos personales no obren en la base de datos del Responsable;"
+"Recabamos sus datos personales de forma directa cuando usted mismo nos los "
+"proporciona, ya sea personalmente, por teléfono, a través de correo "
+"electrónico o de nuestro sitio Web. Los datos que obtenemos pueden ser, "
+"entre otros, los siguientes: nombre, domicilio, teléfono, correo "
+"electrónico, etc."
 msgstr ""
-"When your personal data does not work in the database of the Responsible "
-"party;"
+"We collect your personal information directly when you provide it to us "
+"personally, by phone, through e-mail or through our website. The data that "
+"we obtain can be, among others, the following: name, address, telephone, e-"
+"mail, etc."
 
-#. Text in echo
-#: page-aviso.php:57
-msgid ""
-"Cuando usted no sea el titular de los datos personales, o no haya acreditado "
-"la representación del titular;"
-msgstr ""
-"When you are not the owner of the personal data, or have not accredited the "
-"owner’s representation;"
-
-#. Text in echo
 #: page-aviso.php:32
 msgid ""
 "De conformidad con lo que establece el artículo 9 de la Ley Federal de "
@@ -427,7 +524,97 @@ msgstr ""
 "mechanism that we have implemented for these purposes, or if applicable, "
 "provide us with this document duly signed."
 
+#: page-aviso.php:33
+msgid ""
+"5. Opciones y medios para limitar el uso o divulgación de datos personales"
+msgstr "5. Options and means to limit the use or disclosure of personal data"
+
+#: page-aviso.php:34
+msgid ""
+"Usted puede dejar de recibir mensajes por correo electrónico, impresos, por "
+"teléfono fijo o celular comunicándose con nuestro Responsable de Datos "
+"Personales."
+msgstr ""
+"The mechanisms that were implemented to exercise these rights are through "
+"the presentation of the respective request to our Administration Department, "
+"by sending an e-mail (to the one previously indicated). You can obtain this "
+"request by sending an e-mail to the Personal Data Department."
+
+#: page-aviso.php:35
+msgid ""
+"6. Medios para ejercer los derechos de acceso, rectificación, cancelación u "
+"oposición"
+msgstr ""
+"6. Means to exercise the rights of access, rectification, cancellation or "
+"opposition"
+
+#: page-aviso.php:36
+msgid ""
+"Usted tiene el derecho de acceder a sus datos personales que poseemos y a "
+"los detalles del tratamiento de los mismos, así como a rectificarlos en caso "
+"de ser inexactos o incompletos; cancelarlos cuando resulten ser excesivos o "
+"innecesarios para las finalidades que justificaron su obtención u oponerse "
+"al tratamiento de los mismos para fines específicos."
+msgstr ""
+"You have the right to access the personal data that we have and the details "
+"of their treatment, as well as to correct them if they are inaccurate or "
+"incomplete; cancel them when they are excessive or unnecessary for the "
+"purposes that were obtained or oppose to the treatment of your data for "
+"specific purposes."
+
+#: page-aviso.php:37
+msgid ""
+"Los mecanismos que se han implementado para el ejercicio de dichos derechos "
+"son a través de la presentación de la solicitud respectiva a nuestro "
+"Departamento de Administración, enviando un correo electrónico al señalado "
+"previamente. Usted puede obtener dicha solicitud al enviar el correo al "
+"Departamento de Datos Personales."
+msgstr ""
+"The mechanisms that were implemented to exercise these rights are through "
+"the presentation of the respective request to our Administration Department, "
+"by sending an e-mail (to the one previously indicated). You can obtain this "
+"request by sending an e-mail to the Personal Data Department."
+
+#: page-aviso.php:38
+msgid ""
+"Para el ejercicio de sus derechos, usted debe presentar una solicitud "
+"(“Solicitud de Ejercicio de Derechos ARCO”) al Responsable, acompañando la "
+"siguiente información:"
+msgstr ""
+"To exercise your rights, you must submit an application (“Request for "
+"Exercise of Rights ARCO”) to the Responsible, with the following information:"
+
 #. Text in echo
+#: page-aviso.php:40
+msgid "Nombre y domicilio completo;"
+msgstr "Name and address;"
+
+#: page-aviso.php:41
+msgid ""
+"Identificación con la que acredite su personalidad (Credencial para votar "
+"emitida por el Instituto Federal Electoral [“IFE”], Pasaporte vigente, "
+"Cédula Profesional, o en caso de ser de nacionalidad extranjera, su "
+"documento migratorio vigente);"
+msgstr ""
+"Personal Identification (IFE, Passport, Professional Certification or if you "
+"are from another country, Immigration Document);"
+
+#: page-aviso.php:42
+msgid ""
+"En caso de no ser el titular quien presente la solicitud, el documento que "
+"acredite la existencia de la representación, es decir instrumento público o "
+"carta poder firmada ante dos testigos, junto con la identificación del "
+"titular y del representante legal (Credencial del IFE, Pasaporte vigente, "
+"Cédula Profesional, o en caso de ser de nacionalidad extranjera, su "
+"documento migratorio vigente):"
+msgstr ""
+"If another person wants to submit the application for you, he/ she will need "
+"a document proving the existence of the representation, i.e. public "
+"instrument or power of attorney signed before two witnesses, together with "
+"the identification of the holder and the legal representative (IFE "
+"Credential,  Passport, Professional Certification, or in case of being of "
+"foreign nationality, immigration document):"
+
 #: page-aviso.php:43
 msgid ""
 "Descripción clara y precisa de los datos personales respecto de los cuales "
@@ -438,75 +625,26 @@ msgstr ""
 "exercise any of the ARCO Rights, what is the right to exercise and the "
 "reasons why do you want to exercise it;"
 
-#. Text in echo
-#: page-inicio.php:46 page-quienes-somos.php:99
-msgid "Descubre"
-msgstr "Discover"
-
-#. Text in echo
-#: page-servicios.php:182
-msgid "Descubre porqué"
-msgstr "Discover why we"
-
-#. Text in echo
-#: page-servicios.php:108
+#: page-aviso.php:44
 msgid ""
-"Despacho Aduanal Integrado con nuestra propia patente (3590) por los puertos "
-"de Lázaro Cárdenas, Progreso y Aduana de Nuevo Laredo / Veracruz y "
-"Manzanillo."
+"Cualquier documento o información que acredite que sus datos personales se "
+"encuentran en propiedad de LCTPC;"
 msgstr ""
-"Integrated Customs Clearance with our own patent (3590) providing services "
-"in the seaports of Lazaro Cardenas, Progreso and Customs of Nuevo Laredo / "
-"Veracruz and Manzanillo."
+"Any document or information that proves that your personal data is owned by "
+"LCTPC;"
 
-#. Text in echo
-#: page-cotizaciones.php:47
-msgid "Destino de la mercancía"
-msgstr "Destination Location"
-
-#. Text in echo
-#: page-cotizaciones.php:92
-msgid "Detalles Aéreo"
-msgstr "Details Air Freight"
-
-#. Text in echo
-#: page-cotizaciones.php:76
-msgid "Detalles Marítimo"
-msgstr "Details Maritime"
-
-#. Text in echo
-#: page-cotizaciones.php:82
-msgid "Detalles Terrestres"
-msgstr "Details Ground Freight"
-
-#. Text in echo
-#: page-contacto.php:37
-msgid "Dirección"
-msgstr "Address"
-
-#. Text in echo
-#: page-servicios.php:195
-msgid "Disminución de riesgos"
-msgstr "Decrease in risks"
-
-#. Text in echo
-#: page-aviso.php:18
+#: page-aviso.php:45
 msgid ""
-"Domicilio: Calle Salvador Madariaga 5277, Col. Jardines Universidad, C.P. "
-"45110, Zapopan, Jalisco Correo electrónico: info@tlpacifico.com.mx Teléfono: "
-"(01 33) 3628 0717 / 2304 3668"
+"En caso de solicitar una rectificación de datos, se indicarán también las "
+"modificaciones a realizarse y se aportará la documentación que sustente su "
+"petición (acta de nacimiento, comprobante de domicilio, o aquél en el que "
+"conste y se motive el cambio que se va a realizar en sus datos personales)."
 msgstr ""
-"Address: Calle Salvador Madariaga 5277, Col. Jardines Universidad, C.P. "
-"45110, Zapopan, Jalisco E-mail: info@tlpacifico.com.mx\n"
-"Telephone: (01 33) 3628 0717 / 2304 3668"
+"In case of requesting a rectification of your data, the modifications to be "
+"made will also be indicated and the documentation supporting your request "
+"will be provided (birth certificate and proof of your address - water or "
+"telephone bill)."
 
-#. Text in echo
-#: page-aviso.php:20
-msgid ""
-"El Responsable en este acto recaba sus datos para las siguientes finalidades:"
-msgstr "The Responsible part collects your data for the following purposes:"
-
-#. Text in echo
 #: page-aviso.php:47
 msgid ""
 "El Responsable responderá su solicitud mediante correo electrónico, en un "
@@ -531,446 +669,17 @@ msgstr ""
 "request will be filed and the Privacy Notice will continue in effect until a "
 "new application is submitted."
 
-#. Text in echo
-#: page-aviso.php:65
+#: page-aviso.php:48
 msgid ""
-"El ejercicio de los \"Derechos ARCO\" será gratuito, pero si Usted reitera "
-"su solicitud en un periodo menor a 12 (doce) meses, los costos serán de 3 "
-"(tres) días de Salario Mínimo General Vigente en el Distrito Federal, más el "
-"Impuesto al Valor Agregado, a menos que existan modificaciones sustanciales "
-"al Aviso de Privacidad que motiven nuevas Solicitudes de Ejercicio de "
-"Derechos ARCO. Usted deberá de cubrir los gastos justificados de envío o el "
-"costo de reproduc- ción en copias u otros formatos."
+"Cuando la solicitud sea procedente y se hayan llevado a cabo los cotejos "
+"correspondientes con respecto a la personalidad y titularidad de los "
+"Derechos ARCO, los términos para llevar a cabo la solicitud serán los "
+"siguientes:"
 msgstr ""
-"The exercise of “ARCO Rights” will be free, but if you repeat your request "
-"in a period less than 12 (twelve) months, the costs will be 3 (three) days "
-"of General Minimum Wage plus the Tax to the Added Value (IVA), unless there "
-"are substantial modifications to the Privacy Notice that motivates a new "
-"Request for the Exercise of ARCO Rights. You must cover the justified "
-"shipping costs or the cost of reproduction in copies or other formats."
+"When the request is approved and the comparison checks out with respect to "
+"the personality and ownership of ARCO Rights, the terms to carry out the "
+"request will be the following:"
 
-#. Text in echo
-#: page-contacto.php:55 page-cotizaciones.php:33
-msgid "Email"
-msgstr "Email"
-
-#. Text in echo
-#: page-cotizaciones.php:28
-msgid "Empresa"
-msgstr "Company"
-
-#. Text in echo
-#: page-contacto.php:24
-msgid "En TL Pacifíco nos encantaría saber de ti."
-msgstr "In TL Pacifico, we would love to hear from you."
-
-#. Text in echo
-#: page-aviso.php:61
-msgid ""
-"En caso de cancelación, cuando los datos personales sean objeto de "
-"tratamiento para la prevención o para el diagnóstico médico o la gestión de "
-"servicios de salud, o;"
-msgstr ""
-"In case of cancellation, when personal data is subject to treatment for "
-"prevention or for medical diagnosis or management of health services, or;"
-
-#. Text in echo
-#: page-aviso.php:42
-msgid ""
-"En caso de no ser el titular quien presente la solicitud, el documento que "
-"acredite la existencia de la representación, es decir instrumento público o "
-"carta poder firmada ante dos testigos, junto con la identificación del "
-"titular y del representante legal (Credencial del IFE, Pasaporte vigente, "
-"Cédula Profesional, o en caso de ser de nacionalidad extranjera, su "
-"documento migratorio vigente):"
-msgstr ""
-"If another person wants to submit the application for you, he/ she will need "
-"a document proving the existence of the representation, i.e. public "
-"instrument or power of attorney signed before two witnesses, together with "
-"the identification of the holder and the legal representative (IFE "
-"Credential,  Passport, Professional Certification, or in case of being of "
-"foreign nationality, immigration document):"
-
-#. Text in echo
-#: page-aviso.php:45
-msgid ""
-"En caso de solicitar una rectificación de datos, se indicarán también las "
-"modificaciones a realizarse y se aportará la documentación que sustente su "
-"petición (acta de nacimiento, comprobante de domicilio, o aquél en el que "
-"conste y se motive el cambio que se va a realizar en sus datos personales)."
-msgstr ""
-"In case of requesting a rectification of your data, the modifications to be "
-"made will also be indicated and the documentation supporting your request "
-"will be provided (birth certificate and proof of your address- water or "
-"telephone bill)."
-
-#. Text in echo
-#: page-aviso.php:68
-msgid ""
-"En cualquier momento del tratamiento usted podrá revocar el consentimiento "
-"que ha otorgado para el tratamiento de sus datos, para ello es necesario que "
-"contacte al Responsable de protección de datos, donde le será indicado el "
-"procedimiento que debe seguir para realizar la revocación de su "
-"consentimiento."
-msgstr ""
-"At any time during the processing, you may revoke the consent you have given "
-"for the processing of your data, for this you must contact the data "
-"protection officer, where you will be informed of the procedure to be "
-"followed in order to revoke your consent."
-
-#. Text in echo
-#: page-aviso.php:83
-msgid "En nuestra página de Internet"
-msgstr "Our website"
-
-#. Text in echo
-#: footer-contacto.php:26 footer-cotizaciones.php:26
-#: footer-quienes-somos.php:26 footer.php:26
-msgid "Encuéntranos en"
-msgstr "Find us in"
-
-#. Text in echo
-#: page-contacto.php:65 page-cotizaciones.php:103
-msgid "Enviar"
-msgstr "Submit"
-
-#. Text in echo
-#: page-contacto.php:23
-msgid "Escríbenos"
-msgstr "Write Us"
-
-#. Text in echo
-#: page-quienes-somos.php:178
-msgid ""
-"Especializados en brindar excelente servicio marítimo en la zona del "
-"Pacifíco, Asia y Sudamérica incluyendo despacho aduanal."
-msgstr ""
-"Specialized in providing excellent maritime service in the Pacific, Asia and "
-"South America including customs clearance."
-
-#. Text in echo
-#: page-aviso.php:79
-msgid ""
-"Estas modificaciones estarán disponibles al público a través de los "
-"siguientes medios:"
-msgstr ""
-"These modifications will be available to the public through the following "
-"means:"
-
-#. Text in echo
-#: page-servicios.php:249
-msgid "Excelentes relaciones institucionales"
-msgstr "Excellent institutional relations"
-
-#. Text in echo
-#: page-inicio.php:76
-msgid "Facilitamos su operación con rapidez, transparencia y eficiencia"
-msgstr "We facilitate your operation with speed, transparency and efficiency"
-
-#. Text in echo
-#: page-aviso.php:28
-msgid "Garantizar un tratamiento correcto y adecuado."
-msgstr "Guarantee the correct and adequate treatment."
-
-#. Text in echo
-#: page-quienes-somos.php:35
-msgid ""
-"Gracias a nuestra experiencia y nuestros múltiples clientes satisfechos, "
-"seguimos avanzando hacia la excelencia mediante una filosofía de atención y "
-"calidad en el trabajo, ofreciendo un servicio personalizado a cada uno de "
-"nuestros clientes."
-msgstr ""
-"Because of our experience and our pleased clients we keep on going towards "
-"excellence through a philosophy of attention and quality in the work we "
-"perform, offering personalized services to every single one of our customers."
-
-#. Text in echo
-#: page-aviso.php:41
-msgid ""
-"Identificación con la que acredite su personalidad (Credencial para votar "
-"emitida por el Instituto Federal Electoral [“IFE”], Pasaporte vigente, "
-"Cédula Profesional, o en caso de ser de nacionalidad extranjera, su "
-"documento migratorio vigente);"
-msgstr ""
-"Personal Identification (IFE, Passport, Professional Certification or if you "
-"are from another country, Immigration Document);"
-
-#. Text in echo
-#: footer-contacto.php:9 footer-cotizaciones.php:9 footer-quienes-somos.php:9
-#: footer.php:9 header-alianzas-y-asociados.php:87 header-aviso.php:87
-#: header-contacto.php:87 header-cotizaciones.php:87 header-oficinas.php:87
-#: header-quienes-somos.php:88 header-servicios.php:87 header.php:90
-msgid "Inicio"
-msgstr "Home"
-
-#. Text in echo
-#: page-aviso.php:64
-msgid ""
-"La Negativa podrá ser parcial, en cuyo caso, TL Pacifíco S. de R.L. de C.V. "
-"efectuará el acceso, rectificación, cancelación u oposición en la parte "
-"procedente."
-msgstr ""
-"The Refusal may be partial, in that case, TL Pacifico S. de R.L. of C.V. "
-"will access, rectify, cancel or oppose in the pertinent part."
-
-#. Text in echo
-#: page-cotizaciones.php:95
-msgid "Largo"
-msgstr "Length"
-
-#. Text in echo
-#: page-contacto.php:44
-msgid "Llamar"
-msgstr "To call"
-
-#. Text in echo
-#: page-servicios.php:31
-msgid "Logística íntegral"
-msgstr "Integral Logistics"
-
-#. Text in echo
-#: page-inicio.php:11 page-inicio.php:20
-msgid "Logística sin límites"
-msgstr "Unlimited Logistics"
-
-#. Text in echo
-#: page-aviso.php:37
-msgid ""
-"Los mecanismos que se han implementado para el ejercicio de dichos derechos "
-"son a través de la presentación de la solicitud respectiva a nuestro "
-"Departamento de Administración, enviando un correo electrónico al señalado "
-"previamente. Usted puede obtener dicha solicitud al enviar el correo al "
-"Departamento de Datos Personales."
-msgstr ""
-"The mechanisms that were implemented to exercise these rights are through "
-"the presentation of the respective request to our Administration Department, "
-"by sending an e-mail (to the one previously indicated). You can obtain this "
-"request by sending an e-mail to the Personal Data Department."
-
-#. Text in echo
-#: page-aviso.php:54
-msgid ""
-"Los plazos referidos en los incisos anteriores se podrán prorrogar una sola "
-"vez por un periodo igual en caso de ser necesario y previa notificación "
-"hecha por el Responsable."
-msgstr ""
-"The periods referred to in the preceding paragraphs may be extended once for "
-"an equal period if necessary and after notification by the Responsible party."
-
-#. Text in echo
-#: header-alianzas-y-asociados.php:65 header-aviso.php:65
-#: header-contacto.php:65 header-cotizaciones.php:65 header-oficinas.php:65
-#: header-quienes-somos.php:66 header-servicios.php:65 header.php:68
-msgid "MENÚ"
-msgstr "MENU"
-
-#. Text in echo
-#: page-cotizaciones.php:64
-msgid "Marítima + Terrestre"
-msgstr "Maritime + Ground"
-
-#. Text in echo
-#: page-servicios.php:50
-msgid "Marítimo"
-msgstr "Maritime"
-
-#. Text in echo
-#: page-cotizaciones.php:59
-msgid "Marítima"
-msgstr "Maritime"
-
-#. Text in echo
-#: page-servicios.php:69
-msgid ""
-"Mediante nuestro servicio FTL (camión completo) llevamos tu carga en el "
-"menor tiempo y al costo más bajo posible."
-msgstr ""
-"We transport your Full Truckload cargo in the shortest time and at the "
-"lowest possible cost."
-
-#. Text in echo
-#: page-cotizaciones.php:39
-msgid "Mercancía"
-msgstr "Commodity"
-
-#. Text in echo
-#: page-oficinas.php:22
-msgid "Miembros del <br> Corporativo"
-msgstr "Members of our <br> Corporate Offices"
-
-#. Text in echo
-#: page-servicios.php:222
-msgid ""
-"Minimizando demoras y almacenajes, con una facturación directa, expedita y "
-"sin cobros por gastos inexistentes."
-msgstr ""
-"Minimizing delays and storage with direct billing, expedited and without "
-"charges for non-existent expenses."
-
-#. Text in echo
-#: page-quienes-somos.php:110
-msgid "Misión"
-msgstr "Mission"
-
-#. Text in echo
-#: page-cotizaciones.php:86
-msgid "Modalidad Terrestre"
-msgstr "Ground Service"
-
-#. Text in echo
-#: page-contacto.php:51 page-cotizaciones.php:25
-msgid "Nombre"
-msgstr "Name"
-
-#. Text in echo
-#: page-aviso.php:40
-msgid "Nombre y domicilio completo;"
-msgstr "Name and address;"
-
-#. Text in echo
-#: page-inicio.php:60 page-servicios.php:273
-msgid ""
-"Nos adaptamos a las necesidades del cliente, optimizando costos y tiempos de "
-"tránsito con un servicio personalizado de primera calidad, brindando siempre "
-"las mejores tarifas de cualquier puerto del mundo."
-msgstr ""
-"We adapt to our clients’ needs by optimizing costs and transit times with a "
-"personalized service, having the best rates of any port in the world."
-
-#. Text in echo
-#: page-aviso.php:70
-msgid ""
-"Nos comprometemos a no transferir su información personal a terceros sin su "
-"consentimiento, salvo las excepciones previstas en el artículo 37 de la Ley "
-"Federal de Protección de Datos Personales en Posesión de los Particulares, "
-"así como a realizar esta transferencia en los términos que fija esa ley. En "
-"ese sentido, es necesario que indique si consiente o no la transferencia de "
-"sus datos en el siguiente espacio:"
-msgstr ""
-"We promise not to transfer your personal information to third parties "
-"without your consent, except for the exceptions provided in Article 37 of "
-"the Federal Law of Protection of Personal Data Held by Private Parties, as "
-"well as to make this transfer in the terms set by that law. In this sense, "
-"it is necessary to indicate whether or not you consent to the transfer of "
-"your data in the following space:"
-
-#. Text in echo
-#: page-aviso.php:78
-msgid ""
-"Nos reservamos el derecho de efectuar en cualquier momento modificaciones o "
-"actualizaciones al presente aviso de privacidad."
-msgstr ""
-"We reserve the right to make changes or updates to this privacy notice at "
-"any time."
-
-#. Text in echo
-#: page-quienes-somos.php:32
-msgid "Nosotros"
-msgstr "About"
-
-#. Text in echo
-#: page-inicio.php:175
-msgid "Noticias"
-msgstr "News"
-
-#. Text in echo
-#: page-quienes-somos.php:100
-msgid "Nuestra filosofía"
-msgstr "Our philosophy "
-
-#. Text in echo
-#: page-servicios.php:267
-msgid ""
-"Nuestro equipo está altamente capacitado para ofrecer un servicio al cliente "
-"de calidad, contamos con procesos exitosos de atención y gestión de "
-"proyectos."
-msgstr ""
-"Our team is highly trained to offer an excellent customer service, we have "
-"successful attention and project management processes."
-
-#. Text in echo
-#: page-quienes-somos.php:34
-msgid ""
-"Nuestro grupo aduanal inició sus operaciones hace más de 14 años, con la "
-"finalidad de brindar servicios profesionales en comercio exterior, de una "
-"forma responsable y eficiente, cumpliendo con todos los requerimientos "
-"legales establecidos por las diferentes autoridades nacionales e "
-"internacionales."
-msgstr ""
-"Our Customs Agency started operations more than 14 years ago, with the "
-"purpose to provide professional, responsible and efficient services in "
-"foreign trade; always fulfilling the legal requirements established by all "
-"the different national and international authorities."
-
-#. Text in echo
-#: footer-contacto.php:18 footer-cotizaciones.php:18
-#: footer-quienes-somos.php:18 footer.php:18 header-alianzas-y-asociados.php:92
-#: header-aviso.php:92 header-contacto.php:92 header-cotizaciones.php:92
-#: header-oficinas.php:92 header-quienes-somos.php:93 header-servicios.php:92
-#: header.php:95
-msgid "Oficinas"
-msgstr "Offices"
-
-#. Text in echo
-#: page-quienes-somos.php:190
-msgid ""
-"Oficinas propias en Lázaro Cárdenas, Guadalajara, CDMX, Progreso y Laredo."
-msgstr ""
-"Offices in Lazaro Cardenas, Guadalajara, Mexico City, Progreso and Laredo."
-
-#. Text in echo
-#: page-cotizaciones.php:42
-msgid "Origen de la mercancía"
-msgstr "Origin Location"
-
-#. Text in echo
-#: page-quienes-somos.php:189
-msgid "PATENTE PROPIA"
-msgstr "OWN PATENT"
-
-#. Text in echo
-#: page-aviso.php:23
-msgid ""
-"Para crear un perfil del titular. Este perfil será utilizado para los fines "
-"que el mismo usuario dé consentimiento."
-msgstr ""
-"To create a profile of the owner. This profile will be used for the purposes "
-"that the same user gives consent."
-
-#. Text in echo
-#: page-aviso.php:26
-msgid ""
-"Para dar seguimiento a solicitudes que usted nos haya planteado, cualquiera "
-"que sea el motivo, tales como información de productos y/o servicios, "
-"cotizaciones, y otros análogos."
-msgstr ""
-"Follow up on requests that you made (client), whatever the reason, such as "
-"product and / or service information, quotes, and other concerns."
-
-#. Text in echo
-#: page-aviso.php:22
-msgid ""
-"Para darlo de alta como cliente y/o proveedor de nuestros productos y/o "
-"servicios."
-msgstr ""
-"To register you as a client and / or supplier of our products and / or "
-"services."
-
-#. Text in echo
-#: page-aviso.php:16
-msgid ""
-"Para el Responsable, el tratar sus datos de manera legítima resulta un tema "
-"prioritario. Este Aviso de Privacidad complementa cualesquiera otros avisos "
-"de privacidad simplificados que nuestra organización haya puesto a su "
-"disposición y resulta supletorio en todo aquello que expresamente no "
-"refieran tales avisos."
-msgstr ""
-"For the Company, treating your data in a legitimate way is a priority issue. "
-"This Privacy Notice complements any other simplified privacy notices that "
-"our organization has placed at your disposal and is supplementary in "
-"everything that does not expressly refer in such notices."
-
-#. Text in echo
 #: page-aviso.php:50
 msgid ""
 "Para el acceso de los datos: dentro de un plazo de 15 (quince) días contados "
@@ -979,17 +688,14 @@ msgstr ""
 "To access the data: within a period of 15 (fifteen) days counted from an "
 "affirmative response made by the Responsible party."
 
-#. Text in echo
-#: page-aviso.php:38
+#: page-aviso.php:51
 msgid ""
-"Para el ejercicio de sus derechos, usted debe presentar una solicitud "
-"(“Solicitud de Ejercicio de Derechos ARCO”) al Responsable, acompañando la "
-"siguiente información:"
+"Para la rectificación de los datos: dentro de un plazo de 15 (quince) días "
+"contados a partir de la respuesta afirmativa hecha por el Responsable."
 msgstr ""
-"To exercise your rights, you must submit an application (“Request for "
-"Exercise of Rights ARCO”) to the Responsible, with the following information:"
+"For rectification of the data: within a term of 15 (fifteen) days counted "
+"from the affirmative response made by the Responsible party."
 
-#. Text in echo
 #: page-aviso.php:52
 msgid ""
 "Para la cancelación u oposición de los datos: se hará primero un bloqueo de "
@@ -1009,7 +715,153 @@ msgstr ""
 "made by the Responsible party, and in the second case the unblocking will be "
 "done to continue with the treatment."
 
+#: page-aviso.php:54
+msgid ""
+"Los plazos referidos en los incisos anteriores se podrán prorrogar una sola "
+"vez por un periodo igual en caso de ser necesario y previa notificación "
+"hecha por el Responsable."
+msgstr ""
+"The periods referred to in the preceding paragraphs may be extended once for "
+"an equal period if necessary and after notification by the Responsible party."
+
+#: page-aviso.php:55
+msgid ""
+"podrá negar el ejercicio de los Derechos ARCO, en los siguientes supuestos:"
+msgstr "may deny the exercise of ARCO Rights, in the following cases:"
+
+#: page-aviso.php:57
+msgid ""
+"Cuando usted no sea el titular de los datos personales, o no haya acreditado "
+"la representación del titular;"
+msgstr ""
+"When you are not the owner of the personal data, or have not accredited the "
+"owner’s representation;"
+
 #. Text in echo
+#: page-aviso.php:58
+msgid ""
+"Cuando sus datos personales no obren en la base de datos del Responsable;"
+msgstr ""
+"When your personal data does not work in the database of the Responsible "
+"party;"
+
+#. Text in echo
+#: page-aviso.php:59
+msgid "Cuando se lesionen los derechos de un tercero;"
+msgstr "When the rights of a third party are injured;"
+
+#: page-aviso.php:60
+msgid ""
+"Cuando exista un impedimento legal o la resolución de una autoridad "
+"competente que restrinja sus Derechos ARCO;"
+msgstr ""
+"When there is a legal impediment or the resolution of a competent authority "
+"that restricts your ARCO Rights;"
+
+#: page-aviso.php:61
+msgid ""
+"En caso de cancelación, cuando los datos personales sean objeto de "
+"tratamiento para la prevención o para el diagnóstico médico o la gestión de "
+"servicios de salud, o;"
+msgstr ""
+"In case of cancellation, when personal data is subject to treatment for "
+"prevention or for medical diagnosis or management of health services, or;"
+
+#: page-aviso.php:62
+msgid ""
+"Cuando la rectificación, cancelación u oposición haya sido previamente "
+"realizada."
+msgstr ""
+"When the rectification, cancellation or opposition has been previously made."
+
+#: page-aviso.php:64
+msgid ""
+"La Negativa podrá ser parcial, en cuyo caso, TL Pacifíco S. de R.L. de C.V. "
+"efectuará el acceso, rectificación, cancelación u oposición en la parte "
+"procedente."
+msgstr ""
+"The Refusal may be partial, in that case, TL Pacifico S. de R.L. of C.V. "
+"will access, rectify, cancel or oppose in the pertinent part."
+
+#: page-aviso.php:65
+msgid ""
+"El ejercicio de los \"Derechos ARCO\" será gratuito, pero si Usted reitera "
+"su solicitud en un periodo menor a 12 (doce) meses, los costos serán de 3 "
+"(tres) días de Salario Mínimo General Vigente en el Distrito Federal, más el "
+"Impuesto al Valor Agregado, a menos que existan modificaciones sustanciales "
+"al Aviso de Privacidad que motiven nuevas Solicitudes de Ejercicio de "
+"Derechos ARCO. Usted deberá de cubrir los gastos justificados de envío o el "
+"costo de reproduc- ción en copias u otros formatos."
+msgstr ""
+"The exercise of “ARCO Rights” will be free, but if you repeat your request "
+"in a period less than 12 (twelve) months, the costs will be 3 (three) days "
+"of General Minimum Wage plus the Tax to the Added Value (IVA), unless there "
+"are substantial modifications to the Privacy Notice that motivates a new "
+"Request for the Exercise of ARCO Rights. You must cover the justified "
+"shipping costs or the cost of reproduction in copies or other formats."
+
+#: page-aviso.php:66
+msgid ""
+"Para mayor información, favor de contactar al Responsable de datos "
+"personales, en el correo electrónico señalado anteriormente."
+msgstr ""
+"For more information, please contact the Personal Data Manager at the e-mail "
+"address indicated above."
+
+#. Text in echo
+#: page-aviso.php:67
+msgid ""
+"7. Mecanismos y procedimientos para que el titular, en su caso, revoque su "
+"consentimiento en cualquier momento"
+msgstr ""
+"7. Mechanisms and procedures for the owner, if applicable, revokes his "
+"consent at any time"
+
+#: page-aviso.php:68
+msgid ""
+"En cualquier momento del tratamiento usted podrá revocar el consentimiento "
+"que ha otorgado para el tratamiento de sus datos, para ello es necesario que "
+"contacte al Responsable de protección de datos, donde le será indicado el "
+"procedimiento que debe seguir para realizar la revocación de su "
+"consentimiento."
+msgstr ""
+"At any time during the processing, you may revoke the consent you have given "
+"for the processing of your data, for this you must contact the data "
+"protection officer, where you will be informed of the procedure to be "
+"followed in order to revoke your consent."
+
+#: page-aviso.php:69
+msgid "8. Transferencias de datos personales dentro de México y al extranjero"
+msgstr "8. Transfers of personal data within Mexico and abroad"
+
+#: page-aviso.php:70
+msgid ""
+"Nos comprometemos a no transferir su información personal a terceros sin su "
+"consentimiento, salvo las excepciones previstas en el artículo 37 de la Ley "
+"Federal de Protección de Datos Personales en Posesión de los Particulares, "
+"así como a realizar esta transferencia en los términos que fija esa ley. En "
+"ese sentido, es necesario que indique si consiente o no la transferencia de "
+"sus datos en el siguiente espacio:"
+msgstr ""
+"We promise not to transfer your personal information to third parties "
+"without your consent, except for the exceptions provided in Article 37 of "
+"the Federal Law of Protection of Personal Data Held by Private Parties, as "
+"well as to make this transfer in the terms set by that law. In this sense, "
+"it is necessary to indicate whether or not you consent to the transfer of "
+"your data in the following space:"
+
+#: page-aviso.php:72
+msgid ""
+"Consiento que mis datos personales sean compartidos en los términos de este "
+"aviso de privacidad."
+msgstr ""
+"I consent to share my personal data in the terms of this privacy notice."
+
+#. Text in echo
+#: page-aviso.php:74
+msgid "9. Medidas de seguridad implementadas"
+msgstr "9. Implemented security measures"
+
 #: page-aviso.php:75
 msgid ""
 "Para la protección de sus datos personales hemos instrumentado medidas de "
@@ -1020,107 +872,254 @@ msgstr ""
 "measures of an administrative, physical and technical nature in order to "
 "avoid loss, misuse or alteration of your information."
 
-#. Text in echo
-#: page-aviso.php:51
+#: page-aviso.php:76
 msgid ""
-"Para la rectificación de los datos: dentro de un plazo de 15 (quince) días "
-"contados a partir de la respuesta afirmativa hecha por el Responsable."
+"Cuando comunicamos o compartimos su información con terceros que nos prestan "
+"algún servicio, requerimos y verificamos que cuenten con las medidas de "
+"seguridad necesarias para proteger sus datos personales, prohibiendo el uso "
+"de su información personal para fines distintos a los encargados; lo "
+"anterior en el entendido que no obstante lo anterior, cualquier "
+"incumplimiento por dichos terceros a lo previsto en la Ley Federal de "
+"Protección de Datos Personales en Posesión de los Particulares y su "
+"Reglamento es exclusiva responsabilidad de dichos terceros."
 msgstr ""
-"For rectification of the data: within a term of 15 (fifteen) days counted "
-"from the affirmative response made by the Responsible party."
+"When we communicate or share your information with third parties that "
+"provide us with a service, we require and verify that they have the "
+"necessary security measures to protect your personal data, prohibiting the "
+"use of your personal information for purposes other than those in charge; in "
+"the understanding that notwithstanding the foregoing, any breach by said "
+"third parties to the provisions of the Federal Law on Protection of Personal "
+"Data Held by Private Parties and its Regulations is the exclusive "
+"responsibility of said third parties."
 
 #. Text in echo
-#: page-aviso.php:25
+#: page-aviso.php:77
+msgid "10. Modificaciones al aviso de privacidad"
+msgstr "10. Modifications to the privacy notice"
+
+#. Text in echo
+#: page-aviso.php:78
 msgid ""
-"Para las finalidades administrativas de todas formas relacionadas con el "
-"desempeño de las obligaciones contractuales relativas, para el desempeño de "
-"las obligaciones de ley, como por ejemplo, las de tipo contable o fiscal."
+"Nos reservamos el derecho de efectuar en cualquier momento modificaciones o "
+"actualizaciones al presente aviso de privacidad."
 msgstr ""
-"For administrative purposes in any way related to the performance of the "
-"relative contractual obligations, for the performance of the obligations of "
-"the law, such as, accounting or fiscal obligations."
+"We reserve the right to make changes or updates to this privacy notice at "
+"any time."
 
-#. Text in echo
-#: page-aviso.php:66
+#: page-aviso.php:79
 msgid ""
-"Para mayor información, favor de contactar al Responsable de datos "
-"personales, en el correo electrónico señalado anteriormente."
+"Estas modificaciones estarán disponibles al público a través de los "
+"siguientes medios:"
 msgstr ""
-"For more information, please contact the Personal Data Manager at the e-mail "
-"address indicated above."
+"These modifications will be available to the public through the following "
+"means:"
 
 #. Text in echo
-#: page-cotizaciones.php:52
-msgid "Peso Bruto KG"
-msgstr "Gross Weight (Kg)"
+#: page-aviso.php:81
+msgid "Anuncios visibles en las oficinas corporativas;"
+msgstr "Visible ads in corporate offices;"
 
-#. Text in echo
-#: page-alianzas-y-asociados.php:60
-msgid "Principales Navieras"
-msgstr "Main Shipping companies"
+#: page-aviso.php:82
+msgid "Trípticos o folletos disponibles en las oficinas corporativas;"
+msgstr "Triptychs or brochures available at corporate offices;"
 
-#. Text in echo
-#: page-aviso.php:24
-msgid ""
-"Procesar sus solicitudes, y por lo tanto administrar la relación que quiere "
-"establecer con TL Pacifíco S. de R.L. de C.V. o la ya establecida entre "
-"usted y la sociedad misma."
-msgstr ""
-"Process your requests, and therefore manage the relationship you want to "
-"establish with TL Pacifico S. de R.L. of C.V. or the one already established "
-"between you and the society itself."
+#: page-aviso.php:83
+msgid "En nuestra página de Internet"
+msgstr "Our website"
 
-#. Text in echo
-#: page-servicios.php:250
-msgid "Que nos permiten representar sus intereses como cliente en el puerto."
-msgstr "Which allow us to represent your interests as a client in the seaport."
-
-#. Text in echo
-#: page-inicio.php:49
-msgid "Quiénes"
-msgstr "About"
-
-#. Text in echo
-#: footer-contacto.php:10 footer-cotizaciones.php:10
-#: footer-quienes-somos.php:10 footer.php:10 header-alianzas-y-asociados.php:88
-#: header-alianzas-y-asociados.php:93 header-aviso.php:88 header-aviso.php:93
-#: header-contacto.php:88 header-contacto.php:93 header-cotizaciones.php:88
-#: header-cotizaciones.php:93 header-oficinas.php:88 header-oficinas.php:93
-#: header-quienes-somos.php:89 header-quienes-somos.php:94
-#: header-servicios.php:88 header-servicios.php:93 header.php:91 header.php:96
-msgid "Quiénes Somos"
-msgstr "About Us"
-
-#. Text in echo
-#: page-aviso.php:31
-msgid ""
-"Recabamos sus datos personales de forma directa cuando usted mismo nos los "
-"proporciona, ya sea personalmente, por teléfono, a través de correo "
-"electrónico o de nuestro sitio Web. Los datos que obtenemos pueden ser, "
-"entre otros, los siguientes: nombre, domicilio, teléfono, correo "
-"electrónico, etc."
-msgstr ""
-"We collect your personal information directly when you provide it to us "
-"personally, by phone, through e-mail or through our website. The data that "
-"we obtain can be, among others, the following: name, address, telephone, e-"
-"mail, etc."
-
-#. Text in echo
-#: page-servicios.php:221
-msgid "Reducción de costos"
-msgstr "Costs reduction"
-
-#. Text in echo
-#: page-quienes-somos.php:177
-msgid "SERVICIO PERSONALIZADO"
-msgstr "PERSONALIZED SERVICE"
-
-#. Text in echo
 #: page-aviso.php:84
 msgid ""
 "Se las haremos llegar al último correo electrónico que nos haya "
 "proporcionado."
 msgstr "It will be sent to the e-mail you provided."
+
+#: page-aviso.php:86
+msgid ""
+"11. Derecho de promover los procedimientos de protección de derechos y de "
+"verificación que sustancia el Instituto"
+msgstr ""
+"11. The right to promote the procedures for the protection of rights and the "
+"verification of the Institute"
+
+#: page-aviso.php:87
+msgid ""
+"Cualquier queja o información adicional respecto al tratamiento de sus datos "
+"personales o duda en relación con la Ley Federal de Protección de Datos "
+"Personales en Posesión de los Particulares o con su Reglamento, podrá "
+"dirigirla al IFAI. Para mayor información visite"
+msgstr ""
+"Any complaint or additional information regarding the processing of your "
+"personal data or doubt in relation to the Federal Data Protection Law "
+"Personal in Possession of the Individuals or with its Regulations, may "
+"direct it to the IFAI. For more information visit"
+
+#: page-servicios.php:9
+msgid "Servicios en Logística de"
+msgstr "Services Logistics"
+
+#. Text in echo
+#: page-servicios.php:10
+msgid "Comercio Exterior"
+msgstr "Foreign Trade"
+
+#. Text in echo
+#: page-servicios.php:30
+msgid "Servicios en"
+msgstr "Services in"
+
+#: page-servicios.php:31
+msgid "Logística íntegral"
+msgstr "Integral Logistics"
+
+#: page-servicios.php:50
+msgid "Marítimo"
+msgstr "Maritime"
+
+#. Text in echo
+#: page-servicios.php:54
+msgid "Terrestre"
+msgstr "Ground"
+
+#. Text in echo
+#: page-servicios.php:61
+msgid "Contenedor"
+msgstr "Container"
+
+#: page-servicios.php:66
+msgid ""
+"Brindamos el servicio de Flete Marítimo de mercancías más flexible y seguro "
+"en las modalidades de Contenedor Marítimo Completo (FCL)."
+msgstr ""
+"We offer a more flexible & safe option,  Full Container Load ocean freight."
+
+#: page-servicios.php:69
+msgid ""
+"Mediante nuestro servicio FTL (camión completo) llevamos tu carga en el "
+"menor tiempo y al costo más bajo posible."
+msgstr ""
+"We transport your Full Truckload cargo in the shortest time and at the "
+"lowest possible cost."
+
+#: page-servicios.php:72
+msgid ""
+"Actualmente el Transporte Aéreo permite que las mercancías estén a su "
+"disposición en unas cuantas horas."
+msgstr "Air freight allows your cargo to be available in a few hours."
+
+#: page-servicios.php:75
+msgid "Contenedor completo con mercancía de un único cargador."
+msgstr ""
+"Less Container Load, full container of merchandise of a single carrier."
+
+#. Text in echo
+#: page-servicios.php:83
+msgid "Conoce los"
+msgstr "Makes us unique"
+
+#. Text in echo
+#: page-servicios.php:84
+msgid "Servicios que"
+msgstr "Services"
+
+#: page-servicios.php:85
+msgid "nos hacen únicos"
+msgstr "makes us unique"
+
+#: page-servicios.php:96
+msgid ""
+"Coordinación de los embarques con nuestra red de agentes en todo el mundo."
+msgstr "Shipment coordination with our network agents around the globe."
+
+#: page-servicios.php:108
+msgid ""
+"Despacho Aduanal Integrado con nuestra propia patente (3590) por los puertos "
+"de Lázaro Cárdenas, Progreso y Aduana de Nuevo Laredo / Veracruz y "
+"Manzanillo."
+msgstr ""
+"Integrated Customs Clearance with our own patent (3590) providing services "
+"in the seaports of Lazaro Cardenas, Progreso and Customs of Nuevo Laredo / "
+"Veracruz and Manzanillo."
+
+#: page-servicios.php:120
+msgid "Asesoría en Logística Aduanas, Servicios Intermodales y Almacenaje."
+msgstr "Logistics, Customs, Intermodal Services and Warehousing consulting."
+
+#: page-servicios.php:134 page-servicios.php:237
+msgid ""
+"Alianzas estratégicas en EUA - CANADA de manera que operamos en estos países "
+"incluyendo despacho aduanal."
+msgstr ""
+"We have Strategic Alliances and operate in US - CANADA including Customs "
+"Clearance."
+
+#: page-servicios.php:146
+msgid ""
+"Convenios con las principales Terminales Marítimas, Navieras y Asociaciones "
+"ligadas al Comercio exterior en México y a nivel internacional."
+msgstr ""
+"Agreements with the main maritime terminals, shipping companies and "
+"associations linked to Mexico and international foreign trade."
+
+#. Text in echo
+#: page-servicios.php:158
+msgid ""
+"Contamos con una red de agentes a nivel mundial que nos permite agilizar "
+"tiempos y eficientar los procesos."
+msgstr ""
+"Worldwide Agent Network which allows us to speed up and have efficient "
+"processes."
+
+#. Text in echo
+#: page-servicios.php:182
+msgid "Descubre porqué"
+msgstr "Discover why we"
+
+#. Text in echo
+#: page-servicios.php:183
+msgid "Somos la mejor"
+msgstr "We are the best"
+
+#. Text in echo
+#: page-servicios.php:184
+msgid "agencia de carga"
+msgstr "cargo agency"
+
+#: page-servicios.php:195
+msgid "Disminución de riesgos"
+msgstr "Decrease in risks"
+
+#: page-servicios.php:196
+msgid ""
+"Al despachar cumpliendo con la normatividad y apoyados en una planeación "
+"previa con asesoría y clasificación arancelaria de nivel insuperable."
+msgstr ""
+"When dispatching, we comply with the regulations and are supported by prior "
+"planning with input and tariff classification of unsurpassed level."
+
+#. Text in echo
+#: page-servicios.php:208
+msgid "Comodidad"
+msgstr "Comfort"
+
+#: page-servicios.php:209
+msgid ""
+"Al facilitar sus trámites y tareas mientras usted se enfoca en sus tareas y "
+"negocio."
+msgstr ""
+"By facilitating your paperwork and tasks while you focus on your tasks and "
+"business."
+
+#: page-servicios.php:221
+msgid "Reducción de costos"
+msgstr "Costs reduction"
+
+#: page-servicios.php:222
+msgid ""
+"Minimizando demoras y almacenajes, con una facturación directa, expedita y "
+"sin cobros por gastos inexistentes."
+msgstr ""
+"Minimizing delays and storage with direct billing, expedited and without "
+"charges for non-existent expenses."
 
 #. Text in echo
 #: page-servicios.php:236
@@ -1128,30 +1127,110 @@ msgid "Servicio personalizado"
 msgstr "Personalized Service"
 
 #. Text in echo
-#: footer-contacto.php:11 footer-cotizaciones.php:11
-#: footer-quienes-somos.php:11 footer.php:11 header-alianzas-y-asociados.php:89
-#: header-aviso.php:89 header-contacto.php:89 header-cotizaciones.php:89
-#: header-oficinas.php:89 header-quienes-somos.php:90 header-servicios.php:89
-#: header.php:92
-msgid "Servicios"
-msgstr "Services"
+#: page-servicios.php:249
+msgid "Excelentes relaciones institucionales"
+msgstr "Excellent institutional relations"
 
 #. Text in echo
-#: page-servicios.php:30
-msgid "Servicios en"
-msgstr "Services in"
+#: page-servicios.php:250
+msgid "Que nos permiten representar sus intereses como cliente en el puerto."
+msgstr "Which allow us to represent your interests as a client in the seaport."
 
 #. Text in echo
-#: page-servicios.php:9
-msgid "Servicios en Logística de"
-msgstr "Services in Logistics"
+#: page-servicios.php:266
+msgid "¿Necesitas Información?"
+msgstr "Need more information?"
+
+#: page-servicios.php:267
+msgid ""
+"Nuestro equipo está altamente capacitado para ofrecer un servicio al cliente "
+"de calidad, contamos con procesos exitosos de atención y gestión de "
+"proyectos."
+msgstr ""
+"Our team is highly trained to offer an excellent customer service, we have "
+"successful attention and project management processes."
 
 #. Text in echo
-#: page-servicios.php:84
-msgid "Servicios que"
-msgstr "Services "
+#: page-servicios.php:268
+msgid "Cotizar"
+msgstr "Request a quote"
 
 #. Text in echo
+#: page-quienes-somos.php:9
+msgid "Agencia de Carga especializada"
+msgstr "Cargo Agency specialized"
+
+#. Text in echo
+#: page-quienes-somos.php:10
+msgid "en operaciones logísticas"
+msgstr "in logistics operations"
+
+#. Text in echo
+#: page-quienes-somos.php:32
+msgid "Nosotros"
+msgstr "About"
+
+#: page-quienes-somos.php:34
+msgid ""
+"Nuestro grupo aduanal inició sus operaciones hace más de 14 años, con la "
+"finalidad de brindar servicios profesionales en comercio exterior, de una "
+"forma responsable y eficiente, cumpliendo con todos los requerimientos "
+"legales establecidos por las diferentes autoridades nacionales e "
+"internacionales."
+msgstr ""
+"Our Customs Agency started operations more than 14 years ago, with the "
+"purpose to provide professional, responsible and efficient services in "
+"foreign trade; always fulfilling the legal requirements established by all "
+"the different national and international authorities."
+
+#: page-quienes-somos.php:35
+msgid ""
+"Gracias a nuestra experiencia y nuestros múltiples clientes satisfechos, "
+"seguimos avanzando hacia la excelencia mediante una filosofía de atención y "
+"calidad en el trabajo, ofreciendo un servicio personalizado a cada uno de "
+"nuestros clientes."
+msgstr ""
+"Because of our experience and our pleased clients we keep on going towards "
+"excellence through a philosophy of attention and quality in the work we "
+"perform, offering personalized services to every single one of our customers."
+
+#: page-quienes-somos.php:36
+msgid ""
+"A través de nuestras alianzas podemos ofrecerle logística integral a nivel "
+"mundial y trámites aduanales en todas las fronteras de México con el "
+"exterior."
+msgstr ""
+"Through our alliances we can offer integral logistics around the globe and "
+"customs procedures in all the borders of Mexico with other countries."
+
+#. Text in echo
+#: page-quienes-somos.php:66
+msgid "Corporativo"
+msgstr "Corporate"
+
+#. Text in echo
+#: page-quienes-somos.php:100
+msgid "Nuestra filosofía"
+msgstr "Our philosophy"
+
+#. Text in echo
+#: page-quienes-somos.php:110
+msgid "Misión"
+msgstr "Mission"
+
+#: page-quienes-somos.php:111
+msgid ""
+"Brindar servicios y alternativas de excelente calidad que conduzcan a la "
+"satisfacción total de nuestros clientes."
+msgstr ""
+"Provide services and alternatives of excellent quality that lead to the "
+"total satisfaction of our customers."
+
+#. Text in echo
+#: page-quienes-somos.php:124
+msgid "Visión"
+msgstr "Vision"
+
 #: page-quienes-somos.php:125
 msgid ""
 "Sobre la base de la excelencia y calidad de nuestros servicios posicionarnos "
@@ -1159,6 +1238,11 @@ msgid ""
 msgstr ""
 "Position ourselves as the leading group in foreign trade providing services "
 "with quality and excellence."
+
+#. Text in echo
+#: page-quienes-somos.php:138
+msgid "Valores"
+msgstr "Values"
 
 #. Text in echo
 #: page-quienes-somos.php:139
@@ -1170,185 +1254,68 @@ msgstr ""
 "Ethics - Trust <br> Respect - Integrity"
 
 #. Text in echo
-#: page-inicio.php:54 page-quienes-somos.php:33
-msgid "Somos"
-msgstr "Us"
+#: page-quienes-somos.php:147
+msgid "Contáctanos"
+msgstr "Contact us"
 
 #. Text in echo
-#: page-servicios.php:183
-msgid "Somos la mejor"
-msgstr "We are the best "
+#: page-quienes-somos.php:156
+msgid "Ventajas Competitivas"
+msgstr "Competitive Advantage"
 
 #. Text in echo
-#: page-inicio.php:59
+#: page-quienes-somos.php:165
+msgid "PRESENCIA INTERNACIONAL"
+msgstr "INTERNATIONAL PRESENCE"
+
+#: page-quienes-somos.php:166
 msgid ""
-"Somos una empresa consolidada como Agencia de Carga especializada en "
-"operaciones logísticas a nivel internacional, con la finalidad de ofrecer "
-"servicios profesionales altamente eficientes."
+"Corporativo con experiencia en las regiones comerciales más competitivas del "
+"mundo."
 msgstr ""
-"We are a company consolidated as a Cargo Agency specialized in international "
-"logistics operations, with the purpose of offering highly efficient "
-"professional services."
+"Corporate with experience in the most competitive commercial regions of the "
+"world."
 
 #. Text in echo
-#: page-aviso.php:15
+#: page-quienes-somos.php:177
+msgid "SERVICIO PERSONALIZADO"
+msgstr "PERSONALIZED SERVICE"
+
+#: page-quienes-somos.php:178
 msgid ""
-"TL Pacifíco S. de R.L. de C.V., con domicilio en Calle Salvador Madariaga "
-"5277, Col. Jardines Universidad, C.P. 45110, Zapopan, Jalisco, es "
-"responsable del tratamiento de sus datos personales."
+"Especializados en brindar excelente servicio marítimo en la zona del "
+"Pacifíco, Asia y Sudamérica incluyendo despacho aduanal."
 msgstr ""
-"TL Pacifico S. de R.L. de C.V., Salvador Madariaga 5277, Col. Jardines "
-"Universidad, C.P. 45110, Zapopan, Jalisco, is responsible for processing "
-"your personal data. "
+"Specialized in providing excellent maritime service in the Pacific, Asia and "
+"South America including customs clearance."
 
 #. Text in echo
-#: page-cotizaciones.php:36
-msgid "Telefono"
-msgstr "Telephone"
+#: page-quienes-somos.php:189
+msgid "PATENTE PROPIA"
+msgstr "OWN PATENT"
 
-#. Text in echo
-#: page-contacto.php:58
-msgid "Teléfono"
-msgstr "Telephone"
-
-#. Text in echo
-#: page-inicio.php:61
+#: page-quienes-somos.php:190
 msgid ""
-"Tenemos la experiencia para facilitar sus exportaciones e importaciones, sin "
-"importar que sean del océano Pacifíco o del Atlántico."
+"Oficinas propias en Lázaro Cárdenas, Guadalajara, CDMX, Progreso y Laredo."
 msgstr ""
-"We have the experience to facilitate your imports and exports, regardless of "
-"whether they are from the Pacific or the Atlantic Ocean."
+"Offices in Lazaro Cardenas, Guadalajara, Mexico City, Progreso and Laredo."
 
-#. Text in echo
-#: page-servicios.php:54
-msgid "Terrestre"
-msgstr "Ground"
+#. Name of the theme
+msgid "TL Pacifico"
+msgstr "TL Pacifico"
 
-#. Text in echo
-#: page-cotizaciones.php:89
-msgid "Todo camión"
-msgstr "Full Truckload"
+#. Description of the theme
+msgid "Empresa de logistica"
+msgstr "Company Logistics"
 
-#. Text in echo
-#: page-aviso.php:27
-msgid ""
-"Transferir sus datos, en caso de que se requiera a otras empresas del grupo "
-"corporativo, socios comerciales y/o prestadores de servicios."
-msgstr ""
-"Transfer your data, if required, to other companies in the corporate group, "
-"business partners and/or service providers."
+#. URI of the theme
+msgid "http://www.tlpacifico.com.mx"
+msgstr "http://www.tlpacifico.com.mx"
 
-#. Text in echo
-#: page-cotizaciones.php:87
-msgid "Tren"
-msgstr "Rail"
+#. Author of the theme
+msgid "Xol / Xoyoc.net"
+msgstr "Xol / Xoyoc.net"
 
-#. Text in echo
-#: page-cotizaciones.php:88
-msgid "Tren + Camión"
-msgstr "Rail + Truck"
-
-#. Text in echo
-#: page-aviso.php:82
-msgid "Trípticos o folletos disponibles en las oficinas corporativas;"
-msgstr "Triptychs or brochures available at corporate offices;"
-
-#. Text in echo
-#: page-cotizaciones.php:20
-msgid "Tu mejor opción en <br> logística y gestión de carga"
-msgstr "your best option in<br>logistics and cargo management"
-
-#. Text in echo
-#: page-contacto.php:62
-msgid "Tu mensaje"
-msgstr "You message"
-
-#. Text in echo
-#: page-aviso.php:34
-msgid ""
-"Usted puede dejar de recibir mensajes por correo electrónico, impresos, por "
-"teléfono fijo o celular comunicándose con nuestro Responsable de Datos "
-"Personales."
-msgstr ""
-"You can stop receiving messages by e-mail, paper, landline or cell phone by "
-"contacting our Personal Data Manager."
-
-#. Text in echo
-#: page-aviso.php:36
-msgid ""
-"Usted tiene el derecho de acceder a sus datos personales que poseemos y a "
-"los detalles del tratamiento de los mismos, así como a rectificarlos en caso "
-"de ser inexactos o incompletos; cancelarlos cuando resulten ser excesivos o "
-"innecesarios para las finalidades que justificaron su obtención u oponerse "
-"al tratamiento de los mismos para fines específicos."
-msgstr ""
-"You have the right to access the personal data that we have and the details "
-"of their treatment, as well as to correct them if they are inaccurate or "
-"incomplete; cancel them when they are excessive or unnecessary for the "
-"purposes that were obtained or oppose to the treatment of your data for "
-"specific purposes."
-
-#. Text in echo
-#: page-inicio.php:203
-msgid "VER MÁS NOTICIAS"
-msgstr "VIEW MORE NEWS"
-
-#. Text in echo
-#: page-quienes-somos.php:138
-msgid "Valores"
-msgstr "Values"
-
-#. Text in echo
-#: footer-contacto.php:58 footer-cotizaciones.php:58
-#: footer-quienes-somos.php:58 footer.php:58
-msgid "Ver"
-msgstr "View"
-
-#. Text in echo
-#: page-quienes-somos.php:124
-msgid "Visión"
-msgstr "Vision"
-
-#. Text in echo
-#: page-servicios.php:184
-msgid "agencia de carga"
-msgstr "cargo agency"
-
-#. Text in echo
-#: page-quienes-somos.php:10
-msgid "en operaciones logísticas"
-msgstr "in logistics operations"
-
-#. Text in echo
-#: page-servicios.php:85
-msgid "nos hacen únicos"
-msgstr "makes us unique"
-
-#. Text in echo
-#: page-aviso.php:55
-msgid ""
-"podrá negar el ejercicio de los Derechos ARCO, en los siguientes supuestos:"
-msgstr "may deny the exercise of ARCO Rights, in the following cases:"
-
-#. Text in echo
-#: page-servicios.php:266
-msgid "¿Necesitas Información?"
-msgstr "Need more information?"
-
-#. Text in echo
-#: page-cotizaciones.php:21
-msgid ""
-"¿Necesitas cotizar importaciones y exportaciones?<br>Completa los siguientes "
-"datos con tus requerimientos."
-msgstr ""
-
-#. Text in echo
-#: page-aviso.php:59
-msgid "Cuando se lesionen los derechos de un tercero;"
-msgstr "When the rights of a third party are injured;"
-
-#. Text in echo
-#: page-cotizaciones.php:100
-msgid "aviso de privacidad"
-msgstr "privacy notice"
+#. Author URI of the theme
+msgid "http://www.mixoestudio.com"
+msgstr "http://www.mixoestudio.com"

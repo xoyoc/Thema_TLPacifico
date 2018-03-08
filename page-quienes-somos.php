@@ -6,8 +6,8 @@
         <section class="s-video-v2__bg" data-vidbg-bg="poster: <?php echo get_template_directory_uri(); ?>/include/media/fallback.jpg" data-vidbg-options="loop: true, muted: true, overlay: false">
             <div class="container g-position--overlay g-text-center--xs">
                 <div class="g-padding-y-50--xs g-margin-t-100--xs g-margin-b-100--xs g-margin-b-250--md">
-                    <h1 class="g-font-size-36--xs g-font-size-50--sm g-font-size-40--md g-color--white textoBold"><?php _e( 'Agencia de Carga especializada', 'tlpacifico' ); ?></h1>
-                    <h2 class="g-font-size-36--xs g-font-size-50--sm g-font-size-40--md g-color--white textoBold"><?php _e( 'en operaciones logísticas', 'tlpacifico' ); ?></h2>
+                    <h1 class="g-font-size-26--xs g-font-size-40--sm g-font-size-30--md g-color--white textoBold"><?php _e( 'Agencia de Carga especializada', 'tlpacifico' ); ?></h1>
+                    <h2 class="g-font-size-26--xs g-font-size-40--sm g-font-size-30--md g-color--white textoBold"><?php _e( 'en operaciones logísticas', 'tlpacifico' ); ?></h2>
                 </div>
             </div>
         </section>
@@ -15,8 +15,8 @@
 
         <!--========== PAGE CONTENT ==========-->
         <!-- Mockup -->
-        <div class="container g-margin-t-o-150--xs">
-            <div class="center-block s-mockup-v1">
+        <div class="container g-margin-t-o-230--sm g-margin-t-o-120--xs">
+            <div class="center-block s-mockup-v1" style="@media (max-width: 34em){margin-top: 4em;}">
                 <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/img/mockups/devices-01.png" alt="Mockup Image">
             </div>
         </div>
@@ -25,7 +25,7 @@
         <!--========== PAGE CONTENT ==========-->
         <!-- Masonry -->
         <div class="g-margin-b-0--xs">
-            <div class="container g-padding-y-20--xs g-padding-y-40--sm">
+            <div class="container g-padding-y-50--xs g-padding-y-40--sm">
                 <div class="row">
                     <div class="col-md-5 col-md-push-7 g-margin-t-0--xs g-margin-t-70--lg g-margin-b-60--xs g-margin-b-0--lg">
                         <div class="g-margin-b-40--xs">
@@ -69,22 +69,22 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".1s">
-                            <img class="quienesCorp" src="<?php echo get_template_directory_uri(); ?>/img/oficinas/Logotipo.png" alt="Logotipos de corporativo">
+                            <img class="img-responsive quienesCorp" src="<?php echo get_template_directory_uri(); ?>/img/oficinas/Logotipo.png" alt="Logotipos de corporativo">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".1s">
-                            <img class="quienesCorp" src="<?php echo get_template_directory_uri(); ?>/img/oficinas/Logotipo-TradeLink.png" alt="Logotipos de corporativo">
+                            <img class="img-responsive quienesCorp" src="<?php echo get_template_directory_uri(); ?>/img/oficinas/Logotipo-TradeLink.png" alt="Logotipos de corporativo">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".1s">
-                            <img class="quienesCorp" src="<?php echo get_template_directory_uri(); ?>/img/oficinas/Logotipo-TFService.png" alt="Logotipos de corporativo">
+                            <img class="img-responsive quienesCorp" src="<?php echo get_template_directory_uri(); ?>/img/oficinas/Logotipo-TFService.png" alt="Logotipos de corporativo">
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="wow fadeIn" data-wow-duration=".3" data-wow-delay=".1s">
-                            <img class="quienesCorp logoTL" src="<?php echo get_template_directory_uri(); ?>/img/oficinas/Logotipo-TLSureste.png" alt="Logotipos de corporativo">
+                            <img class="img-responsive quienesCorp logoTL" src="<?php echo get_template_directory_uri(); ?>/img/oficinas/Logotipo-TLSureste.png" alt="Logotipos de corporativo">
                         </div>
                     </div>
                 </div>
@@ -153,7 +153,7 @@
 
         <!-- Portfolio Gallery -->
         <div class="container g-margin-b-100--xs">
-            <h2 class="g-text-center--xs textoBold g-margin-b-50--xs">Ventajas Competitivas</h2>
+            <h2 class="g-text-center--xs textoBold g-margin-b-50--xs"><?php _e( 'Ventajas Competitivas', 'tlpacifico' ); ?></h2>
             <div id="js__grid-portfolio-gallery" class="cbp">
                 <!-- Item -->
                 <div class="s-portfolio__item cbp-item logos motion">
@@ -162,8 +162,8 @@
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
-                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs g-font-weight--700">PRESENCIA INTERNACIONAL</h4>
-                            <p class="g-color--white-opacity g-font-weight--700">Corporativo con experiencia en las regiones comerciales más competitivas del mundo.</p>
+                            <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs g-font-weight--700"><?php _e( 'PRESENCIA INTERNACIONAL', 'tlpacifico' ); ?></h4>
+                            <p class="g-color--white-opacity g-font-weight--700"><?php _e( 'Corporativo con experiencia en las regiones comerciales más competitivas del mundo.', 'tlpacifico' ); ?></p>
                         </div>
                     </div>
                 </div>
