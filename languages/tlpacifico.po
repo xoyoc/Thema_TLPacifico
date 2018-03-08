@@ -69,13 +69,13 @@ msgid "Acepto"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:72
+#: page-servicios.php:101
 msgid "Actualmente el Transporte Aéreo permite que las mercancías estén a su disposición en unas cuantas horas."
 msgstr ""
 
 #. Text in echo
 #: page-cotizaciones.php:70
-#: page-servicios.php:57
+#: page-servicios.php:100
 msgid "Aéreo"
 msgstr ""
 
@@ -85,12 +85,12 @@ msgid "Agencia de Carga especializada"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:196
+#: page-servicios.php:227
 msgid "Al despachar cumpliendo con la normatividad y apoyados en una planeación previa con asesoría y clasificación arancelaria de nivel insuperable."
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:209
+#: page-servicios.php:240
 msgid "Al facilitar sus trámites y tareas mientras usted se enfoca en sus tareas y negocio."
 msgstr ""
 
@@ -110,8 +110,8 @@ msgid "Alianzas estratégicas <br> para una logística eficiente"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:134
-#: page-servicios.php:237
+#: page-servicios.php:165
+#: page-servicios.php:268
 msgid "Alianzas estratégicas en EUA - CANADA de manera que operamos en estos países incluyendo despacho aduanal."
 msgstr ""
 
@@ -147,7 +147,7 @@ msgid "Anuncios visibles en las oficinas corporativas;"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:120
+#: page-servicios.php:151
 msgid "Asesoría en Logística Aduanas, Servicios Intermodales y Almacenaje."
 msgstr ""
 
@@ -171,7 +171,7 @@ msgid "Aviso de privacidad"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:66
+#: page-servicios.php:90
 msgid "Brindamos el servicio de Flete Marítimo de mercancías más flexible y seguro en las modalidades de Contenedor Marítimo Completo (FCL)."
 msgstr ""
 
@@ -191,7 +191,7 @@ msgid "Comercio Exterior"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:208
+#: page-servicios.php:239
 msgid "Comodidad"
 msgstr ""
 
@@ -201,7 +201,7 @@ msgid "Conoce a todos los"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:83
+#: page-servicios.php:114
 msgid "Conoce los"
 msgstr ""
 
@@ -225,17 +225,17 @@ msgid "Contacto"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:158
+#: page-servicios.php:189
 msgid "Contamos con una red de agentes a nivel mundial que nos permite agilizar tiempos y eficientar los procesos."
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:61
+#: page-servicios.php:106
 msgid "Contenedor"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:75
+#: page-servicios.php:107
 msgid "Contenedor completo con mercancía de un único cargador."
 msgstr ""
 
@@ -245,12 +245,12 @@ msgid "Contáctanos"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:146
+#: page-servicios.php:177
 msgid "Convenios con las principales Terminales Marítimas, Navieras y Asociaciones ligadas al Comercio exterior en México y a nivel internacional."
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:96
+#: page-servicios.php:127
 msgid "Coordinación de los embarques con nuestra red de agentes en todo el mundo."
 msgstr ""
 
@@ -286,7 +286,7 @@ msgid "Cotizaciones<br>a tu medida"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:268
+#: page-servicios.php:299
 msgid "Cotizar"
 msgstr ""
 
@@ -352,12 +352,12 @@ msgid "Descubre"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:182
+#: page-servicios.php:213
 msgid "Descubre porqué"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:108
+#: page-servicios.php:139
 msgid "Despacho Aduanal Integrado con nuestra propia patente (3590) por los puertos de Lázaro Cárdenas, Progreso y Aduana de Nuevo Laredo / Veracruz y Manzanillo."
 msgstr ""
 
@@ -387,7 +387,7 @@ msgid "Dirección"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:195
+#: page-servicios.php:226
 msgid "Disminución de riesgos"
 msgstr ""
 
@@ -482,7 +482,7 @@ msgid "Estas modificaciones estarán disponibles al público a través de los
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:249
+#: page-servicios.php:280
 msgid "Excelentes relaciones institucionales"
 msgstr ""
 
@@ -538,7 +538,7 @@ msgid "Llamar"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:31
+#: page-servicios.php:83
 msgid "Logística íntegral"
 msgstr ""
 
@@ -576,7 +576,7 @@ msgid "Marítima + Terrestre"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:50
+#: page-servicios.php:89
 msgid "Marítimo"
 msgstr ""
 
@@ -586,7 +586,7 @@ msgid "Marítima"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:69
+#: page-servicios.php:96
 msgid "Mediante nuestro servicio FTL (camión completo) llevamos tu carga en el menor tiempo y al costo más bajo posible."
 msgstr ""
 
@@ -601,7 +601,7 @@ msgid "Miembros del <br> Corporativo"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:222
+#: page-servicios.php:253
 msgid "Minimizando demoras y almacenajes, con una facturación directa, expedita y sin cobros por gastos inexistentes."
 msgstr ""
 
@@ -628,7 +628,7 @@ msgstr ""
 
 #. Text in echo
 #: page-inicio.php:60
-#: page-servicios.php:273
+#: page-servicios.php:304
 msgid "Nos adaptamos a las necesidades del cliente, optimizando costos y tiempos de tránsito con un servicio personalizado de primera calidad, brindando siempre las mejores tarifas de cualquier puerto del mundo."
 msgstr ""
 
@@ -658,7 +658,7 @@ msgid "Nuestra filosofía"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:267
+#: page-servicios.php:298
 msgid "Nuestro equipo está altamente capacitado para ofrecer un servicio al cliente de calidad, contamos con procesos exitosos de atención y gestión de proyectos."
 msgstr ""
 
@@ -774,7 +774,7 @@ msgid "Procesar sus solicitudes, y por lo tanto administrar la relación que qu
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:250
+#: page-servicios.php:281
 msgid "Que nos permiten representar sus intereses como cliente en el puerto."
 msgstr ""
 
@@ -813,7 +813,7 @@ msgid "Recabamos sus datos personales de forma directa cuando usted mismo nos lo
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:221
+#: page-servicios.php:252
 msgid "Reducción de costos"
 msgstr ""
 
@@ -828,7 +828,7 @@ msgid "Se las haremos llegar al último correo electrónico que nos haya propo
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:236
+#: page-servicios.php:267
 msgid "Servicio personalizado"
 msgstr ""
 
@@ -849,7 +849,7 @@ msgid "Servicios"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:30
+#: page-servicios.php:82
 msgid "Servicios en"
 msgstr ""
 
@@ -859,7 +859,7 @@ msgid "Servicios en Logística de"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:84
+#: page-servicios.php:115
 msgid "Servicios que"
 msgstr ""
 
@@ -880,7 +880,7 @@ msgid "Somos"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:183
+#: page-servicios.php:214
 msgid "Somos la mejor"
 msgstr ""
 
@@ -910,7 +910,7 @@ msgid "Tenemos la experiencia para facilitar sus exportaciones e importaciones, 
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:54
+#: page-servicios.php:95
 msgid "Terrestre"
 msgstr ""
 
@@ -960,7 +960,7 @@ msgid "Usted tiene el derecho de acceder a sus datos personales que poseemos y a
 msgstr ""
 
 #. Text in echo
-#: page-inicio.php:203
+#: page-inicio.php:204
 msgid "VER MÁS NOTICIAS"
 msgstr ""
 
@@ -988,7 +988,7 @@ msgid "Visión"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:184
+#: page-servicios.php:215
 msgid "agencia de carga"
 msgstr ""
 
@@ -1003,7 +1003,7 @@ msgid "en operaciones logísticas"
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:85
+#: page-servicios.php:116
 msgid "nos hacen únicos"
 msgstr ""
 
@@ -1013,7 +1013,7 @@ msgid "podrá negar el ejercicio de los Derechos ARCO, en los siguientes supues
 msgstr ""
 
 #. Text in echo
-#: page-servicios.php:266
+#: page-servicios.php:297
 msgid "¿Necesitas Información?"
 msgstr ""
 
