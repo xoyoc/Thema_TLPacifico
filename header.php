@@ -49,7 +49,7 @@
         <header class="navbar-fixed-top s-header js__header-sticky js__header-overlay">
             <!-- Navbar -->
             <div class="s-header__navbar">
-                <p class="textoBlanco textoDer idioma">Español/Inglés</p>
+                <p class="textoBlanco textoDer idioma"><?php pll_the_languages(); ?></p>
                 <div class="s-header__container">
                     <div class="s-header__navbar-row">
                         <div class="s-header__navbar-row-col">
