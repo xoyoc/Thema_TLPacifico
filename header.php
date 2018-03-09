@@ -93,7 +93,7 @@
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/alianzas-y-asociados"><?php _e('Alianzas y Asociados', 'tlpacifico' ); ?></a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/cotizaciones"><?php _e('Cotizaciones', 'tlpacifico' ); ?></a></li>
                             <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/oficinas"><?php _e('Oficinas', 'tlpacifico' ); ?></a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/contacto"><?php _e('Quiénes Somos', 'tlpacifico' ); ?> Contacto</a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/contacto"><?php _e('Contacto', 'tlpacifico' ); ?></a></li>
                          </ul>
 						</nav>
                     </div>
