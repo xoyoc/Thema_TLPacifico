@@ -114,6 +114,19 @@
 	width: 10em;
 }
 
+.cambioIdioma{
+	color:white;
+}
+
+.cambioIdioma:hover{
+	color:white;
+	font-weight: bold;
+}
+
+.opActiva{
+	border-bottom: 1px solid red;
+}
+
 .g-color--red{
 	color:#F01931 !important;
 }
