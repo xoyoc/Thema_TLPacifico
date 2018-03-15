@@ -144,7 +144,7 @@
                 </ul>
 
                 <div class="g-text-center--xs">
-                    <a href="#js__scroll-to-appointment" class="text-uppercase s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-40--xs g-color--red"><?php _e( 'Contáctanos', 'tlpacifico' ); ?></a>
+                    <a href="/en/contact-us" class="text-uppercase s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-40--xs g-color--red"><?php _e( 'Contáctanos', 'tlpacifico' ); ?></a>
                 </div>
             </div>
         </div>
