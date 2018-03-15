@@ -46,15 +46,17 @@
         <header class="navbar-fixed-top s-header js__header-sticky js__header-overlay">
             <!-- Navbar -->
             <div class="s-header__navbar">
-                <p class="textoBlanco textoDer idioma">Español/Inglés</p>
+                <p class="textoBlanco textoDer idioma">
+                    <a class="cambioIdioma opActiva" href="/inicio">Español</a>/<a class="cambioIdioma" href="/en/home">Inglés</a>
+                </p>
                 <div class="s-header__container">
                     <div class="s-header__navbar-row">
                         <div class="s-header__navbar-row-col">
                             <!-- Logo -->
                             <div class="s-header__logo">
                                 <a href="<?php echo home_url(); ?>" class="s-header__logo-link">
-                                    <img class="s-header__logo-img s-header__logo-img-default" src="<?php echo get_template_directory_uri(); ?>/img/logo.png" alt="Logotipo de Tl Pacific">
-                                    <img class="s-header__logo-img s-header__logo-img-shrink" src="<?php echo get_template_directory_uri(); ?>/img/logo-dark.png" alt="Logotipo de Tl Pacific">
+                                    <img class="img-responsive s-header__logo-img s-header__logo-img-default" src="<?php echo get_template_directory_uri(); ?>/img/logo.png" alt="Logotipo de Tl Pacific">
+                                    <img class="img-responsive s-header__logo-img s-header__logo-img-shrink" src="<?php echo get_template_directory_uri(); ?>/img/logo-dark.png" alt="Logotipo de Tl Pacific">
                                 </a>
                             </div>
                             <!-- End Logo -->
@@ -99,8 +101,8 @@
                 
                 <!-- Action -->
                 <ul class="list-inline s-header__action s-header__action--lb">
-                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="#">Español</a></li>
-                    <li class="s-header__action-item"><a class="s-header__action-link" href="#">Ingles</a></li>
+                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="/inicio">Español</a></li>
+                    <li class="s-header__action-item"><a class="s-header__action-link" href="/en/home">Ingles</a></li>
                 </ul>
                 <!-- End Action -->
 
@@ -117,5 +119,3 @@
             <!-- End Overlay -->
         </header>
         <!--========== FIN DE ENCABEZADO ==========-->
-
-

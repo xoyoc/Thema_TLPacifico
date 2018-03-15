@@ -47,7 +47,7 @@
             <!-- Navbar -->
             <div class="s-header__navbar">
                 <p class="textoBlanco textoDer idioma">
-                    <a class="cambioIdioma" href="/inicio">Español</a>/<a class="cambioIdioma opActiva" href="/home">Inglés</a>
+                    <a class="cambioIdioma" href="/inicio">Español</a>/<a class="cambioIdioma opActiva" href="/en/home">Inglés</a>
                 </p>
                 <div class="s-header__container">
                     <div class="s-header__navbar-row">
@@ -102,7 +102,7 @@
                 <!-- Action -->
                 <ul class="list-inline s-header__action s-header__action--lb">
                     <li class="s-header__action-item"><a class="s-header__action-link" href="/inicio">Español</a></li>
-                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="/home">Ingles</a></li>
+                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="/en/home">Ingles</a></li>
                 </ul>
                 <!-- End Action -->
 
