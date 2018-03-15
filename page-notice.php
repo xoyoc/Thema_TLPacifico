@@ -1,4 +1,4 @@
-<?php get_header('aviso'); ?>
+<?php get_header('notice'); ?>
 
 	<main role="main">
 
@@ -91,4 +91,4 @@
         </div>
         <!--========== END PAGE CONTENT ==========-->
 	</main>
-<?php get_footer(); ?>
+<?php get_footer('home'); ?>

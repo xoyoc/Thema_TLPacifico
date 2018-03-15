@@ -1,4 +1,4 @@
-<?php get_header('oficinas'); ?>
+<?php get_header('offices'); ?>
 
 	<main role="main">
 
@@ -45,8 +45,7 @@
                 </div>
             </div>
             <div class="row g-margin-b-50--xs">
-                <div class="col-md-4">
-                    <img class="g-margin-b-20--xs" src="<?php echo get_template_directory_uri(); ?>/img/logos/TFServiciosAduanales.png" alt="Logotipos">
+                <div class="col-md-4" style="padding-top:  6em;">
                     <h5 class="g-font-size-16--xs g-font-weight--700 g-color--red g-letter-spacing--2">Laredo, Texas A T&F Service Company Inc</h5>
                     <p class="g-margin-b-0--xs g-font-weight--700">12013 General MIlton Drive Killam Industrial Park 78045 Tel. (956) 726 1400</p>
                 </div>
@@ -55,8 +54,7 @@
                     <h5 class="g-font-size-16--xs g-font-weight--700 g-color--red g-letter-spacing--2">Nuevo Laredo, Tamaulipas TF Servicios Aduanales, S. C.</h5>
                     <p class="g-margin-b-0--xs g-font-weight--700">Canales 3423, Sector Centro Nuevo Laredo, Tamaulipas. C. P. 88000 Tel. (867) 712 7666</p>
                 </div>
-                <div class="col-md-4">
-                    <img class="g-margin-b-20--xs" src="<?php echo get_template_directory_uri(); ?>/img/logos/TFServiciosAduanales.png" alt="Logotipos">
+                <div class="col-md-4" style="padding-top:  6em;">
                     <h5 class="g-font-size-16--xs g-font-weight--700 g-color--red g-letter-spacing--2">Ciudad de México</h5>
                     <p class="g-margin-b-0--xs g-font-weight--700">Plutarco Elias Calles No 62 Edificio 6B 20 , Col. Progresista, Iztapalapa, Ciudad de México. C. P. 09240 Tel: (55) 5612 8423</p>
                 </div>
@@ -67,4 +65,4 @@
         <!--========== END PAGE CONTENT ==========-->
 	</main>
 
-<?php get_footer(); ?>
+<?php get_footer('home'); ?>

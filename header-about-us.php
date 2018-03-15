@@ -17,6 +17,7 @@
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i|Montserrat:400,700" rel="stylesheet">
 
         <!-- Vendor Styles -->
+
         <link href="<?php echo get_template_directory_uri(); ?>/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo get_template_directory_uri(); ?>/css/animate.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo get_template_directory_uri(); ?>/vendor/themify/themify.css" rel="stylesheet" type="text/css"/>
@@ -47,7 +48,7 @@
             <!-- Navbar -->
             <div class="s-header__navbar">
                 <p class="textoBlanco textoDer idioma">
-                    <a class="cambioIdioma opActiva" href="/inicio">Español</a>/<a class="cambioIdioma" href="/home">Inglés</a>
+                    <a class="cambioIdioma" href="/inicio">Español</a>/<a class="cambioIdioma opActiva" href="/home">Inglés</a>
                 </p>
                 <div class="s-header__container">
                     <div class="s-header__navbar-row">
@@ -86,13 +87,13 @@
                         <!-- nav -->
                         <nav class="nav" role="navigation">
                          <ul class="list-unstyled s-header__nav-menu">
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/inicio"><?php _e('Inicio', 'tlpacifico' ); ?> </a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/quienes-somos"><?php _e('Quiénes Somos', 'tlpacifico' ); ?></a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/servicios"><?php _e('Servicios', 'tlpacifico' ); ?></a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider -is-active" href="/alianzas-y-asociados"><?php _e('Alianzas y Asociados', 'tlpacifico' ); ?></a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/cotizaciones"><?php _e('Cotizaciones', 'tlpacifico' ); ?></a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/oficinas"><?php _e('Oficinas', 'tlpacifico' ); ?></a></li>
-                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/contacto"><?php _e('Contacto', 'tlpacifico' ); ?></a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/en/home"><?php _e('Inicio', 'tlpacifico' ); ?> </a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider -is-active" href="/en/about-us"><?php _e('Quiénes Somos', 'tlpacifico' ); ?></a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/en/services"><?php _e('Servicios', 'tlpacifico' ); ?></a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/en/alliances-associates"><?php _e('Alianzas y Asociados', 'tlpacifico' ); ?></a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/en/request-a-quote"><?php _e('Cotizaciones', 'tlpacifico' ); ?></a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/en/offices"><?php _e('Oficinas', 'tlpacifico' ); ?></a></li>
+                            <li class="s-header__nav-menu-item"><a class="s-header__nav-menu-link s-header__nav-menu-link-divider" href="/en/contact-us"><?php _e('Contacto', 'tlpacifico' ); ?></a></li>
                          </ul>
                         </nav>
                     </div>
@@ -101,8 +102,8 @@
                 
                 <!-- Action -->
                 <ul class="list-inline s-header__action s-header__action--lb">
-                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="/inicio">Español</a></li>
-                    <li class="s-header__action-item"><a class="s-header__action-link" href="/home">Ingles</a></li>
+                    <li class="s-header__action-item"><a class="s-header__action-link" href="/inicio">Español</a></li>
+                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="/home">Ingles</a></li>
                 </ul>
                 <!-- End Action -->
 
@@ -119,3 +120,5 @@
             <!-- End Overlay -->
         </header>
         <!--========== FIN DE ENCABEZADO ==========-->
+
+

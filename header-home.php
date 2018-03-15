@@ -104,8 +104,8 @@
                 
                 <!-- Action -->
                 <ul class="list-inline s-header__action s-header__action--lb">
-                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="/inicio">Español</a></li>
-                    <li class="s-header__action-item"><a class="s-header__action-link" href="/home">Ingles</a></li>
+                    <li class="s-header__action-item"><a class="s-header__action-link" href="/inicio">Español</a></li>
+                    <li class="s-header__action-item"><a class="s-header__action-link -is-active" href="/home">Ingles</a></li>
                 </ul>
                 <!-- End Action -->
 

@@ -1,4 +1,4 @@
-<?php get_header('servicios'); ?>
+<?php get_header('services'); ?>
 
 	<main role="main">
 
@@ -313,4 +313,4 @@
 
     </main>
 
-<?php get_footer(); ?>
+<?php get_footer('home'); ?>

@@ -1,10 +1,8 @@
-<?php get_header(); ?>
+<?php get_header('aviso'); ?>
 
-	<main role="main">
+	<main role="main g-position--relative">
 		<!-- section -->
-		<section>
-
-			<h1><?php _e( 'Categories for ', 'html5blank' ); single_cat_title(); ?></h1>
+		<section class="g-container--md g-padding-y-150--xs g-margin-t-60--xs">
 
 			<?php get_template_part('loop'); ?>
 
@@ -14,6 +12,5 @@
 		<!-- /section -->
 	</main>
 
-<?php get_sidebar(); ?>
 
 <?php get_footer(); ?>

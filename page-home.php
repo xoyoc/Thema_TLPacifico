@@ -175,36 +175,35 @@
                 <h2 class="g-font-size-32--xs g-font-size-36--md"><?php _e( 'Noticias', 'tlpacifico' ); ?></h2>
             </div>
             <div class="row">
+                <?php $args=array(
+                        'post_type' => 'post',
+                        'posts_per_page' => 2,
+                        'orderby' => 'date_create()',
+                        'order' => 'DESC',
+                        'category_name' => 'noticias'
+                    );
+                    $noticias = new WP_Query($args);
+                    while($noticias->have_posts()): $noticias->the_post();
+                ?>
                 <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
                     <!-- Noticias -->
                     <article>
-                        <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/img/Noticia-Foto-Puerto.jpg" alt="Image">
+                        <?php the_post_thumbnail('custom-size', array( 'class' => 'g-height-100-percent--xs img-responsive' )); ?>
                         <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
                             <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--red g-letter-spacing--2">Noticias</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="#">Aquí va el título de la noticia.</a></h3>
-                            <p>Breve descripción de la noticia.</p>
+                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+                            <p><?php the_excerpt(); ?></p>
                         </div>
                     </article>
                     <!-- End Noticias -->
                 </div>
-                <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
-                    <!-- Noticias -->
-                    <article>
-                        <img class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/img/Noticia-Foto-Puerto.jpg" alt="Image">
-                        <div class="g-bg-color--white g-box-shadow__dark-lightest-v2 g-text-center--xs g-padding-x-40--xs g-padding-y-40--xs">
-                            <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--red g-letter-spacing--2">Noticias</p>
-                            <h3 class="g-font-size-22--xs g-letter-spacing--1"><a href="#">Aquí va el título de la noticia.</a></h3>
-                            <p>Breve descripción de la noticia.</p>
-                        </div>
-                    </article>
-                    <!-- End Noticias -->
-                </div>
+                <?php endwhile; wp_reset_query(); ?>
             </div>
-            <a href="#" class="text-uppercase s-btn s-btn--md s-btn--red-brd g-radius--50">
+            <a href="/category/noticias/" class="text-uppercase s-btn s-btn--md s-btn--red-brd g-radius--50">
                 <?php _e('VER MÁS NOTICIAS','tlpacifico'); ?>
             </a>
         </div>        
         <!-- Fin Noticias -->
 	</main>
 
-<?php get_footer(); ?>
+<?php get_footer('home'); ?>

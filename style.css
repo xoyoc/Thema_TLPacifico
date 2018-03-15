@@ -118,6 +118,10 @@
 	color:white;
 }
 
+.s-header__shrink .s-header__navbar>p>a{
+	color:black;
+}
+
 .cambioIdioma:hover{
 	color:white;
 	font-weight: bold;
@@ -364,6 +368,12 @@
 
 .footerLogo{
 	width: 40%;
+}
+
+.contener-post {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 4px;
 }
 
 #HapagLloyd{

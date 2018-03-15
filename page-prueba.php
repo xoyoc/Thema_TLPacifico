@@ -6,7 +6,7 @@
 // Exit if accessed directly
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );?>
  
-<?php get_header('cotizaciones');?>
+<?php get_header();?>
 
 <div class="js__parallax-window" style="background: url(<?php echo get_template_directory_uri(); ?>/img/Cotizaciones-Slider.jpg) 50% 0 no-repeat fixed;">
     <div class="g-container--md g-text-center--xs g-padding-y-20--xs">
@@ -77,7 +77,7 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );?>
                   //Si no hay errores enviamos el formulario
                   if (count($reg_errors->get_error_messages()) == 0) {
                     //Destinatario
-                    $recipient = "pricing@tlpacifico.com.mx";
+                    $recipient = "sistemas@aaalac.mx";
    
                     //Asunto del email
                     $subject = 'Formulario de cotizaciones ' . get_bloginfo( 'name' );
@@ -232,7 +232,7 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );?>
                     </div>
                 </div>
                 <div class="row g-margin-b-50--xs">
-                    <input type="checkbox" name="acepta" id="acepta" required aria-required="true"> <?php _e( 'Acepto', 'tlpacifico' ); ?> <a href="aviso.html"><?php _e( 'aviso de privacidad', 'tlpacifico' ); ?></a>
+                    <input type="checkbox" name="acepta" id="acepta"> <?php _e( 'Acepto', 'tlpacifico' ); ?> <a href="aviso.html"><?php _e( 'aviso de privacidad', 'tlpacifico' ); ?></a>
                 </div>
                 <button type="submit" id="btn-submit" name="btn-submit" class="text-uppercase s-btn s-btn--md botonRojo g-radius--50 g-padding-x-70--xs g-margin-b-20--xs"><?php _e( 'Enviar', 'tlpacifico' ); ?></button>
               </form>
@@ -283,4 +283,4 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );?>
      });                         
 </script>
 
-<?php get_footer('cotizaciones');?>
+<?php get_footer();?>

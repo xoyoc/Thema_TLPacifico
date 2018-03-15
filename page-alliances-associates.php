@@ -1,4 +1,4 @@
-<?php get_header('alianzas-y-asociados'); ?>
+<?php get_header('alliances-associates'); ?>
 
 	<main role="main">
         <!--========== PROMO BLOCK ==========-->
@@ -100,4 +100,4 @@
 
 	</main>
 
-<?php get_footer(); ?>
+<?php get_footer('home'); ?>

@@ -1,4 +1,4 @@
-<?php get_header('quienes-somos'); ?>
+<?php get_header('about-us'); ?>
 
 	<main role="main">
 
@@ -199,4 +199,4 @@
 
 	</main>
 
-<?php get_footer('quienes-somos'); ?>
+<?php get_footer('about-us'); ?>

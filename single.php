@@ -1,18 +1,22 @@
-<?php get_header(); ?>
+<?php get_header('aviso'); ?>
 
-	<main role="main">
+	<main role="main g-position--relative">
 	<!-- section -->
-	<section>
+	<section class="g-container--md g-padding-y-100--xs">
 
 	<?php if (have_posts()): while (have_posts()) : the_post(); ?>
 
 		<!-- article -->
 		<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
+            <div class="g-text-center--xs g-margin-t-80--xs g-margin-b-10--xs">
+                <p class="text-uppercase g-color--red g-font-weight--700 g-letter-spacing--2 g-padding-y-50--xs"><?php the_title(); ?></p>
+            </div>
+
 			<!-- post thumbnail -->
 			<?php if ( has_post_thumbnail()) : // Check if Thumbnail exists ?>
 				<a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
-					<?php the_post_thumbnail(); // Fullsize image for the single post ?>
+					<?php the_post_thumbnail('custom-size', array( 'class' => 'g-height-100-percent--xs img-responsive' )); // Fullsize image for the single post ?>
 				</a>
 			<?php endif; ?>
 			<!-- /post thumbnail -->
@@ -61,7 +65,5 @@
 	</section>
 	<!-- /section -->
 	</main>
-
-<?php get_sidebar(); ?>
 
 <?php get_footer(); ?>

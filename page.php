@@ -1,8 +1,8 @@
-<?php get_header(); ?>
+<?php get_header('aviso'); ?>
 
-	<main role="main">
+	<main role="main g-position--relative">
 		<!-- section -->
-		<section>
+		<section class="g-container--md g-padding-y-100--xs">
 
 			<h1><?php the_title(); ?></h1>
 
@@ -39,7 +39,5 @@
 		</section>
 		<!-- /section -->
 	</main>
-
-<?php get_sidebar(); ?>
 
 <?php get_footer(); ?>
