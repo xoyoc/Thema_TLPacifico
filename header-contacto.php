@@ -18,12 +18,8 @@
 
         <!-- Vendor Styles -->
         <link href="<?php echo get_template_directory_uri(); ?>/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo get_template_directory_uri(); ?>/css/animate.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo get_template_directory_uri(); ?>/vendor/themify/themify.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo get_template_directory_uri(); ?>/vendor/scrollbar/scrollbar.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo get_template_directory_uri(); ?>/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo get_template_directory_uri(); ?>/vendor/swiper/swiper.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo get_template_directory_uri(); ?>/vendor/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css"/>
 
         <!-- Theme Styles  -->
         <link href="<?php echo get_template_directory_uri(); ?>/css/style.css" rel="stylesheet" type="text/css"/>

@@ -74,7 +74,7 @@
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/jquery.smooth-scroll.min.js"></script>
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/jquery.back-to-top.min.js"></script>
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/vendor/scrollbar/jquery.scrollbar.min.js"></script>
-         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsXUGTFS09pLVdsYEE9YrO2y4IAncAO2U"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsXUGTFS09pLVdsYEE9YrO2y4IAncAO2U"></script>
 
         <!-- General Components and Settings -->
         <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/global.min.js"></script>
